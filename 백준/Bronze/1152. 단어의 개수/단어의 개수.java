@@ -1,13 +1,24 @@
-import java.util.Scanner;
-import java.util.StringTokenizer;
+import java.io.IOException;
 
 public class Main{
-    public static void main(String[] args) {
-        Scanner sc = new Scanner(System.in);
-        String s = sc.nextLine();
+    public static void main(String[] args) throws IOException {
+        int count = 0;
+        int pre_str = ' ';
+        int str = 0;
 
-        StringTokenizer st = new StringTokenizer(s, " ");
+        while(true){
+            str = System.in.read();
 
-        System.out.println(st.countTokens());
+            if(str == ' '){
+                if(pre_str != ' ') count++;
+            } else if (str == '\n') {
+                if(pre_str != ' ') count++;
+                break;
+            }
+
+            pre_str = str;
+        }
+
+        System.out.println(count);
     }
 }
