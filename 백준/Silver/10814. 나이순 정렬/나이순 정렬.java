@@ -18,15 +18,14 @@ public class Main {
             st = new StringTokenizer(br.readLine());
             memberList[i][0] = st.nextToken();
             memberList[i][1] = st.nextToken();
-            memberList[i][2] = String.valueOf(i);
         }
 
+        br.close();
+
         Arrays.sort(memberList, (s1, s2) -> {
-            if (Objects.equals(s1[0], s2[0])) {
-                return Integer.parseInt(s1[2]) - Integer.parseInt(s2[2]);
-            } else {
-                return Integer.parseInt(s1[0]) - Integer.parseInt(s2[0]);
-            }
+
+            return Integer.parseInt(s1[0]) - Integer.parseInt(s2[0]);
+
         });
 
         StringBuilder sb = new StringBuilder();
