@@ -2,6 +2,7 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.Comparator;
 import java.util.List;
 
@@ -11,15 +12,24 @@ public class Main {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 
         int N = Integer.parseInt(br.readLine());
-        List<String> words = new ArrayList<>();
+        String[] words = new String[N];
 
         for (int i = 0; i < N; i++) {
-            words.add(br.readLine());
+            words[i] = br.readLine();
         }
 
         br.close();
 
-        words.sort(Comparator.comparingInt(String::length).thenComparing(Comparator.naturalOrder()));
+        Arrays.sort(words, (s1, s2) -> {
+
+            if (s1.length() == s2.length()) {
+                
+                return s1.compareTo(s2);
+            } else {
+                
+                return s1.length() - s2.length();
+            }
+        });
 
         StringBuilder sb = new StringBuilder();
         String prevWord = "";
@@ -31,6 +41,6 @@ public class Main {
             }
         }
 
-        System.out.print(sb.toString());
+        System.out.print(sb);
     }
 }
