@@ -7,26 +7,31 @@ public class Main {
 
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-        char[] str = br.readLine().toCharArray();
-
+        String s = br.readLine();
         int N = Integer.parseInt(br.readLine());
+
+        int[][] alpha = new int[s.length() + 1][26];
+        for (int i = 1; i <= s.length(); i++) {
+
+            int search = s.charAt(i - 1) - 'a';
+
+            for (int j = 0; j < 26; j++) {
+
+                int before = alpha[i - 1][j];
+                alpha[i][j] = (j == search ? before + 1 : before);
+            }
+        }
 
         StringBuilder sb = new StringBuilder();
         while (N-- > 0) {
+
             StringTokenizer st = new StringTokenizer(br.readLine());
 
-            char a = st.nextToken().charAt(0);
-            int start = Integer.parseInt(st.nextToken());
-            int end = Integer.parseInt(st.nextToken());
+            int find = st.nextToken().charAt(0) - 'a';
+            int start = Integer.parseInt(st.nextToken()) + 1;
+            int end = Integer.parseInt(st.nextToken()) + 1;
 
-            int count = 0;
-            for (int i = start; i <= end; i++) {
-                if (str[i] == a) {
-                    count++;
-                }
-            }
-
-            sb.append(count).append("\n");
+            sb.append(alpha[end][find] - alpha[start - 1][find]).append("\n");
         }
 
         br.close();
