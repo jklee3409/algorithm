@@ -9,14 +9,9 @@ class Solution {
         while (idx < s.length()) {
             if (s.charAt(idx) == '(') stack.push('(');
             else {
-                char cur = ' ';
-                if (!stack.isEmpty()){
-                    cur = stack.pop();
-                } else {
-                    return false;
-                }
+                if(stack.isEmpty()) return false;
                 
-                if (cur != '(') return false;
+                if (stack.pop() != '(') return false;
             }
             
             idx++;
