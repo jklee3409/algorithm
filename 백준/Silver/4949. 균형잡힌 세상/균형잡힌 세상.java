@@ -1,8 +1,5 @@
-import java.io.BufferedReader;
-import java.io.IOException;
-import java.io.InputStreamReader;
-import java.util.Objects;
-import java.util.Stack;
+import java.io.*;
+import java.util.*;
 
 public class Main {
     public static void main(String[] args) throws IOException {
@@ -11,40 +8,33 @@ public class Main {
 
         while (true) {
             String s = br.readLine();
-            if (Objects.equals(s, ".")) {
+            if (".".equals(s)) {
                 break;
             }
 
-            if (is_VPS(s)) {
-                sb.append("yes").append("\n");
-            } else {
-                sb.append("no").append("\n");
-            }
+            sb.append(isValidParentheses(s) ? "yes" : "no").append("\n");
         }
 
-        br.close();
         System.out.println(sb);
     }
 
-    public static boolean is_VPS(String s) {
-        boolean check;
+    public static boolean isValidParentheses(String s) {
         Stack<Character> stack = new Stack<>();
 
-        for (int i = 0; i < s.length(); i++) {
-            char now = s.charAt(i);
-            if (now == '(' || now == '[') {
-                stack.push(now);
-            } else if((!stack.isEmpty() && now == ')' && stack.peek() == '(') || (!stack.isEmpty() && now == ']' && stack.peek() == '[')){
-                stack.pop();
-            } else {
-                if(now == ')' || now == ']'){
+        for (char c : s.toCharArray()) {
+            if (c == '(' || c == '[') {
+                stack.push(c);
+            } else if (c == ')' || c == ']') {
+                if (stack.isEmpty() || !isMatchingPair(stack.pop(), c)) {
                     return false;
                 }
             }
         }
 
-        check = stack.isEmpty();
+        return stack.isEmpty();
+    }
 
-        return check;
+    private static boolean isMatchingPair(char open, char close) {
+        return (open == '(' && close == ')') || (open == '[' && close == ']');
     }
 }
