@@ -1,57 +1,42 @@
-import java.io.BufferedReader;
-import java.io.IOException;
-import java.io.InputStreamReader;
+import java.util.Scanner;
 
 public class Main {
+    public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in);
+        int N = scanner.nextInt();
+        scanner.close();
 
-    static char[][] arr;
-
-    public static void main(String[] args) throws IOException {
-        BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-        int N = Integer.parseInt(br.readLine());
-
-        arr = new char[N][N];
-
-        for (int i = 0; i < N; i++) {
-            for (int j = 0; j < N; j++) {
-                arr[i][j] = '*';
-            }
-        }
-
-        star(0, 0, N);
-
-        br.close();
+        String[] result = star(N);
 
         StringBuilder sb = new StringBuilder();
-        for (int i = 0; i < N; i++) {
-            for (int j = 0; j < N; j++) {
-                sb.append(arr[i][j]);
-            }
-            sb.append("\n");
+        for (String line : result) {
+            sb.append(line).append("\n");
         }
 
-        System.out.println(sb);
+        System.out.print(sb);
     }
 
-    public static void star(int x, int y, int n) {
-        if (n == 1) {
-            return;
+    private static String[] star(int k) {
+        if (k == 3) {
+            return new String[]{"***", "* *", "***"};
         }
 
-        int div = n / 3;
+        String[] arr = star(k / 3);
+        String[] stars = new String[k];
+        int index = 0;
 
-        for (int i = x + div; i < x + 2 * div; i++) {
-            for (int j = y + div; j < y + 2 * div; j++) {
-                arr[i][j] = ' ';
-            }
+        for (String s : arr) {
+            stars[index++] = s + s + s;
         }
 
-        for (int i = 0; i < 3; i++) {
-            for (int j = 0; j < 3; j++) {
-                if (i != 1 || j != 1) {
-                    star(x + i * div, y + j * div, div);
-                }
-            }
+        for (String s : arr) {
+            stars[index++] = s + " ".repeat(k / 3) + s;
         }
+
+        for (String s : arr) {
+            stars[index++] = s + s + s;
+        }
+
+        return stars;
     }
 }
