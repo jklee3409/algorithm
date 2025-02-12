@@ -16,40 +16,38 @@ public class Main {
 
         int size = (int) Math.pow(2, N);
 
-        solution(size, r, c);
-
-        System.out.println(answer);
+        System.out.println(solution(size, r, c));
     }
 
-    private static void solution(int size, int r, int c) {
-        // 기저 조건
-        if (size == 1) {
-            return;
+    private static int solution(int size, int r, int c) {
+        int index = 0;
+
+        while (size > 1) {
+            size /= 2; // 현재 부분 배열 크기
+
+            // 1사분면 
+            if (r < size && c < size) {}
+
+            // 2사분면 
+            else if (r < size && c >= size) {
+                index += size * size;
+                c -= size; 
+            }
+
+            // 3사분면 
+            else if (r >= size && c < size) {
+                index += 2 * size * size;
+                r -= size; 
+            }
+
+            // 4사분면 
+            else {
+                index += 3 * size * size;
+                r -= size;
+                c -= size;
+            }
         }
 
-        int newSize = size / 2;
-
-        // 1사분면
-        if (r < newSize && c < newSize) {
-            solution(newSize, r, c);
-        }
-
-        // 2사분면
-        else if (r < newSize && c >= newSize) {
-            answer += (size * size) / 4;
-            solution(newSize, r, c - newSize);
-        }
-
-        // 3사분면
-        else if (r >= newSize && c < newSize) {
-            answer += (size * size / 4) * 2;
-            solution(newSize, r - newSize, c);
-        }
-
-        // 4사분면
-        else {
-            answer += (size * size / 4) * 3;
-            solution(newSize, r - newSize, c - newSize);
-        }
+        return index;
     }
 }
