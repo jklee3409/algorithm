@@ -1,37 +1,18 @@
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
-import java.util.ArrayList;
 import java.util.Arrays;
-import java.util.List;
 import java.util.PriorityQueue;
-import java.util.Queue;
 import java.util.StringTokenizer;
 
 
 public class Main {
     static int N;
     static int[][] cave;
-    static PriorityQueue<Node> pq = new PriorityQueue<>();
     static StringBuilder sb = new StringBuilder();
 
     static int[] dy = {-1, 1, 0, 0};
     static int[] dx = {0, 0, -1, 1};
-
-    static class Node implements Comparable<Node>{
-        int y, x, cost;
-
-        public Node(int y, int x, int cost) {
-            this.y = y;
-            this.x = x;
-            this.cost = cost;
-        }
-
-        @Override
-        public int compareTo(Node o) {
-            return this.cost - o.cost;
-        }
-    }
 
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
@@ -57,7 +38,23 @@ public class Main {
         System.out.println(sb);
     }
 
+    static class Node implements Comparable<Node>{
+        int y, x, cost;
+
+        public Node(int y, int x, int cost) {
+            this.y = y;
+            this.x = x;
+            this.cost = cost;
+        }
+
+        @Override
+        public int compareTo(Node o) {
+            return this.cost - o.cost;
+        }
+    }
+
     public static void dijkstra(int idx) {
+        PriorityQueue<Node> pq = new PriorityQueue<>();
         int[][] distance = new int[N][N];
         for (int i = 0; i < N; i++) Arrays.fill(distance[i], Integer.MAX_VALUE);
         distance[0][0] = cave[0][0];
