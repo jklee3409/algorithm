@@ -41,25 +41,16 @@ public class Main {
                 cleanRoomCnt++;
             }
 
-            // 2. 주변 4칸 중 청소되지 않은 빈 칸이 있는지 확인
-            boolean noCleanableSpace = true;
-            for (int i = 0; i < 4; i++) {
-                int ny = r + dy[i];
-                int nx = c + dx[i];
-                if (ny >= 0 && nx >= 0 && ny < N && nx < M && room[ny][nx] == 0 && !clean[ny][nx]) {
-                    noCleanableSpace = false;
-                    break;
-                }
-            }
+            // 2. 주변 4칸 중 청소할 곳이 있는지 확인
 
             // 2-1. 청소할 곳이 없다면 후진 시도
-            if (noCleanableSpace) {
+            if (!hasUncleanSpace()) {
                 int backDir = (d + 2) % 4;
                 int ny = r + dy[backDir];
                 int nx = c + dx[backDir];
 
                 // 후진 가능하면 후진
-                if (ny >= 0 && nx >= 0 && ny < N && nx < M && room[ny][nx] == 0) {
+                if (isValidPosition(ny, nx)) {
                     r = ny;
                     c = nx;
                     continue;
@@ -69,18 +60,38 @@ public class Main {
             }
 
             // 3. 청소할 곳이 있다면 반시계 방향으로 회전 후 탐색
-            d = (d + 3) % 4; // 반시계 방향으로 90도 회전
+            for (int i = 0; i < 4; i++) {
+                d = (d + 3) % 4; // 반시계 방향으로 90도 회전
 
-            int ny = r + dy[d];
-            int nx = c + dx[d];
+                int ny = r + dy[d];
+                int nx = c + dx[d];
 
-            // 앞쪽 칸이 청소되지 않은 빈 칸이라면 전진
-            if (ny >= 0 && nx >= 0 && ny < N && nx < M && room[ny][nx] == 0 && !clean[ny][nx]) {
-                r = ny;
-                c = nx;
+                // 앞쪽 칸이 청소되지 않은 빈 칸이라면 전진
+                if (isValidPosition(ny, nx) && !clean[ny][nx]) {
+                    r = ny;
+                    c = nx;
+                    break; //전진 후 1번으로 되돌아감.
+                }
             }
         }
 
         System.out.println(cleanRoomCnt);
+    }
+
+    // 현재 위치에서 주변 4칸을 탐색하여 청소되지 않은 곳이 있는지 파악
+    static boolean hasUncleanSpace() {
+        for (int i = 0; i < 4; i++) {
+            int ny = r + dy[i];
+            int nx = c + dx[i];
+            if (isValidPosition(ny, nx) && !clean[ny][nx]) {
+                return true;
+            }
+        }
+
+        return false;
+    }
+
+    static boolean isValidPosition(int ny, int nx) {
+        return ny >= 0 && nx >= 0 && ny < N && nx < M  && room[ny][nx] == 0;
     }
 }
