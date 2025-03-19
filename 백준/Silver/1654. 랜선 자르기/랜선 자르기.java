@@ -1,12 +1,9 @@
-import java.io.BufferedReader;
-import java.io.IOException;
-import java.io.InputStreamReader;
-import java.util.Arrays;
-import java.util.StringTokenizer;
+import java.io.*;
+import java.util.*;
 
 public class Main {
-    static int N, K;
-    static int[] arr;
+    static int K, N;
+    static int[] lan;
 
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
@@ -14,36 +11,33 @@ public class Main {
 
         K = Integer.parseInt(st.nextToken());
         N = Integer.parseInt(st.nextToken());
-        arr = new int[K];
+        lan = new int[K];
 
-        long max = 0;
+        int maxLen = 0;
         for (int i = 0; i < K; i++) {
-            arr[i] = Integer.parseInt(br.readLine());
-            if (max < arr[i]) max = arr[i];
+            lan[i] = Integer.parseInt(br.readLine());
+            maxLen = Math.max(maxLen, lan[i]);
         }
 
-        System.out.println(solution(max));
-    }
+        long high = maxLen, low = 1;
+        long result = 0;
 
-    static long solution (long max) {
-        long min = 1, mid = 0, result = 0;
-
-        while (min <= max) {
-            long count = 0;
-            mid = (min + max) / 2;
+        while (low <= high) {
+            long mid = (low + high) / 2;
+            long cnt = 0;
 
             for (int i = 0; i < K; i++) {
-                count += arr[i] / mid;
+                cnt += lan[i] / mid;
             }
 
-            if (count < N) {
-                max = mid - 1;
-            } else {
+            if (cnt >= N) {
                 result = mid;
-                min = mid + 1;
+                low = mid + 1;
+            } else {
+                high = mid - 1;
             }
         }
 
-        return result;
+        System.out.println(result);
     }
 }
