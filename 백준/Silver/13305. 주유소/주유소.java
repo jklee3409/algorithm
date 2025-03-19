@@ -3,14 +3,14 @@ import java.util.*;
 
 public class Main {
     static int N;
-    static int[] price, distance;
+    static long[] price, distance;
 
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 
         N = Integer.parseInt(br.readLine());
-        distance = new int[N - 1];
-        price = new int[N];
+        distance = new long[N - 1];
+        price = new long[N];
 
         StringTokenizer st = new StringTokenizer(br.readLine());
         for (int i = 0; i < N - 1; i++) {
@@ -22,8 +22,9 @@ public class Main {
             price[i] = Integer.parseInt(st.nextToken());
         }
 
-        int result = 0, idx = 0;
-        int min = Integer.MAX_VALUE;
+        int idx = 0;
+        long result = 0;
+        long min = Integer.MAX_VALUE;
 
         while (idx < N - 1) {
 
