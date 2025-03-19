@@ -1,0 +1,43 @@
+import java.io.*;
+import java.util.*;
+
+public class Main {
+    static int N;
+    static int[] price, distance;
+
+    public static void main(String[] args) throws IOException {
+        BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+
+        N = Integer.parseInt(br.readLine());
+        distance = new int[N - 1];
+        price = new int[N];
+
+        StringTokenizer st = new StringTokenizer(br.readLine());
+        for (int i = 0; i < N - 1; i++) {
+            distance[i] = Integer.parseInt(st.nextToken());
+        }
+
+        st = new StringTokenizer(br.readLine());
+        for (int i = 0; i < N; i++) {
+            price[i] = Integer.parseInt(st.nextToken());
+        }
+
+        int result = 0, idx = 0;
+        int min = Integer.MAX_VALUE;
+
+        while (idx < N - 1) {
+
+            // 현재 가격이 더 저렴하면
+            if (price[idx] < min) {
+                min = price[idx]; // 최저값 갱신
+                result += price[idx] * distance[idx]; // 갱신된 최저값으로 주유
+                idx++;
+            } else {
+                result += min * distance[idx]; // 이전 최저값으로 주유
+                idx++;
+            }
+        }
+
+        System.out.println(result);
+    }
+}
