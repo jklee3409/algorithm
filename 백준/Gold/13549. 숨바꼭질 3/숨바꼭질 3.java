@@ -43,17 +43,18 @@ public class Main {
                 return;
             }
 
-            int[] dx = {p.x, -1, 1};
+            // 순간이동 먼저 처리
+            int teleport = p.x * 2;
+            if (teleport < 100001 && !visited[teleport]) {
+                queue.addFirst(new Point(teleport, p.t));
+                visited[teleport] = true;
+            }
 
-            for (int i = 0; i < 3; i++) {
-                int nx = p.x + dx[i];
-
-                if (nx < 0 || nx >= visited.length || visited[nx]) continue;
-
-                if (i == 0) queue.addFirst(new Point(nx, p.t)); // 순간 이동은 0초
-                else queue.offer(new Point(nx, p.t + 1));
-
-                visited[nx] = true;
+            // 걷기는 나중에 처리
+            for (int next : new int[]{p.x - 1, p.x + 1}) {
+                if (next < 0 || next >= 100001 || visited[next]) continue;
+                queue.addLast(new Point(next, p.t + 1));
+                visited[next] = true;
             }
         }
     }
