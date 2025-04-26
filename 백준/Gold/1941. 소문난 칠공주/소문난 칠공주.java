@@ -29,25 +29,27 @@ public class Main {
             }
         }
 
-        solution(0, 0);
+        solution(0, 0, 0);
         System.out.println(COUNT);
     }
 
-    public static void solution(int depth, int start) {
+    public static void solution(int depth, int start, int sCount) {
         if (depth == 7) {
-            if (getSCount() >= 4 && isConnected()) COUNT++;
+            if (sCount >= 4 && isConnected()) COUNT++;
             return;
         }
 
         for (int i = start; i < 25; i++) {
             int r = i / 5;
             int c = i % 5;
-
-            mark[r][c] = true;
             comb[depth] = new Point(r, c);
 
-            solution(depth + 1, i + 1);
+            mark[r][c] = true;
+            if (classRoom[r][c] == 'S') sCount++;
 
+            solution(depth + 1, i + 1, sCount);
+
+            if (classRoom[r][c] == 'S') sCount--;
             mark[r][c] = false;
         }
     }
@@ -80,18 +82,5 @@ public class Main {
         }
 
         return visitCount == 7;
-    }
-
-    public static int getSCount() {
-        int count = 0;
-
-        for (int i = 0; i < 7; i++) {
-            int r = comb[i].r;
-            int c = comb[i].c;
-
-            if (classRoom[r][c] == 'S') count++;
-        }
-
-        return count;
     }
 }
