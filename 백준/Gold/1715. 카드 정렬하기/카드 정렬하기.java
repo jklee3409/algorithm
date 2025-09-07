@@ -12,17 +12,13 @@ public class Main {
             pq.add(Integer.parseInt(br.readLine()));
         }
 
-        List<Integer> list = new ArrayList<>();
+        int result = 0;
         while (pq.size() > 1) {
             int sum = pq.poll() + pq.poll();
             pq.add(sum);
-            list.add(sum);
+            result += sum;
         }
 
-        int result = 0;
-        for (Integer i : list) {
-            result += i;
-        }
         System.out.println(result);
     }
 }
