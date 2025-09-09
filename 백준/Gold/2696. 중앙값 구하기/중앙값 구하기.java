@@ -42,10 +42,12 @@ public class Main {
         idx++;
         maxHeap.add(input);
 
+        // #1. maxHeap (최대 힙) 에는 minHEap (최소 힙) 보다 작은 값만 있어야 한다.
         if (!maxHeap.isEmpty() && !minHeap.isEmpty()) {
             if (maxHeap.peek() > minHeap.peek()) minHeap.add(maxHeap.poll());
         }
 
+        // #2. maxHeap 의 크기는 반드시 minHeap 과 같거나 하나 더 커야 한다.
         if (maxHeap.size() > minHeap.size() + 1) minHeap.add(maxHeap.poll());
         else if (maxHeap.size() < minHeap.size()) maxHeap.add(minHeap.poll());
 
