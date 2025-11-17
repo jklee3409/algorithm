@@ -38,8 +38,10 @@ public class Main {
     }
 
     static void dfs(int idx, int depth) {
+        if (result) return;
+        
         if (depth == 5) {
-            if (!result) result = true;
+            result = true;
             return;
         }
 
