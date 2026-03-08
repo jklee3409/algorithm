@@ -22,7 +22,7 @@ public class Main {
 
             int gate = find(p);
 
-            if (gate <= 0) break;
+            if (gate == 0) break;
 
             union(gate - 1, gate);
 
