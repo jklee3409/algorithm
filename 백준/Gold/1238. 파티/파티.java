@@ -5,6 +5,7 @@ public class Main {
 
     static int[] dist;
     static List<Edge>[] graph;
+    static List<Edge>[] reverseGraph;
 
     static class Edge {
         int to, cost;
@@ -38,8 +39,11 @@ public class Main {
         int X = Integer.parseInt(st.nextToken());
 
         graph = new ArrayList[N + 1];
+        reverseGraph = new ArrayList[N + 1];
+
         for (int i = 1; i <= N; i++) {
             graph[i] = new ArrayList<>();
+            reverseGraph[i] = new ArrayList<>();
         }
 
         for (int i = 0; i < M; i++) {
@@ -50,34 +54,24 @@ public class Main {
             int cost = Integer.parseInt(st.nextToken());
 
             graph[from].add(new Edge(to, cost));
+            reverseGraph[to].add(new Edge(from, cost));
         }
 
-        int max = Integer.MIN_VALUE;
+        int[] go = dijkstra(X, reverseGraph);
+        int[] back = dijkstra(X, graph);
 
+        int max = 0;
         for (int i = 1; i <= N; i++) {
-            int cost = 0;
-
-            dist = new int[N + 1];
-            Arrays.fill(dist, Integer.MAX_VALUE);
-
-            dijkstra(i);
-
-            cost += dist[X];
-
-            dist = new int[N + 1];
-            Arrays.fill(dist, Integer.MAX_VALUE);
-
-            dijkstra(X);
-
-            cost += dist[i];
-
-            max = Math.max(max, cost);
+            max = Math.max(max, go[i] + back[i]);
         }
 
         System.out.println(max);
     }
 
-    private static void dijkstra(int start) {
+    private static int[] dijkstra(int start, List<Edge>[] graph) {
+        dist = new int[graph.length];
+        Arrays.fill(dist, Integer.MAX_VALUE);
+
         PriorityQueue<State> pq = new PriorityQueue<>();
 
         pq.offer(new State(start, 0));
@@ -89,11 +83,14 @@ public class Main {
             if (dist[cur.node] < cur.dist) continue;
 
             for (Edge next : graph[cur.node]) {
+
                 if (dist[next.to] > dist[cur.node] + next.cost) {
                     dist[next.to] = dist[cur.node] + next.cost;
                     pq.offer(new State(next.to, dist[next.to]));
                 }
             }
         }
+
+        return dist;
     }
 }
