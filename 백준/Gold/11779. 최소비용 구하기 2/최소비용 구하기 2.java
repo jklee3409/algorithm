@@ -6,7 +6,6 @@ public class Main {
     static int[] dist;
     static int[] prev;
     static List<Edge>[] graph;
-    static Stack<Integer> stack = new Stack<>();
 
     static class Edge{
         int to, cost;
@@ -65,12 +64,13 @@ public class Main {
 
         dijkstra(start);
 
-        backtracking(start, destination);
+        List<Integer> path = getPath(start, destination);
 
-        sb.append(dist[destination]).append("\n").append(stack.size()).append("\n");
+        sb.append(dist[destination]).append("\n");
+        sb.append(path.size()).append("\n");
 
-        while (!stack.isEmpty()) {
-            sb.append(stack.pop()).append(" ");
+        for (int node : path) {
+            sb.append(node).append(" ");
         }
 
         System.out.println(sb);
@@ -98,14 +98,17 @@ public class Main {
         }
     }
 
-    private static void backtracking(int start, int destination) {
+    private static List<Integer> getPath(int start, int destination) {
+        List<Integer> path = new ArrayList<>();
         int cur = destination;
 
-        stack.push(cur);
-
         while (cur != start) {
-            stack.push(prev[cur]);
+            path.add(cur);
             cur = prev[cur];
         }
+        path.add(start);
+
+        Collections.reverse(path);
+        return path;
     }
 }
