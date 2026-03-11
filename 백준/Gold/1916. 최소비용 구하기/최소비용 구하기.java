@@ -26,7 +26,7 @@ public class Main {
 
         @Override
         public int compareTo(State o) {
-            return this.dist - o.dist;
+            return Integer.compare(this.dist, o.dist);
         }
     }
 
