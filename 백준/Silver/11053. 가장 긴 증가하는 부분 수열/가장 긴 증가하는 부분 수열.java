@@ -1,38 +1,46 @@
-import java.io.BufferedReader;
-import java.io.IOException;
-import java.io.InputStreamReader;
-import java.util.StringTokenizer;
+import java.io.*;
+import java.util.*;
 
 public class Main {
 
-    public static void main(String[] args) throws IOException {
+    public static void main(String[] args) throws Exception {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+        StringTokenizer st;
+
         int N = Integer.parseInt(br.readLine());
 
         int[] arr = new int[N];
-        int[] dp = new int[N];
 
-        StringTokenizer st = new StringTokenizer(br.readLine());
+        st = new StringTokenizer(br.readLine());
+
         for (int i = 0; i < N; i++) {
             arr[i] = Integer.parseInt(st.nextToken());
         }
 
+        int[] lis = new int[N];
+        int len = 0;
+
         for (int i = 0; i < N; i++) {
-            dp[i] = 1;
+            int pos = lowerBound(lis, 0, len, arr[i]);
+            lis[pos] = arr[i];
+            
+            if (pos == len) len++;
+        }
 
-            for (int j = 0; j < i; j++) {
+        System.out.println(len);
+    }
 
-                if (arr[j] < arr[i] && dp[i] < dp[j] + 1) {
-                    dp[i] = dp[j] + 1;
-                }
+    private static int lowerBound(int[] arr, int left, int right, int target) {
+        while (left < right) {
+            int mid = (left + right) / 2;
+
+            if (target <= arr[mid]) {
+                right = mid;
+            } else {
+                left = mid + 1;
             }
         }
 
-        int max = -1;
-        for (int i = 0; i < N; i++) {
-            max = Math.max(max, dp[i]);
-        }
-
-        System.out.println(max);
+        return left;
     }
 }
