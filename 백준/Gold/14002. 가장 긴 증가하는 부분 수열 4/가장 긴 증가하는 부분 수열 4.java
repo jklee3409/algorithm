@@ -22,8 +22,8 @@ public class Main {
 
         for (int i = 0; i < N; i++) {
 
-            path[i] = i;
             dp[i] = 1;
+            path[i] = i;
 
             for (int j = 0; j < i; j++) {
 
@@ -45,8 +45,8 @@ public class Main {
 
         sb.append(max).append("\n");
 
-        List<Integer> pathList = new ArrayList<>();
         int idx = maxIdx;
+        List<Integer> pathList = new ArrayList<>();
 
         while (true) {
             pathList.add(arr[idx]);
