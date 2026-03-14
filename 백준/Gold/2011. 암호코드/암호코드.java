@@ -5,11 +5,12 @@ public class Main {
 
     static int MILLION = 1000000;
 
-    public static void main(String[] args) throws Exception {
+    public static void main(String[] args) throws Exception{
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-        String input = br.readLine();
 
+        String input = br.readLine();
         int len = input.length();
+
         int[] arr = new int[len + 1];
         int[] dp = new int[len + 1];
 
@@ -33,7 +34,7 @@ public class Main {
                 dp[i] = (dp[i] + dp[i - 1]) % MILLION;
             }
 
-            if (two >= 10 && two <= 26) {
+            if (10 <= two && two <= 26) {
                 dp[i] = (dp[i] + dp[i - 2]) % MILLION;
             }
         }
