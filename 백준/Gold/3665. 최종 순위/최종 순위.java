@@ -62,9 +62,9 @@ public class Main {
                 if (indegree[i] == 0) q.offer(i);
             }
 
-            List<Integer> result = new ArrayList<>();
             boolean impossible = false;
             boolean uncertain = false;
+            List<Integer> result = new ArrayList<>();
 
             for (int i = 0; i < n; i++) {
                 if (q.isEmpty()) {
@@ -72,17 +72,16 @@ public class Main {
                     break;
                 }
 
-                if (q.size() > 1) { // 사이클이 생길 수도 있으므로 (impossible) break X
+                if (q.size() > 1) {
                     uncertain = true;
                 }
 
-                int cur = q.poll();
+                Integer cur = q.poll();
                 result.add(cur);
 
                 for (int next = 1; next <= n; next++) {
-                    
                     if (graph[cur][next]) {
-                        
+
                         if (--indegree[next] == 0) {
                             q.offer(next);
                         }
