@@ -3,10 +3,11 @@ import java.util.*;
 
 public class Main {
 
+    static int N, M, K;
     static long[] dist;
     static List<Edge>[] reverseGraph;
 
-    static class Edge {
+    static class Edge{
         int to, cost;
 
         public Edge(int to, int cost) {
@@ -19,7 +20,7 @@ public class Main {
         int node;
         long dist;
 
-        public State(int node, long dist) {
+        public State (int node, long dist) {
             this.node = node;
             this.dist = dist;
         }
@@ -34,11 +35,9 @@ public class Main {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         StringTokenizer st = new StringTokenizer(br.readLine());
 
-        int N = Integer.parseInt(st.nextToken());
-        int M = Integer.parseInt(st.nextToken());
-        int K = Integer.parseInt(st.nextToken());
-
-        List<Integer> startList = new ArrayList<>();
+        N = Integer.parseInt(st.nextToken());
+        M = Integer.parseInt(st.nextToken());
+        K = Integer.parseInt(st.nextToken());
 
         dist = new long[N + 1];
         Arrays.fill(dist, Long.MAX_VALUE);
@@ -58,6 +57,8 @@ public class Main {
             reverseGraph[to].add(new Edge(from, cost));
         }
 
+        List<Integer> startList = new ArrayList<>();
+
         st = new StringTokenizer(br.readLine());
 
         for (int i = 0; i < K; i++) {
@@ -66,16 +67,17 @@ public class Main {
 
         dijkstra(startList);
 
-        long maxDist = 0, maxNode = 0;
+        int maxIdx = 0;
+        long maxDist = 0;
 
         for (int i = 1; i <= N; i++) {
             if (maxDist < dist[i]) {
                 maxDist = dist[i];
-                maxNode = i;
+                maxIdx = i;
             }
         }
 
-        System.out.println(maxNode);
+        System.out.println(maxIdx);
         System.out.println(maxDist);
     }
 
@@ -90,9 +92,7 @@ public class Main {
         while (!pq.isEmpty()) {
             State cur = pq.poll();
 
-            if (dist[cur.node] < cur.dist) {
-                continue;
-            }
+            if (dist[cur.node] < cur.dist) continue;
 
             for (Edge next : reverseGraph[cur.node]) {
 
