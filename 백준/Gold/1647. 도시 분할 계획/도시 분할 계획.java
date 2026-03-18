@@ -33,6 +33,7 @@ public class Main {
 
         int result = 0;
         int maxCost = 0;
+        int count = 0;
 
         for (int[] edge : edgeList) {
             int A = edge[0];
@@ -43,6 +44,8 @@ public class Main {
                 union(A, B);
                 result += C;
                 maxCost = C;
+
+                if (++count == N - 1) break;
             }
         }
 
