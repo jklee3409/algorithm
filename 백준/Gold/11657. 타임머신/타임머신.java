@@ -3,7 +3,7 @@ import java.util.*;
 
 public class Main {
 
-    static class Edge{
+    static class Edge {
         int from, to, cost;
 
         public Edge(int from, int to, int cost) {
@@ -13,7 +13,7 @@ public class Main {
         }
     }
 
-    public static void main(String[] args) throws Exception {
+    public static void main(String[] args) throws Exception{
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         StringTokenizer st = new StringTokenizer(br.readLine());
         StringBuilder sb = new StringBuilder();
