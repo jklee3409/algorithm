@@ -8,7 +8,7 @@ public class Main {
    static boolean[] visited = new boolean[26];
    static int answer = 0;
 
-   public static void main(String[] args) throws Exception {
+   public static void main(String[] args) throws Exception{
       BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
       StringTokenizer st = new StringTokenizer(br.readLine());
 
@@ -41,9 +41,9 @@ public class Main {
       System.out.println(answer);
    }
 
-   static void dfs(int start, int depth) {
+   private static void dfs(int start, int depth) {
       if (depth == K - 5) {
-         answer = Math.max(answer, countReadableWords());
+         answer = Math.max(answer, canReadableWords());
          return;
       }
 
@@ -56,7 +56,7 @@ public class Main {
       }
    }
 
-   static int countReadableWords() {
+   private static int canReadableWords() {
       int count = 0;
 
       for (String word : words) {
@@ -69,9 +69,7 @@ public class Main {
             }
          }
 
-         if (canRead) {
-            count++;
-         }
+         if (canRead) count++;
       }
 
       return count;
