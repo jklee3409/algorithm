@@ -99,6 +99,6 @@ public class Main {
    }
 
    private static boolean outOfRange(int y, int x) {
-       return y < 1 || x < 1 || y > N || x > N;
+      return y < 1 || x < 1 || y > N || x > N;
    }
 }
