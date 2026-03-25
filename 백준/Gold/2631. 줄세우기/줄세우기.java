@@ -9,28 +9,33 @@ public class Main {
       int N = Integer.parseInt(br.readLine());
 
       int[] arr = new int[N];
-      int[] dp = new int[N];
+      int[] lis = new int[N];
+
+      int len = 0;
 
       for (int i = 0; i < N; i++) {
          arr[i] = Integer.parseInt(br.readLine());
       }
 
       for (int i = 0; i < N; i++) {
-         dp[i] = 1;
+         int pos = lowerBound(lis, arr[i], 0, len);
+         lis[pos] = arr[i];
 
-         for (int j = 0; j < i; j++) {
-
-            if (arr[j] < arr[i] && dp[i] < dp[j] + 1) {
-               dp[i] = dp[j] + 1;
-            }
-         }
+         if (pos == len) len++;
       }
 
-      int lis = 0;
-      for (int i = 0; i < N; i++) {
-         lis = Math.max(lis, dp[i]);
+      System.out.println(N - len);
+   }
+
+   private static int lowerBound(int[] arr, int target, int left, int right) {
+
+      while (left < right) {
+         int mid = (left + right) / 2;
+
+         if (arr[mid] < target) left = mid + 1;
+         else right = mid;
       }
 
-      System.out.println(N - lis);
+      return left;
    }
 }
