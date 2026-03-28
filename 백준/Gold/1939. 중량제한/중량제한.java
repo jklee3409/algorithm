@@ -49,8 +49,10 @@ public class Main {
       int ans = 0;
 
       for (Edge edge : edges) {
+         int pa = find(edge.a);
+         int pb = find(edge.b);
 
-         if (find(edge.a) != find(edge.b)) union(edge.a, edge.b);
+         if (pa != pb) union(pa, pb);
 
          if (find(src) == find(dst)) {
             ans = edge.cost;
@@ -66,10 +68,7 @@ public class Main {
       return parent[x] = find(parent[x]);
    }
 
-   private static void union(int a, int b) {
-      int pa = find(a);
-      int pb = find(b);
-
+   private static void union(int pa, int pb) {
       if (pa != pb) parent[pb] = pa;
    }
 }
