@@ -9,7 +9,7 @@ public class Main {
    static boolean[] base;
    static List<Edge>[] edges;
 
-   static class Edge {
+   static class Edge{
       int to, cnt;
 
       public Edge(int to, int cnt) {
@@ -41,9 +41,9 @@ public class Main {
 
          int to = Integer.parseInt(st.nextToken());
          int from = Integer.parseInt(st.nextToken());
-         int cnt = Integer.parseInt(st.nextToken());
+         int cost = Integer.parseInt(st.nextToken());
 
-         edges[from].add(new Edge(to, cnt));
+         edges[from].add(new Edge(to, cost));
          indegree[to]++;
       }
 
@@ -77,6 +77,7 @@ public class Main {
       }
 
       for (int i = 1; i <= N; i++) {
+
          if (base[i]) {
             sb.append(i).append(" ").append(dp[N][i]).append("\n");
          }
