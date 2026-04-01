@@ -9,7 +9,7 @@ public class Main {
 
     public static void main(String[] args) throws Exception {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-        StringBuffer sb = new StringBuffer();
+        StringBuilder sb = new StringBuilder();
         StringTokenizer st;
 
         int T = Integer.parseInt(br.readLine());
@@ -27,8 +27,6 @@ public class Main {
                 indegree[pick[i]]++;
             }
 
-            int notInTeam = 0;
-
             Queue<Integer> q = new ArrayDeque<>();
 
             for (int i = 1; i <= N; i++) {
@@ -36,6 +34,8 @@ public class Main {
                     q.offer(i);
                 }
             }
+
+            int notInTeam = 0;
 
             while (!q.isEmpty()) {
                 int cur = q.poll();
