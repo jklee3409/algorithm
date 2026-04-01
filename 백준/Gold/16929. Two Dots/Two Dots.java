@@ -7,6 +7,9 @@ public class Main {
     static char[][] board;
     static boolean cycle;
 
+    static final int[] DY = {-1, 1, 0, 0};
+    static final int[] DX = {0, 0, -1, 1};
+
     public static void main(String[] args) throws Exception {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         StringTokenizer st = new StringTokenizer(br.readLine());
@@ -23,14 +26,13 @@ public class Main {
             }
         }
 
-        for (int i = 0; i < N; i++) {
-            for (int j = 0; j < M; j++) {
-                char c = board[i][j];
-
+        for (int y = 0; y < N; y++) {
+            for (int x = 0; x < M; x++) {
+                
                 boolean[][] visited = new boolean[N][M];
-                visited[i][j] = true;
+                visited[y][x] = true;
 
-                dfs(new int[]{0, 0}, new int[]{i, j}, visited, c);
+                dfs(-1, -1, y, x, visited, board[y][x]);
 
                 if (cycle) {
                     System.out.println("Yes");
@@ -42,30 +44,27 @@ public class Main {
         System.out.println("No");
     }
 
-    static int[] dy = {-1, 1, 0, 0};
-    static int[] dx = {0, 0, -1, 1};
-
-    private static void dfs(int[] prev, int[] cur, boolean[][] visited, char c) {
-        int curY = cur[0], curX = cur[1];
-        int prevY = prev[0], prevX = prev[1];
-
+    private static void dfs(int prevY, int prevX, int curY, int curX, boolean[][] visited, char color) {
+        if (cycle) return;
+        
         for (int d = 0; d < 4; d++) {
-            int ny = curY + dy[d];
-            int nx = curX + dx[d];
+            int ny = curY + DY[d];
+            int nx = curX + DX[d];
 
             if (ny < 0 || nx < 0 || ny >= N || nx >= M) continue;
-            if (board[ny][nx] != c) continue;
 
-            if ((ny != prevY && nx != prevX) && visited[ny][nx]) {
+            if (board[ny][nx] != color) continue;
+
+            if (ny == prevY && nx == prevX) continue;
+
+            if (visited[ny][nx]) {
                 cycle = true;
                 return;
             }
 
-            if (visited[ny][nx]) continue;
-
             visited[ny][nx] = true;
-
-            dfs(new int[]{curY, curX}, new int[]{ny, nx}, visited, c);
+            
+            dfs(curY, curX, ny, nx, visited, color);
         }
     }
 }
