@@ -3,45 +3,51 @@ import java.util.*;
 
 public class Main {
 
+    static int N, K;
     static boolean[][] visited = new boolean[2][500001];
 
     public static void main(String[] args) throws Exception {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         StringTokenizer st = new StringTokenizer(br.readLine());
 
-        int N = Integer.parseInt(st.nextToken());
-        int K = Integer.parseInt(st.nextToken());
+        N = Integer.parseInt(st.nextToken());
+        K = Integer.parseInt(st.nextToken());
 
-        System.out.println(bfs(N, K));
+        System.out.println(bfs(N));
     }
 
-    private static int bfs(int start, int K) {
-        Queue<int[]> q = new ArrayDeque<>();
+    private static int bfs(int start) {
+        Queue<Integer> q = new ArrayDeque<>();
 
-        q.offer(new int[]{start, 0}); // 0: 수빈이 위치, 1: 시간
+        int time = 0;
+        q.offer(start);
         visited[0][start] = true;
 
         while (!q.isEmpty()) {
-            int[] p = q.poll();
-
-            int time = p[1];
-
             int kPos = K + time * (time + 1) / 2;
-            if (kPos > 500000) return -1;
 
+            if (kPos > 500000) return -1;
             if (visited[time % 2][kPos]) return time;
 
-            int[] dx = {p[0], 1, -1};
+            int size = q.size();
+            int nextParity = (time + 1) % 2;
 
-            for (int d = 0; d < 3; d++) {
-                int nx = p[0] + dx[d];
-                int nextTime = time + 1;
+            for (int i = 0; i < size; i++) {
+                Integer cur = q.poll();
 
-                if (nx < 0 || nx > 500000 || visited[nextTime % 2][nx]) continue;
+                int[] dx = {cur, 1, -1};
 
-                q.offer(new int[]{nx, nextTime});
-                visited[nextTime % 2][nx] = true;
+                for (int d = 0; d < 3; d++) {
+                    int next = cur + dx[d];
+
+                    if (next < 0 || next > 500000 || visited[nextParity][next]) continue;
+
+                    q.offer(next);
+                    visited[nextParity][next] = true;
+                }
             }
+
+            time++;
         }
 
         return -1;
