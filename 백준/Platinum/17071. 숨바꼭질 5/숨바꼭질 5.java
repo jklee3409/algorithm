@@ -33,7 +33,7 @@ public class Main {
             int nextParity = (time + 1) % 2;
 
             for (int i = 0; i < size; i++) {
-                Integer cur = q.poll();
+                int cur = q.poll();
 
                 int[] dx = {cur, 1, -1};
 
