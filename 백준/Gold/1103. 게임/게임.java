@@ -38,7 +38,7 @@ public class Main {
     static int[] dx = {0, 0, -1, 1};
 
     private static int dfs(int y, int x) {
-        if (outOfRange(y, x) || isHall(y, x)) return 0;
+        if (outOfRange(y, x) || isHole(y, x)) return 0;
 
         if (visited[y][x]) {
             System.out.println(-1);
@@ -65,7 +65,7 @@ public class Main {
         return y < 0 || x < 0 || y >= N || x >= M;
     }
 
-    private static boolean isHall(int y, int x) {
+    private static boolean isHole(int y, int x) {
         return board[y][x] == -1;
     }
 }
