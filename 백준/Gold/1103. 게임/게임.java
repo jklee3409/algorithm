@@ -31,7 +31,7 @@ public class Main {
             }
         }
 
-        System.out.println(dfs(0, 0));
+        System.out.println(dfs(0,0));
     }
 
     static int[] dy = {-1, 1, 0, 0};
@@ -41,14 +41,15 @@ public class Main {
         if (outOfRange(y, x) || isHole(y, x)) return 0;
 
         if (visited[y][x]) {
-            System.out.println(-1);
+            System.out.println("-1");
             System.exit(0);
         }
 
         if (dp[y][x] != -1) return dp[y][x];
 
-        visited[y][x] = true;
         dp[y][x] = 0;
+
+        visited[y][x] = true;
 
         for (int d = 0; d < 4; d++) {
             int ny = y + dy[d] * board[y][x];
@@ -58,6 +59,7 @@ public class Main {
         }
 
         visited[y][x] = false;
+
         return dp[y][x];
     }
 
