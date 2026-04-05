@@ -3,6 +3,8 @@ import java.util.*;
 
 public class Main {
 
+    static int N, M;
+
     static class Edge {
         int from, to, cost;
 
@@ -13,30 +15,29 @@ public class Main {
         }
     }
 
-    public static void main(String[] args) throws Exception{
+    public static void main(String[] args) throws Exception {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         StringTokenizer st = new StringTokenizer(br.readLine());
-        StringBuilder sb = new StringBuilder();
 
-        int N = Integer.parseInt(st.nextToken());
-        int M = Integer.parseInt(st.nextToken());
+        N = Integer.parseInt(st.nextToken());
+        M = Integer.parseInt(st.nextToken());
+
+        long[] dist = new long[N + 1];
+        Arrays.fill(dist, Long.MAX_VALUE);
+
+        dist[1] = 0;
 
         List<Edge> edges = new ArrayList<>();
 
         for (int i = 0; i < M; i++) {
             st = new StringTokenizer(br.readLine());
 
-            int A = Integer.parseInt(st.nextToken());
-            int B = Integer.parseInt(st.nextToken());
-            int C = Integer.parseInt(st.nextToken());
+            int from = Integer.parseInt(st.nextToken());
+            int to = Integer.parseInt(st.nextToken());
+            int cost = Integer.parseInt(st.nextToken());
 
-            edges.add(new Edge(A, B, C));
+            edges.add(new Edge(from, to, cost));
         }
-
-        long[] dist = new long[N + 1];
-        Arrays.fill(dist, Long.MAX_VALUE);
-
-        dist[1] = 0;
 
         for (int i = 0; i < N - 1; i++) {
             boolean updated = false;
@@ -62,9 +63,10 @@ public class Main {
             }
         }
 
+        StringBuilder sb = new StringBuilder();
+
         for (int i = 2; i <= N; i++) {
-            if (dist[i] == Long.MAX_VALUE) sb.append(-1).append("\n");
-            else sb.append(dist[i]).append("\n");
+            sb.append(dist[i] == Long.MAX_VALUE ? -1 : dist[i]).append("\n");
         }
 
         System.out.println(sb);
