@@ -2,8 +2,9 @@ import java.util.*;
 
 class Solution {
     
-    boolean[] visited;
     String[] answer;
+    boolean[] visited;
+    
     
     public String[] solution(String[][] tickets) {
         Arrays.sort(tickets, (a, b) -> {
@@ -11,8 +12,8 @@ class Solution {
             return a[0].compareTo(b[0]);
         });
         
-        visited = new boolean[tickets.length];
         answer = new String[tickets.length + 1];
+        visited = new boolean[tickets.length];
         
         dfs(tickets, "ICN", 0);
         
@@ -30,7 +31,7 @@ class Solution {
             if (tickets[i][0].equals(current)) {
                 visited[i] = true;
                 
-                if(dfs(tickets, tickets[i][1], depth + 1)){
+                if (dfs(tickets, tickets[i][1], depth + 1)) {
                     return true;
                 }
                 
