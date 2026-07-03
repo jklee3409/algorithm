@@ -1,0 +1,50 @@
+import java.io.*;
+import java.util.*;
+
+public class Solution {
+    public static void main(String[] args) throws Exception {
+        BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+        StringBuilder sb = new StringBuilder();
+
+        int T = Integer.parseInt(br.readLine());
+
+        for (int tc = 1; tc <= T; tc++) {
+            int N = Integer.parseInt(br.readLine());
+            int[][] arr = new int[N][N];
+
+            for (int i = 0; i < N; i++) {
+                StringTokenizer st = new StringTokenizer(br.readLine());
+                for (int j = 0; j < N; j++) {
+                    arr[i][j] = Integer.parseInt(st.nextToken());
+                }
+            }
+
+            sb.append("#").append(tc).append("\n");
+
+            for (int i = 0; i < N; i++) {
+                // 90도
+                for (int j = N - 1; j >= 0; j--) {
+                    sb.append(arr[j][i]);
+                }
+
+                sb.append(" ");
+
+                // 180도
+                for (int j = N - 1; j >= 0; j--) {
+                    sb.append(arr[N - 1 - i][j]);
+                }
+
+                sb.append(" ");
+
+                // 270도
+                for (int j = 0; j < N; j++) {
+                    sb.append(arr[j][N - 1 - i]);
+                }
+
+                sb.append("\n");
+            }
+        }
+
+        System.out.print(sb);
+    }
+}
