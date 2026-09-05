@@ -1,26 +1,26 @@
 import java.util.*;
 
 class Solution {
-
+    
     public int[] solution(String[] gems) {
-        Set<String> types = new HashSet<>(Arrays.asList(gems));
-        int totalTypeCount = types.size();
-
-        Map<String, Integer> count = new HashMap<>();
-
+        Set<String> set = new HashSet<>(Arrays.asList(gems));
+        int totalTypesCnt = set.size();
+        
+        Map<String, Integer> map = new HashMap<>();
+        
         int left = 0;
         int minLength = Integer.MAX_VALUE;
         
         int answerLeft = 0;
         int answerRight = 0;
-
+        
         for (int right = 0; right < gems.length; right++) {
-            count.put(gems[right], count.getOrDefault(gems[right], 0) + 1);
-
-            if (count.size() == totalTypeCount) {
-
-                while (count.get(gems[left]) > 1) {
-                    count.put(gems[left], count.get(gems[left]) - 1);
+            map.put(gems[right], map.getOrDefault(gems[right], 0) + 1);
+            
+            if (map.size() == totalTypesCnt) {
+                
+                while (map.get(gems[left]) > 1) {
+                    map.put(gems[left], map.get(gems[left]) - 1);
                     left++;
                 }
 
@@ -33,7 +33,7 @@ class Solution {
                 }
             }
         }
-
+        
         return new int[] {answerLeft + 1, answerRight + 1};
     }
 }
