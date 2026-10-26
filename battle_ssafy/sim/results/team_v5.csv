@@ -1,0 +1,1201 @@
+tag,botA,botB,winner,winnerBot,reason,rounds,dmgA,dmgB,turretA,turretB,killsByA,killsByB,invalidA,invalidB,megaA,megaB,decodeA,decodeB,staysA,staysB,sandA,sandB,maxMsA,maxMsB,yellowA,yellowB
+practice/hp10/alt/zG/r0,basefix,N2_SBHd,B,N2_SBHd,"tanks destroyed (A lost 2)",20,200,0,10,10,0,2,0,0,0,5,0,5,0,7,0,0,21,33,0,0
+practice/hp10/alt/zG/r0,A,N2_SBHd,B,N2_SBHd,"turret destroyed by B2",29,10,0,0,10,0,0,0,0,2,5,3,6,24,20,0,0,38,36,0,0
+practice/hp10/alt/zG/r0,B,N2_SBHd,B,N2_SBHd,"turn limit: distance 58 vs 56",101,0,0,10,10,0,0,0,0,4,8,4,9,125,109,0,0,39,39,0,0
+practice/hp10/alt/zG/r0,C,N2_SBHd,B,N2_SBHd,"turn limit: distance 56 vs 55",101,0,0,10,10,0,0,0,0,5,5,5,6,173,166,0,0,32,39,0,0
+practice/hp10/alt/zG/r0,D,N2_SBHd,B,N2_SBHd,"turret destroyed by B2",100,10,0,0,10,0,0,0,0,8,9,10,10,153,159,0,0,37,38,0,0
+practice/hp10/alt/zG/r0,N2_SBHd,basefix,A,N2_SBHd,"turret destroyed by A2",28,0,140,10,0,1,0,0,28,8,0,9,0,9,0,0,0,25,9,0,0
+practice/hp10/alt/zG/r0,N2_SBHd,D,B,D,"tanks destroyed (A lost 2)",85,200,70,10,10,0,2,0,0,8,4,9,6,63,58,0,0,17,15,0,0
+practice/hp10/alt/zG/r0,N4_GBHd,C,B,C,"turn limit: distance 57 vs 56",101,0,0,10,10,0,0,0,0,5,7,5,8,169,170,0,0,14,47,0,0
+practice/hp10/alt/zG/r0,N5_GFB,B,B,B,"turn limit: distance 58 vs 55",101,0,0,10,10,0,0,0,0,6,4,7,4,118,124,0,0,26,26,0,0
+practice/hp10/alt/zG/r0,N6_SFB,A,A,N6_SFB,"turret destroyed by A3",27,0,10,10,0,0,0,0,0,5,0,5,0,20,20,0,0,23,13,0,0
+practice/hp100/alt/zG/r2,basefix,N2_SBHd,B,N2_SBHd,"turret destroyed by B2",28,230,0,0,100,0,1,28,0,0,8,0,8,0,9,0,0,5,19,0,0
+practice/hp100/alt/zG/r2,A,N2_SBHd,B,N2_SBHd,"turret destroyed by B2",30,100,0,0,100,0,0,0,0,2,5,2,6,26,20,0,0,33,37,0,0
+practice/hp100/alt/zG/r2,B,N2_SBHd,B,N2_SBHd,"turn limit: distance 58 vs 56",101,0,0,100,100,0,0,0,0,5,7,5,9,124,108,0,0,34,24,0,0
+practice/hp100/alt/zG/r2,C,N2_SBHd,B,N2_SBHd,"turn limit: distance 56 vs 55",101,0,0,100,100,0,0,0,0,5,5,6,6,172,165,0,0,30,37,0,0
+practice/hp100/alt/zG/r2,D,N2_SBHd,B,N2_SBHd,"turn limit: damage 70 vs 0",101,70,0,100,100,0,0,0,0,4,10,5,12,124,131,0,0,26,31,0,0
+practice/hp100/alt/zG/r2,N2_SBHd,basefix,A,N2_SBHd,"tanks destroyed (B lost 2)",20,0,200,100,100,2,0,0,0,5,0,5,0,7,0,0,0,20,5,0,0
+practice/hp100/alt/zG/r2,N2_SBHd,D,B,D,"turn limit: damage 100 vs 60",101,100,60,100,100,0,1,0,0,5,6,6,9,117,105,0,0,27,31,0,0
+practice/hp100/alt/zG/r2,N4_GBHd,C,B,C,"turn limit: distance 57 vs 56",101,0,0,100,100,0,0,0,0,5,7,6,8,168,170,0,0,37,30,0,0
+practice/hp100/alt/zG/r2,N5_GFB,B,B,B,"turn limit: distance 58 vs 55",101,0,0,100,100,0,0,0,0,5,4,5,5,118,123,0,0,44,33,0,0
+practice/hp100/alt/zG/r2,N6_SFB,A,A,N6_SFB,"turret destroyed by A3",28,0,100,100,0,0,0,0,0,5,0,5,0,22,23,0,0,23,33,0,0
+gen:sand:1/hp10/alt/zG/r2,basefix,N2_SBHd,B,N2_SBHd,"tanks destroyed (A lost 2)",16,210,30,10,10,0,1,2,0,0,5,0,6,0,5,6,3,34,62,0,0
+gen:sand:1/hp10/alt/zG/r2,A,N2_SBHd,B,N2_SBHd,"tanks destroyed (A lost 2)",21,290,150,10,10,0,2,0,0,0,5,0,6,4,9,12,6,26,45,0,0
+gen:sand:1/hp10/alt/zG/r2,B,N2_SBHd,B,N2_SBHd,"turn limit: damage 150 vs 80",101,150,80,10,10,0,1,0,0,8,9,8,10,152,146,10,8,22,41,0,0
+gen:sand:1/hp10/alt/zG/r2,C,N2_SBHd,A,C,"turn limit: distance 35 vs 56",101,140,140,10,10,0,1,0,0,6,5,7,6,120,162,10,7,32,17,0,0
+gen:sand:1/hp10/alt/zG/r2,D,N2_SBHd,B,N2_SBHd,"turn limit: damage 60 vs 40",101,60,40,10,10,0,0,0,0,8,7,10,7,168,159,6,4,48,21,0,0
+gen:sand:1/hp10/alt/zG/r2,N2_SBHd,basefix,A,N2_SBHd,"tanks destroyed (B lost 2)",14,20,240,10,10,2,0,0,1,5,0,6,0,4,0,2,12,19,6,0,0
+gen:sand:1/hp10/alt/zG/r2,N2_SBHd,D,A,N2_SBHd,"turn limit: damage 40 vs 60",101,40,60,10,10,0,0,0,0,7,8,8,9,156,170,4,6,23,22,0,0
+gen:sand:1/hp10/alt/zG/r2,N4_GBHd,C,A,N4_GBHd,"tanks destroyed (B lost 2)",42,120,200,10,10,1,0,0,0,5,0,6,0,29,35,9,18,19,33,0,0
+gen:sand:1/hp10/alt/zG/r2,N5_GFB,B,A,N5_GFB,"turn limit: damage 90 vs 150",101,90,150,10,10,0,0,0,0,5,8,6,8,133,119,9,15,13,18,0,0
+gen:sand:1/hp10/alt/zG/r2,N6_SFB,A,A,N6_SFB,"tanks destroyed (B lost 2)",37,160,210,10,10,2,0,0,0,6,0,8,0,42,28,4,5,19,22,0,0
+gen:sand:1/hp100/alt/zG/r0,basefix,N2_SBHd,B,N2_SBHd,"tanks destroyed (A lost 2)",13,220,30,100,100,0,2,1,0,0,5,0,6,0,4,11,3,6,13,0,0
+gen:sand:1/hp100/alt/zG/r0,A,N2_SBHd,B,N2_SBHd,"tanks destroyed (A lost 2)",21,290,150,100,100,0,2,0,0,0,5,0,6,4,9,12,6,22,19,0,0
+gen:sand:1/hp100/alt/zG/r0,B,N2_SBHd,A,B,"turn limit: damage 130 vs 170",101,130,170,30,100,1,0,0,0,8,7,9,9,147,147,6,12,15,27,0,0
+gen:sand:1/hp100/alt/zG/r0,C,N2_SBHd,A,C,"turn limit: distance 35 vs 56",101,140,140,100,100,0,1,0,0,7,5,7,6,120,162,10,7,22,23,0,0
+gen:sand:1/hp100/alt/zG/r0,D,N2_SBHd,B,N2_SBHd,"turn limit: damage 60 vs 40",101,60,40,100,100,0,0,0,0,6,7,8,7,166,157,6,4,20,42,0,0
+gen:sand:1/hp100/alt/zG/r0,N2_SBHd,basefix,A,N2_SBHd,"tanks destroyed (B lost 2)",18,40,210,100,100,0,0,0,2,5,0,6,0,8,0,4,9,20,8,0,0
+gen:sand:1/hp100/alt/zG/r0,N2_SBHd,D,A,N2_SBHd,"turn limit: damage 40 vs 60",101,40,60,100,100,0,0,0,0,7,6,10,7,156,167,4,6,70,96,0,0
+gen:sand:1/hp100/alt/zG/r0,N4_GBHd,C,A,N4_GBHd,"tanks destroyed (B lost 2)",42,120,200,100,100,1,0,0,0,5,0,6,0,29,35,9,18,26,31,0,0
+gen:sand:1/hp100/alt/zG/r0,N5_GFB,B,A,N5_GFB,"tanks destroyed (B lost 2)",64,100,200,100,100,1,0,0,0,5,8,7,9,64,47,3,15,20,18,0,0
+gen:sand:1/hp100/alt/zG/r0,N6_SFB,A,A,N6_SFB,"tanks destroyed (B lost 2)",21,160,210,100,100,2,0,0,0,6,0,7,0,12,8,4,4,23,10,0,0
+gen:forest:2/hp10/alt/zG/r0,basefix,N2_SBHd,B,N2_SBHd,"tanks destroyed (A lost 2)",25,240,30,10,10,0,2,2,0,0,5,0,6,0,11,8,0,10,34,0,0
+gen:forest:2/hp10/alt/zG/r0,A,N2_SBHd,B,N2_SBHd,"turret destroyed by B2",27,110,60,0,10,0,1,0,0,2,5,2,6,6,14,0,0,21,19,0,0
+gen:forest:2/hp10/alt/zG/r0,B,N2_SBHd,B,N2_SBHd,"turn limit: distance 60 vs 49",101,0,0,10,10,0,0,0,0,11,9,11,10,172,160,0,0,12,30,0,0
+gen:forest:2/hp10/alt/zG/r0,C,N2_SBHd,B,N2_SBHd,"turn limit: distance 56 vs 55",101,0,0,10,10,0,0,0,0,7,9,7,10,169,163,0,0,30,26,0,0
+gen:forest:2/hp10/alt/zG/r0,D,N2_SBHd,A,D,"turn limit: distance 41 vs 53",101,0,0,10,10,0,0,0,0,6,5,7,5,169,167,0,0,34,23,0,0
+gen:forest:2/hp10/alt/zG/r0,N2_SBHd,basefix,A,N2_SBHd,"turret destroyed by A2",28,0,200,10,0,1,0,0,19,6,0,7,0,15,0,0,0,34,10,0,0
+gen:forest:2/hp10/alt/zG/r0,N2_SBHd,D,B,D,"turn limit: distance 55 vs 42",101,0,0,10,10,0,0,0,0,7,10,8,10,166,166,0,0,24,25,0,0
+gen:forest:2/hp10/alt/zG/r0,N4_GBHd,C,A,N4_GBHd,"turn limit: distance 50 vs 60",101,0,0,10,10,0,0,0,0,9,9,10,9,160,173,0,0,52,25,0,0
+gen:forest:2/hp10/alt/zG/r0,N5_GFB,B,B,B,"turn limit: full tie → second player",101,0,0,10,10,0,0,0,0,10,11,12,11,156,168,0,0,35,42,0,0
+gen:forest:2/hp10/alt/zG/r0,N6_SFB,A,A,N6_SFB,"turret destroyed by A3",34,0,10,10,0,0,0,0,0,3,3,4,3,31,36,0,0,30,18,0,0
+gen:forest:2/hp100/alt/zG/r2,basefix,N2_SBHd,B,N2_SBHd,"turret destroyed by B2",29,290,0,0,100,0,1,21,0,0,6,0,7,0,16,0,0,9,25,0,0
+gen:forest:2/hp100/alt/zG/r2,A,N2_SBHd,B,N2_SBHd,"turret destroyed by B2",28,200,60,0,100,0,1,0,0,0,5,0,6,11,18,0,0,15,28,0,0
+gen:forest:2/hp100/alt/zG/r2,B,N2_SBHd,B,N2_SBHd,"turn limit: distance 60 vs 49",101,0,0,100,100,0,0,0,0,11,9,11,9,172,160,0,0,19,26,0,0
+gen:forest:2/hp100/alt/zG/r2,C,N2_SBHd,B,N2_SBHd,"turn limit: distance 56 vs 55",101,0,0,100,100,0,0,0,0,7,9,7,9,169,163,0,0,32,20,0,0
+gen:forest:2/hp100/alt/zG/r2,D,N2_SBHd,A,D,"turn limit: distance 41 vs 53",101,0,0,100,100,0,0,0,0,6,5,7,5,169,167,0,0,40,61,0,0
+gen:forest:2/hp100/alt/zG/r2,N2_SBHd,basefix,A,N2_SBHd,"tanks destroyed (B lost 2)",25,0,240,100,100,1,0,0,2,5,0,6,0,12,0,0,8,36,27,0,0
+gen:forest:2/hp100/alt/zG/r2,N2_SBHd,D,B,D,"turn limit: distance 55 vs 42",101,0,0,100,100,0,0,0,0,7,10,8,10,166,166,0,0,23,29,0,0
+gen:forest:2/hp100/alt/zG/r2,N4_GBHd,C,A,N4_GBHd,"turn limit: distance 50 vs 60",101,0,0,100,100,0,0,0,0,9,9,9,9,160,173,0,0,26,50,0,0
+gen:forest:2/hp100/alt/zG/r2,N5_GFB,B,B,B,"turn limit: full tie → second player",101,0,0,100,100,0,0,0,0,10,11,10,11,156,168,0,0,36,25,0,0
+gen:forest:2/hp100/alt/zG/r2,N6_SFB,A,A,N6_SFB,"turret destroyed by A3",34,0,100,100,0,0,0,0,0,3,3,3,3,31,36,0,0,35,50,0,0
+gen:open:3/hp10/alt/zG/r2,basefix,N2_SBHd,B,N2_SBHd,"tanks destroyed (A lost 2)",24,200,0,10,10,0,2,22,0,0,8,0,11,0,2,0,0,6,22,0,0
+gen:open:3/hp10/alt/zG/r2,A,N2_SBHd,B,N2_SBHd,"tanks destroyed (A lost 2)",38,200,120,10,10,0,2,0,0,1,6,1,10,25,34,0,0,16,32,0,0
+gen:open:3/hp10/alt/zG/r2,B,N2_SBHd,B,N2_SBHd,"turn limit: distance 58 vs 49",101,0,0,10,10,0,0,0,0,11,9,14,9,133,102,0,0,25,27,0,0
+gen:open:3/hp10/alt/zG/r2,C,N2_SBHd,B,N2_SBHd,"turn limit: distance 54 vs 45",101,0,0,10,10,0,0,0,0,7,7,10,8,159,144,0,0,27,32,0,0
+gen:open:3/hp10/alt/zG/r2,D,N2_SBHd,B,N2_SBHd,"turret destroyed by B2",46,10,0,0,10,0,0,0,0,6,7,8,8,41,29,0,0,20,23,0,0
+gen:open:3/hp10/alt/zG/r2,N2_SBHd,basefix,A,N2_SBHd,"tanks destroyed (B lost 2)",17,0,210,10,10,2,0,0,0,5,0,7,0,2,0,0,3,22,9,0,0
+gen:open:3/hp10/alt/zG/r2,N2_SBHd,D,A,N2_SBHd,"turn limit: distance 44 vs 54",101,0,0,10,10,0,0,0,0,7,6,10,6,145,152,0,0,32,12,0,0
+gen:open:3/hp10/alt/zG/r2,N4_GBHd,C,B,C,"turret destroyed by B1",24,10,0,0,10,0,0,0,0,5,10,9,10,11,11,0,0,24,25,0,0
+gen:open:3/hp10/alt/zG/r2,N5_GFB,B,B,B,"turn limit: distance 59 vs 54",101,0,0,10,10,0,0,0,0,8,11,11,11,112,129,0,0,44,20,0,0
+gen:open:3/hp10/alt/zG/r2,N6_SFB,A,A,N6_SFB,"turn limit: damage 60 vs 100",101,60,100,10,10,1,0,0,0,9,1,11,1,159,112,0,0,43,42,0,0
+gen:open:3/hp100/alt/zG/r0,basefix,N2_SBHd,B,N2_SBHd,"tanks destroyed (A lost 2)",15,210,0,100,100,0,2,0,0,0,3,0,3,0,4,3,0,4,14,0,0
+gen:open:3/hp100/alt/zG/r0,A,N2_SBHd,B,N2_SBHd,"turn limit: damage 170 vs 130",101,170,130,100,100,1,1,0,0,3,6,3,6,108,118,0,0,14,24,0,0
+gen:open:3/hp100/alt/zG/r0,B,N2_SBHd,B,N2_SBHd,"turn limit: distance 58 vs 49",101,0,0,100,100,0,0,0,0,11,9,11,10,135,101,0,0,32,12,0,0
+gen:open:3/hp100/alt/zG/r0,C,N2_SBHd,B,N2_SBHd,"turn limit: distance 60 vs 46",101,0,0,100,100,0,0,0,0,12,9,14,10,165,144,0,0,86,28,0,0
+gen:open:3/hp100/alt/zG/r0,D,N2_SBHd,B,N2_SBHd,"turn limit: distance 53 vs 45",101,0,0,100,100,0,0,0,0,6,7,7,7,149,147,0,0,28,23,0,0
+gen:open:3/hp100/alt/zG/r0,N2_SBHd,basefix,A,N2_SBHd,"tanks destroyed (B lost 2)",23,0,200,100,100,2,0,0,21,7,0,7,0,3,0,0,0,19,5,0,0
+gen:open:3/hp100/alt/zG/r0,N2_SBHd,D,A,N2_SBHd,"turret destroyed by A2",100,0,100,100,0,0,0,0,0,7,6,7,6,120,116,0,0,19,14,0,0
+gen:open:3/hp100/alt/zG/r0,N4_GBHd,C,A,N4_GBHd,"turn limit: distance 44 vs 54",101,0,0,100,100,0,0,0,0,8,10,8,11,145,151,0,0,68,13,0,0
+gen:open:3/hp100/alt/zG/r0,N5_GFB,B,B,B,"turn limit: distance 59 vs 54",101,0,0,100,100,0,0,0,0,9,11,9,11,112,127,0,0,33,19,0,0
+gen:open:3/hp100/alt/zG/r0,N6_SFB,A,A,N6_SFB,"turn limit: damage 60 vs 70",101,60,70,100,100,0,0,0,0,9,0,9,0,161,162,0,0,28,20,0,0
+gen:mixed:4/hp10/alt/zG/r0,basefix,N2_SBHd,B,N2_SBHd,"tanks destroyed (A lost 2)",19,200,0,10,10,0,2,15,0,0,5,0,6,0,12,8,0,7,23,0,0
+gen:mixed:4/hp10/alt/zG/r0,A,N2_SBHd,B,N2_SBHd,"tanks destroyed (A lost 2)",35,210,120,10,10,0,2,0,0,0,7,0,8,20,29,3,0,24,19,0,0
+gen:mixed:4/hp10/alt/zG/r0,B,N2_SBHd,B,N2_SBHd,"turn limit: damage 30 vs 0",101,30,0,10,10,0,0,0,0,8,7,9,8,165,160,3,0,32,29,0,0
+gen:mixed:4/hp10/alt/zG/r0,C,N2_SBHd,B,N2_SBHd,"turn limit: damage 30 vs 0",101,30,0,10,10,0,0,0,0,7,7,10,8,153,164,3,0,12,33,0,0
+gen:mixed:4/hp10/alt/zG/r0,D,N2_SBHd,A,D,"turn limit: damage 0 vs 20",101,0,20,10,10,0,0,0,0,6,7,9,8,165,157,0,2,28,22,0,0
+gen:mixed:4/hp10/alt/zG/r0,N2_SBHd,basefix,A,N2_SBHd,"tanks destroyed (B lost 2)",28,10,200,10,10,2,0,0,34,8,0,9,0,13,0,1,4,14,12,0,0
+gen:mixed:4/hp10/alt/zG/r0,N2_SBHd,D,B,D,"turn limit: damage 60 vs 0",101,60,0,10,10,0,0,0,0,7,6,9,8,130,143,6,0,15,12,0,0
+gen:mixed:4/hp10/alt/zG/r0,N4_GBHd,C,A,N4_GBHd,"turn limit: damage 20 vs 30",101,20,30,10,10,0,0,0,0,8,7,10,9,156,158,2,3,31,30,0,0
+gen:mixed:4/hp10/alt/zG/r0,N5_GFB,B,A,N5_GFB,"turret destroyed by A3",41,80,160,10,0,1,0,0,0,8,8,10,9,25,34,2,5,29,19,0,0
+gen:mixed:4/hp10/alt/zG/r0,N6_SFB,A,A,N6_SFB,"turn limit: damage 120 vs 270",101,120,270,10,10,1,0,0,0,7,0,8,0,120,67,0,5,23,14,0,0
+gen:mixed:4/hp100/alt/zG/r2,basefix,N2_SBHd,B,N2_SBHd,"tanks destroyed (A lost 2)",34,200,0,100,100,0,2,35,0,0,8,0,9,0,30,7,0,5,34,0,0
+gen:mixed:4/hp100/alt/zG/r2,A,N2_SBHd,B,N2_SBHd,"tanks destroyed (A lost 2)",32,280,150,100,100,0,2,0,0,0,7,0,8,11,22,3,0,29,41,0,0
+gen:mixed:4/hp100/alt/zG/r2,B,N2_SBHd,B,N2_SBHd,"turn limit: damage 10 vs 0",101,10,0,100,100,0,0,0,0,8,7,8,8,173,162,1,0,26,44,0,0
+gen:mixed:4/hp100/alt/zG/r2,C,N2_SBHd,B,N2_SBHd,"turn limit: damage 20 vs 0",101,20,0,100,100,0,0,0,0,7,7,7,8,157,163,2,0,22,27,0,0
+gen:mixed:4/hp100/alt/zG/r2,D,N2_SBHd,A,D,"turn limit: damage 0 vs 30",101,0,30,100,100,0,0,0,0,6,7,6,8,72,102,0,3,39,119,0,0
+gen:mixed:4/hp100/alt/zG/r2,N2_SBHd,basefix,A,N2_SBHd,"tanks destroyed (B lost 2)",21,0,210,100,100,2,0,0,15,6,0,7,0,12,0,0,9,46,6,0,0
+gen:mixed:4/hp100/alt/zG/r2,N2_SBHd,D,B,D,"turn limit: damage 60 vs 0",101,60,0,100,100,0,0,0,0,7,6,7,6,133,145,6,0,25,31,0,0
+gen:mixed:4/hp100/alt/zG/r2,N4_GBHd,C,A,N4_GBHd,"turn limit: damage 20 vs 30",101,20,30,100,100,0,0,0,0,8,7,8,7,158,161,2,3,24,21,0,0
+gen:mixed:4/hp100/alt/zG/r2,N5_GFB,B,A,N5_GFB,"turret destroyed by A3",43,80,250,100,0,1,0,0,0,8,8,8,8,30,36,2,5,40,16,0,0
+gen:mixed:4/hp100/alt/zG/r2,N6_SFB,A,A,N6_SFB,"tanks destroyed (B lost 2)",31,120,220,100,100,2,0,0,0,7,0,8,0,22,11,0,5,17,24,0,0
+gen:mixed:6/hp10/alt/zG/r2,basefix,N2_SBHd,A,basefix,"turret destroyed by A1",20,60,10,10,0,0,0,1,0,0,5,0,6,0,7,0,0,14,36,0,0
+gen:mixed:6/hp10/alt/zG/r2,A,N2_SBHd,A,A,"turret destroyed by A2",19,0,10,10,0,0,0,0,0,0,5,0,6,1,7,0,0,14,15,0,0
+gen:mixed:6/hp10/alt/zG/r2,B,N2_SBHd,A,B,"turret destroyed by A1",42,0,10,10,0,0,0,0,0,7,8,8,9,40,20,0,0,25,21,0,0
+gen:mixed:6/hp10/alt/zG/r2,C,N2_SBHd,A,C,"turret destroyed by A1",22,0,10,10,0,0,0,0,0,8,5,11,6,7,7,0,0,24,27,0,0
+gen:mixed:6/hp10/alt/zG/r2,D,N2_SBHd,B,N2_SBHd,"turret destroyed by B2",39,20,0,0,10,0,0,0,0,6,7,9,9,37,31,1,0,31,25,0,0
+gen:mixed:6/hp10/alt/zG/r2,N2_SBHd,basefix,B,basefix,"turret destroyed by B1",26,20,170,0,10,1,0,0,10,8,0,12,0,10,0,1,2,14,6,0,0
+gen:mixed:6/hp10/alt/zG/r2,N2_SBHd,D,A,N2_SBHd,"turret destroyed by A2",38,10,10,10,0,0,0,0,0,7,8,10,10,30,34,1,0,15,39,0,0
+gen:mixed:6/hp10/alt/zG/r2,N4_GBHd,C,B,C,"turret destroyed by B1",22,20,0,0,10,0,0,0,0,8,8,12,9,6,8,1,0,33,23,0,0
+gen:mixed:6/hp10/alt/zG/r2,N5_GFB,B,B,B,"turn limit: full tie → second player",101,0,0,10,10,0,0,0,0,9,7,10,7,144,158,0,0,20,28,0,0
+gen:mixed:6/hp10/alt/zG/r2,N6_SFB,A,A,N6_SFB,"turret destroyed by A3",34,0,10,10,0,0,0,0,0,10,2,12,2,24,32,0,0,18,58,0,0
+gen:mixed:6/hp100/alt/zG/r0,basefix,N2_SBHd,B,N2_SBHd,"tanks destroyed (A lost 2)",20,200,0,100,100,0,2,10,0,0,8,0,12,0,1,2,0,44,17,0,0
+gen:mixed:6/hp100/alt/zG/r0,A,N2_SBHd,A,A,"turret destroyed by A2",22,0,100,100,0,0,0,0,0,0,5,0,6,3,9,0,0,15,15,0,0
+gen:mixed:6/hp100/alt/zG/r0,B,N2_SBHd,A,B,"turret destroyed by A1",43,0,100,100,0,0,0,0,0,7,8,7,9,42,25,0,0,9,13,0,0
+gen:mixed:6/hp100/alt/zG/r0,C,N2_SBHd,A,C,"turret destroyed by A1",23,0,100,100,0,0,0,0,0,8,5,9,8,9,9,0,0,15,75,0,0
+gen:mixed:6/hp100/alt/zG/r0,D,N2_SBHd,B,N2_SBHd,"turret destroyed by B2",41,100,0,0,100,0,0,0,0,6,7,8,10,40,33,0,0,16,37,0,0
+gen:mixed:6/hp100/alt/zG/r0,N2_SBHd,basefix,B,basefix,"turret destroyed by B1",23,100,120,0,100,0,0,0,2,5,0,6,0,8,0,0,0,60,9,0,0
+gen:mixed:6/hp100/alt/zG/r0,N2_SBHd,D,A,N2_SBHd,"turret destroyed by A2",39,0,100,100,0,0,0,0,0,8,6,9,9,30,32,0,0,34,24,0,0
+gen:mixed:6/hp100/alt/zG/r0,N4_GBHd,C,B,C,"turret destroyed by B1",24,100,0,0,100,0,0,0,0,9,8,13,11,5,10,0,0,24,27,0,0
+gen:mixed:6/hp100/alt/zG/r0,N5_GFB,B,B,B,"turn limit: full tie → second player",101,0,0,100,100,0,0,0,0,9,7,13,7,143,158,0,0,18,19,0,0
+gen:mixed:6/hp100/alt/zG/r0,N6_SFB,A,A,N6_SFB,"turret destroyed by A3",35,0,100,100,0,0,0,0,0,10,2,13,3,24,34,0,0,27,11,0,0
+gen:open:9/hp10/alt/zG/r0,basefix,N2_SBHd,B,N2_SBHd,"tanks destroyed (A lost 2)",21,270,0,10,10,0,2,5,0,0,9,0,11,0,9,2,0,10,28,0,0
+gen:open:9/hp10/alt/zG/r0,A,N2_SBHd,B,N2_SBHd,"turret destroyed by B2",27,150,60,0,10,0,0,0,0,0,9,0,11,12,15,0,0,16,19,0,0
+gen:open:9/hp10/alt/zG/r0,B,N2_SBHd,B,N2_SBHd,"turn limit: distance 59 vs 46",101,0,0,10,10,0,0,0,0,4,8,6,9,133,110,0,0,36,36,0,0
+gen:open:9/hp10/alt/zG/r0,C,N2_SBHd,B,N2_SBHd,"turn limit: distance 61 vs 47",101,0,0,10,10,0,0,0,0,8,9,9,10,173,159,0,0,14,19,0,0
+gen:open:9/hp10/alt/zG/r0,D,N2_SBHd,B,N2_SBHd,"turret destroyed by B2",28,10,0,0,10,0,0,0,0,6,7,7,8,30,24,0,0,12,16,0,0
+gen:open:9/hp10/alt/zG/r0,N2_SBHd,basefix,A,N2_SBHd,"tanks destroyed (B lost 2)",20,0,250,10,10,0,0,0,0,7,0,10,0,8,0,0,11,11,26,0,0
+gen:open:9/hp10/alt/zG/r0,N2_SBHd,D,A,N2_SBHd,"turret destroyed by A2",28,0,10,10,0,0,0,0,0,7,6,8,7,25,32,0,0,14,15,0,0
+gen:open:9/hp10/alt/zG/r0,N4_GBHd,C,A,N4_GBHd,"turn limit: distance 48 vs 59",101,0,0,10,10,0,0,0,0,9,8,10,9,160,175,0,0,31,48,0,0
+gen:open:9/hp10/alt/zG/r0,N5_GFB,B,B,B,"turn limit: distance 56 vs 55",101,0,0,10,10,0,0,0,0,9,4,11,5,108,128,0,0,28,22,0,0
+gen:open:9/hp10/alt/zG/r0,N6_SFB,A,A,N6_SFB,"turn limit: damage 60 vs 140",101,60,140,10,10,0,0,0,0,12,2,15,2,163,150,0,0,16,19,0,0
+gen:open:9/hp100/alt/zG/r2,basefix,N2_SBHd,B,N2_SBHd,"tanks destroyed (A lost 2)",20,240,0,100,100,0,1,0,0,0,8,0,10,0,10,10,0,4,7,0,0
+gen:open:9/hp100/alt/zG/r2,A,N2_SBHd,B,N2_SBHd,"tanks destroyed (A lost 2)",33,270,120,100,70,0,2,0,0,0,10,0,12,11,18,0,0,9,22,0,0
+gen:open:9/hp100/alt/zG/r2,B,N2_SBHd,B,N2_SBHd,"turn limit: distance 58 vs 47",101,0,0,100,100,0,0,0,0,4,8,4,10,134,112,0,0,38,40,0,0
+gen:open:9/hp100/alt/zG/r2,C,N2_SBHd,B,N2_SBHd,"turn limit: distance 61 vs 47",101,0,0,100,100,0,0,0,0,8,8,10,8,173,159,0,0,44,17,0,0
+gen:open:9/hp100/alt/zG/r2,D,N2_SBHd,B,N2_SBHd,"turret destroyed by B2",29,100,0,0,100,0,0,0,0,6,7,8,7,33,28,0,0,25,28,0,0
+gen:open:9/hp100/alt/zG/r2,N2_SBHd,basefix,A,N2_SBHd,"tanks destroyed (B lost 2)",21,0,210,100,100,2,0,0,5,7,0,8,0,9,0,0,2,77,7,0,0
+gen:open:9/hp100/alt/zG/r2,N2_SBHd,D,A,N2_SBHd,"turret destroyed by A2",30,0,100,100,0,0,0,0,0,7,6,9,6,28,37,0,0,21,21,0,0
+gen:open:9/hp100/alt/zG/r2,N4_GBHd,C,A,N4_GBHd,"turn limit: distance 48 vs 61",101,0,0,100,100,0,0,0,0,9,8,11,8,160,174,0,0,64,27,0,0
+gen:open:9/hp100/alt/zG/r2,N5_GFB,B,B,B,"turn limit: distance 56 vs 54",101,0,0,100,100,0,0,0,0,9,4,11,4,110,128,0,0,35,18,0,0
+gen:open:9/hp100/alt/zG/r2,N6_SFB,A,A,N6_SFB,"turret destroyed by A3",28,0,100,100,0,0,0,0,0,8,2,8,2,23,13,0,0,21,33,0,0
+gen:forest:8/hp10/alt/zG/r2,basefix,N2_SBHd,B,N2_SBHd,"tanks destroyed (A lost 2)",19,290,10,10,10,0,1,0,0,0,2,0,2,0,12,5,1,7,18,0,0
+gen:forest:8/hp10/alt/zG/r2,A,N2_SBHd,B,N2_SBHd,"turret destroyed by B2",33,80,80,0,10,0,0,0,0,0,2,0,2,26,32,0,2,21,16,0,0
+gen:forest:8/hp10/alt/zG/r2,B,N2_SBHd,A,B,"turret destroyed by A1",31,20,20,10,0,0,0,0,0,5,2,5,3,17,24,2,1,24,14,0,0
+gen:forest:8/hp10/alt/zG/r2,C,N2_SBHd,A,C,"turn limit: distance 39 vs 55",101,10,10,10,10,0,0,0,0,5,2,5,3,101,117,1,1,24,25,0,0
+gen:forest:8/hp10/alt/zG/r2,D,N2_SBHd,B,N2_SBHd,"turn limit: damage 150 vs 100",101,150,100,10,10,1,0,0,0,2,2,2,3,152,112,1,1,30,31,0,0
+gen:forest:8/hp10/alt/zG/r2,N2_SBHd,basefix,A,N2_SBHd,"tanks destroyed (B lost 2)",20,10,200,10,10,1,0,0,1,2,0,2,0,17,0,1,0,27,10,0,0
+gen:forest:8/hp10/alt/zG/r2,N2_SBHd,D,A,N2_SBHd,"turn limit: distance 44 vs 55",101,10,10,10,10,0,0,0,0,2,2,2,3,170,202,1,1,15,19,0,0
+gen:forest:8/hp10/alt/zG/r2,N4_GBHd,C,A,N4_GBHd,"turn limit: damage 80 vs 110",101,80,110,10,10,1,0,0,0,7,5,7,6,159,113,2,1,32,32,0,0
+gen:forest:8/hp10/alt/zG/r2,N5_GFB,B,A,N5_GFB,"turn limit: damage 130 vs 200",101,130,200,10,10,1,0,0,0,3,5,3,6,169,155,1,1,27,25,0,0
+gen:forest:8/hp10/alt/zG/r2,N6_SFB,A,A,N6_SFB,"turn limit: damage 140 vs 170",101,140,170,10,10,1,0,0,0,8,0,8,0,122,149,2,0,24,31,0,0
+gen:forest:8/hp100/alt/zG/r0,basefix,N2_SBHd,B,N2_SBHd,"tanks destroyed (A lost 2)",20,200,10,100,100,0,1,1,0,0,2,0,2,0,17,0,1,11,19,0,0
+gen:forest:8/hp100/alt/zG/r0,A,N2_SBHd,B,N2_SBHd,"turret destroyed by B2",36,170,80,0,100,0,0,0,0,0,2,0,2,32,36,0,2,24,25,0,0
+gen:forest:8/hp100/alt/zG/r0,B,N2_SBHd,A,B,"turret destroyed by A1",27,20,110,100,0,0,0,0,0,5,2,5,3,16,22,2,1,23,35,0,0
+gen:forest:8/hp100/alt/zG/r0,C,N2_SBHd,B,N2_SBHd,"turn limit: damage 110 vs 70",101,110,70,100,100,0,1,0,0,5,2,5,3,114,165,1,1,34,17,0,0
+gen:forest:8/hp100/alt/zG/r0,D,N2_SBHd,A,D,"turn limit: distance 47 vs 52",101,10,10,100,100,0,0,0,0,2,2,2,3,176,173,1,1,31,38,0,0
+gen:forest:8/hp100/alt/zG/r0,N2_SBHd,basefix,A,N2_SBHd,"tanks destroyed (B lost 2)",19,10,290,100,100,1,0,0,0,2,0,2,0,12,0,1,5,25,6,0,0
+gen:forest:8/hp100/alt/zG/r0,N2_SBHd,D,A,N2_SBHd,"turn limit: distance 44 vs 55",101,10,10,100,100,0,0,0,0,2,2,2,3,170,202,1,1,34,34,0,0
+gen:forest:8/hp100/alt/zG/r0,N4_GBHd,C,A,N4_GBHd,"turn limit: damage 80 vs 110",101,80,110,100,100,1,0,0,0,7,5,8,6,158,113,2,1,29,28,0,0
+gen:forest:8/hp100/alt/zG/r0,N5_GFB,B,A,N5_GFB,"turn limit: damage 10 vs 40",101,10,40,100,100,0,0,0,0,3,5,3,6,174,162,1,1,84,24,0,0
+gen:forest:8/hp100/alt/zG/r0,N6_SFB,A,A,N6_SFB,"turn limit: damage 140 vs 170",101,140,170,100,100,1,0,0,0,8,0,8,0,122,149,2,0,41,33,0,0
+gen:sand:20/hp10/alt/zG/r3,basefix,N2_SBHd,A,basefix,"turret destroyed by A1",17,110,60,10,0,0,0,0,0,0,4,0,4,0,19,8,5,6,13,0,0
+gen:sand:20/hp10/alt/zG/r3,A,N2_SBHd,A,A,"turret destroyed by A1",17,40,60,10,0,0,0,0,0,0,4,0,4,0,21,4,5,14,36,0,0
+gen:sand:20/hp10/alt/zG/r3,B,N2_SBHd,A,B,"turret destroyed by A2",37,50,60,10,0,0,0,0,0,7,4,8,4,29,46,5,5,28,127,0,0
+gen:sand:20/hp10/alt/zG/r3,C,N2_SBHd,A,C,"turret destroyed by A2",25,50,60,10,0,0,0,0,0,2,4,3,4,16,30,5,5,24,33,0,0
+gen:sand:20/hp10/alt/zG/r3,D,N2_SBHd,A,D,"tanks destroyed (B lost 2)",99,220,200,10,10,2,0,0,0,10,4,10,5,113,109,9,4,57,13,0,0
+gen:sand:20/hp10/alt/zG/r3,N2_SBHd,basefix,B,basefix,"turret destroyed by B1",17,60,110,0,10,0,0,0,0,4,0,4,0,20,0,5,8,21,4,0,0
+gen:sand:20/hp10/alt/zG/r3,N2_SBHd,D,B,D,"tanks destroyed (A lost 2)",100,280,250,10,10,0,2,0,0,4,13,4,14,124,110,7,9,23,18,0,0
+gen:sand:20/hp10/alt/zG/r3,N4_GBHd,C,B,C,"turret destroyed by B2",25,120,50,0,10,0,0,0,0,7,3,7,3,5,16,11,5,20,19,0,0
+gen:sand:20/hp10/alt/zG/r3,N5_GFB,B,B,B,"turn limit: damage 120 vs 70",101,120,70,10,10,0,0,0,0,8,5,8,6,167,153,12,7,29,18,0,0
+gen:sand:20/hp10/alt/zG/r3,N6_SFB,A,B,A,"turret destroyed by B1",18,110,40,0,10,0,0,0,0,5,0,5,0,13,1,10,4,21,54,0,0
+gen:sand:20/hp100/alt/zG/r1,basefix,N2_SBHd,A,basefix,"turret destroyed by A1",20,150,150,100,0,0,0,0,0,0,4,0,5,0,23,12,5,3,19,0,0
+gen:sand:20/hp100/alt/zG/r1,A,N2_SBHd,B,N2_SBHd,"turn limit: damage 50 vs 40",101,50,40,100,100,0,0,0,0,0,4,0,5,170,186,5,4,22,20,0,0
+gen:sand:20/hp100/alt/zG/r1,B,N2_SBHd,A,B,"turret destroyed by A2",39,50,150,100,0,0,0,0,0,7,4,10,5,32,48,5,5,16,12,0,0
+gen:sand:20/hp100/alt/zG/r1,C,N2_SBHd,A,C,"turret destroyed by A2",27,50,160,100,0,0,0,0,0,4,4,6,5,18,32,5,6,20,18,0,0
+gen:sand:20/hp100/alt/zG/r1,D,N2_SBHd,A,D,"tanks destroyed (B lost 2)",96,160,200,100,100,2,0,0,0,9,4,10,6,132,122,9,3,23,33,0,0
+gen:sand:20/hp100/alt/zG/r1,N2_SBHd,basefix,B,basefix,"turret destroyed by B1",20,150,150,0,100,0,0,0,0,4,0,5,0,24,0,5,12,23,36,0,0
+gen:sand:20/hp100/alt/zG/r1,N2_SBHd,D,B,D,"tanks destroyed (A lost 2)",89,210,230,100,100,0,2,0,0,4,9,5,11,113,103,8,10,38,23,0,0
+gen:sand:20/hp100/alt/zG/r1,N4_GBHd,C,B,C,"turret destroyed by B2",26,210,50,0,100,0,0,0,0,7,3,9,4,3,17,11,5,16,41,0,0
+gen:sand:20/hp100/alt/zG/r1,N5_GFB,B,B,B,"turn limit: damage 220 vs 150",101,220,150,100,100,1,0,0,0,8,5,9,5,157,148,16,7,22,18,0,0
+gen:sand:20/hp100/alt/zG/r1,N6_SFB,A,B,A,"turret destroyed by B1",21,200,50,0,100,0,0,0,0,5,0,6,0,17,1,10,5,37,27,0,0
+gen:forest:21/hp10/alt/zG/r3,basefix,N2_SBHd,A,basefix,"turret destroyed by A2",25,150,10,10,0,0,0,17,0,0,5,0,5,0,10,9,0,13,25,0,0
+gen:forest:21/hp10/alt/zG/r3,A,N2_SBHd,B,N2_SBHd,"turret destroyed by B2",42,110,90,0,10,0,1,0,0,0,3,0,3,34,35,0,0,12,10,0,0
+gen:forest:21/hp10/alt/zG/r3,B,N2_SBHd,A,B,"turn limit: damage 30 vs 70",101,30,70,10,10,0,0,0,0,10,0,10,0,160,164,0,0,18,37,0,0
+gen:forest:21/hp10/alt/zG/r3,C,N2_SBHd,B,N2_SBHd,"turn limit: damage 130 vs 0",101,130,0,10,10,0,1,0,0,0,5,0,5,88,100,0,0,42,32,0,0
+gen:forest:21/hp10/alt/zG/r3,D,N2_SBHd,B,N2_SBHd,"turn limit: damage 170 vs 90",101,170,90,10,10,0,1,0,0,0,8,0,8,168,150,0,0,29,24,0,0
+gen:forest:21/hp10/alt/zG/r3,N2_SBHd,basefix,A,N2_SBHd,"tanks destroyed (B lost 2)",27,0,240,10,10,2,0,0,19,6,0,7,0,11,0,0,8,84,8,0,0
+gen:forest:21/hp10/alt/zG/r3,N2_SBHd,D,A,N2_SBHd,"turret destroyed by A2",52,60,110,10,0,1,0,0,0,4,0,4,0,51,57,0,0,21,30,0,0
+gen:forest:21/hp10/alt/zG/r3,N4_GBHd,C,B,C,"turn limit: distance 59 vs 38",101,0,0,10,10,0,0,0,0,3,0,3,0,157,173,0,0,21,46,0,0
+gen:forest:21/hp10/alt/zG/r3,N5_GFB,B,A,N5_GFB,"turn limit: distance 34 vs 42",101,0,0,10,10,0,0,0,0,0,12,0,12,146,158,0,0,36,33,0,0
+gen:forest:21/hp10/alt/zG/r3,N6_SFB,A,A,N6_SFB,"turn limit: damage 120 vs 160",101,120,160,10,10,1,0,0,0,3,0,3,0,154,154,0,0,30,18,0,0
+gen:forest:21/hp100/alt/zG/r1,basefix,N2_SBHd,B,N2_SBHd,"tanks destroyed (A lost 2)",27,240,100,100,10,0,1,19,0,0,5,0,6,0,10,9,1,4,19,0,0
+gen:forest:21/hp100/alt/zG/r1,A,N2_SBHd,B,N2_SBHd,"tanks destroyed (A lost 2)",88,200,150,100,100,0,2,0,0,0,3,0,4,99,97,0,0,44,34,0,0
+gen:forest:21/hp100/alt/zG/r1,B,N2_SBHd,A,B,"turn limit: damage 30 vs 70",101,30,70,100,100,0,0,0,0,10,0,11,0,159,164,0,0,53,21,0,0
+gen:forest:21/hp100/alt/zG/r1,C,N2_SBHd,A,C,"turn limit: distance 29 vs 65",101,0,0,100,100,0,0,0,0,0,3,0,4,122,115,0,0,45,23,0,0
+gen:forest:21/hp100/alt/zG/r1,D,N2_SBHd,B,N2_SBHd,"tanks destroyed (A lost 2)",36,200,120,100,100,0,2,0,0,0,8,0,9,18,19,0,0,40,12,0,0
+gen:forest:21/hp100/alt/zG/r1,N2_SBHd,basefix,A,N2_SBHd,"tanks destroyed (B lost 2)",27,0,240,100,100,2,0,0,19,6,0,7,0,11,0,0,8,21,11,0,0
+gen:forest:21/hp100/alt/zG/r1,N2_SBHd,D,A,N2_SBHd,"turn limit: damage 30 vs 100",101,30,100,100,100,1,0,0,0,3,0,4,0,145,143,0,0,46,27,0,0
+gen:forest:21/hp100/alt/zG/r1,N4_GBHd,C,B,C,"turn limit: distance 59 vs 38",101,0,0,100,100,0,0,0,0,3,0,4,0,156,173,0,0,25,19,0,0
+gen:forest:21/hp100/alt/zG/r1,N5_GFB,B,A,N5_GFB,"turn limit: distance 34 vs 42",101,0,0,100,100,0,0,0,0,0,12,0,13,146,157,0,0,21,29,0,0
+gen:forest:21/hp100/alt/zG/r1,N6_SFB,A,A,N6_SFB,"turn limit: damage 120 vs 160",101,120,160,100,100,1,0,0,0,3,0,4,0,153,152,0,0,23,14,0,0
+gen:open:22/hp10/alt/zG/r1,basefix,N2_SBHd,B,N2_SBHd,"tanks destroyed (A lost 2)",20,210,0,10,10,0,2,1,0,0,6,0,7,0,8,3,0,7,24,0,0
+gen:open:22/hp10/alt/zG/r1,A,N2_SBHd,B,N2_SBHd,"tanks destroyed (A lost 2)",20,200,120,10,10,0,2,0,0,0,6,0,8,3,8,1,0,11,17,0,0
+gen:open:22/hp10/alt/zG/r1,B,N2_SBHd,B,N2_SBHd,"turn limit: damage 10 vs 0",101,10,0,10,10,0,0,0,0,9,5,9,7,148,124,1,0,19,32,0,0
+gen:open:22/hp10/alt/zG/r1,C,N2_SBHd,B,N2_SBHd,"turn limit: damage 10 vs 0",101,10,0,10,10,0,0,0,0,10,7,11,7,170,156,1,0,31,27,0,0
+gen:open:22/hp10/alt/zG/r1,D,N2_SBHd,B,N2_SBHd,"turret destroyed by B2",41,20,0,0,10,0,0,0,0,6,5,7,5,36,41,1,0,22,26,0,0
+gen:open:22/hp10/alt/zG/r1,N2_SBHd,basefix,A,N2_SBHd,"tanks destroyed (B lost 2)",20,0,210,10,10,2,0,0,1,6,0,7,0,8,0,0,3,19,3,0,0
+gen:open:22/hp10/alt/zG/r1,N2_SBHd,D,A,N2_SBHd,"turret destroyed by A2",41,0,20,10,0,0,0,0,0,5,6,6,6,41,44,0,1,22,28,0,0
+gen:open:22/hp10/alt/zG/r1,N4_GBHd,C,A,N4_GBHd,"turn limit: damage 0 vs 10",101,0,10,10,10,0,0,0,0,14,10,16,10,141,166,0,1,66,31,0,0
+gen:open:22/hp10/alt/zG/r1,N5_GFB,B,A,N5_GFB,"turn limit: damage 0 vs 10",101,0,10,10,10,0,0,0,0,8,11,10,11,115,139,0,1,44,34,0,0
+gen:open:22/hp10/alt/zG/r1,N6_SFB,A,B,A,"turret destroyed by B1",20,70,150,0,10,0,0,0,0,5,0,6,0,13,0,0,1,21,21,0,0
+gen:open:22/hp100/alt/zG/r3,basefix,N2_SBHd,B,N2_SBHd,"tanks destroyed (A lost 2)",20,210,0,100,100,0,2,1,0,0,6,0,7,0,8,3,0,8,25,0,0
+gen:open:22/hp100/alt/zG/r3,A,N2_SBHd,B,N2_SBHd,"turn limit: damage 190 vs 120",101,190,120,100,40,0,1,0,0,0,6,0,7,150,168,1,0,42,13,0,0
+gen:open:22/hp100/alt/zG/r3,B,N2_SBHd,B,N2_SBHd,"turn limit: damage 10 vs 0",101,10,0,100,100,0,0,0,0,9,5,9,6,149,125,1,0,24,17,0,0
+gen:open:22/hp100/alt/zG/r3,C,N2_SBHd,B,N2_SBHd,"turn limit: damage 10 vs 0",101,10,0,100,100,0,0,0,0,10,7,11,8,170,155,1,0,19,23,0,0
+gen:open:22/hp100/alt/zG/r3,D,N2_SBHd,B,N2_SBHd,"turret destroyed by B2",43,110,0,0,100,0,0,0,0,6,5,7,6,40,44,1,0,15,13,0,0
+gen:open:22/hp100/alt/zG/r3,N2_SBHd,basefix,A,N2_SBHd,"tanks destroyed (B lost 2)",20,0,210,100,100,2,0,0,1,6,0,7,0,8,0,0,3,16,10,0,0
+gen:open:22/hp100/alt/zG/r3,N2_SBHd,D,A,N2_SBHd,"turret destroyed by A2",42,0,110,100,0,0,0,0,0,5,8,6,8,42,46,0,1,29,22,0,0
+gen:open:22/hp100/alt/zG/r3,N4_GBHd,C,A,N4_GBHd,"turn limit: damage 0 vs 10",101,0,10,100,100,0,0,0,0,10,10,12,10,165,142,0,1,7,33,0,0
+gen:open:22/hp100/alt/zG/r3,N5_GFB,B,A,N5_GFB,"turn limit: damage 0 vs 10",101,0,10,100,100,0,0,0,0,8,11,9,11,116,139,0,1,66,37,0,0
+gen:open:22/hp100/alt/zG/r3,N6_SFB,A,B,A,"turret destroyed by B1",23,190,180,0,100,1,0,0,0,5,0,6,0,17,1,0,1,21,12,0,0
+gen:mixed:23/hp10/alt/zG/r1,basefix,N2_SBHd,B,N2_SBHd,"tanks destroyed (A lost 2)",13,230,0,10,10,0,2,1,0,0,5,0,7,0,6,6,0,7,32,0,0
+gen:mixed:23/hp10/alt/zG/r1,A,N2_SBHd,A,A,"turret destroyed by A1",20,140,70,10,0,0,0,0,0,0,7,0,11,2,10,0,0,16,19,0,0
+gen:mixed:23/hp10/alt/zG/r1,B,N2_SBHd,B,N2_SBHd,"turn limit: damage 80 vs 30",101,80,30,10,10,0,0,0,0,7,7,7,9,173,112,1,0,28,16,0,0
+gen:mixed:23/hp10/alt/zG/r1,C,N2_SBHd,B,N2_SBHd,"turn limit: distance 63 vs 37",101,0,0,10,10,0,0,0,0,8,7,8,9,168,159,0,0,44,23,0,0
+gen:mixed:23/hp10/alt/zG/r1,D,N2_SBHd,A,D,"turn limit: distance 48 vs 52",101,0,0,10,10,0,0,0,0,6,7,7,9,171,165,0,0,14,45,0,0
+gen:mixed:23/hp10/alt/zG/r1,N2_SBHd,basefix,A,N2_SBHd,"tanks destroyed (B lost 2)",14,0,230,10,10,2,0,0,1,6,0,8,0,6,0,0,6,16,4,0,0
+gen:mixed:23/hp10/alt/zG/r1,N2_SBHd,D,A,N2_SBHd,"turret destroyed by A2",38,0,10,10,0,0,0,0,0,7,6,8,7,34,40,0,0,14,17,0,0
+gen:mixed:23/hp10/alt/zG/r1,N4_GBHd,C,B,C,"turret destroyed by B1",38,10,0,0,10,0,0,0,0,8,8,8,10,22,35,0,0,30,29,0,0
+gen:mixed:23/hp10/alt/zG/r1,N5_GFB,B,A,N5_GFB,"turn limit: damage 60 vs 100",101,60,100,10,10,1,0,0,0,9,7,10,9,100,167,0,0,23,56,0,0
+gen:mixed:23/hp10/alt/zG/r1,N6_SFB,A,B,A,"turret destroyed by B1",20,10,0,0,10,0,0,0,0,7,0,8,0,25,2,0,0,17,24,0,0
+gen:mixed:23/hp100/alt/zG/r3,basefix,N2_SBHd,B,N2_SBHd,"tanks destroyed (A lost 2)",15,230,0,100,100,0,2,1,0,0,7,0,9,0,6,6,0,9,31,0,0
+gen:mixed:23/hp100/alt/zG/r3,A,N2_SBHd,B,N2_SBHd,"tanks destroyed (A lost 2)",20,270,150,100,100,0,2,0,0,0,8,0,8,1,7,0,0,21,29,0,0
+gen:mixed:23/hp100/alt/zG/r3,B,N2_SBHd,B,N2_SBHd,"turn limit: damage 80 vs 30",101,80,30,100,100,0,0,0,0,7,7,8,7,172,113,1,0,21,23,0,0
+gen:mixed:23/hp100/alt/zG/r3,C,N2_SBHd,B,N2_SBHd,"turn limit: distance 63 vs 32",101,0,0,100,100,0,0,0,0,8,7,9,7,167,158,0,0,25,27,0,0
+gen:mixed:23/hp100/alt/zG/r3,D,N2_SBHd,A,D,"turn limit: distance 45 vs 49",101,0,0,100,100,0,0,0,0,6,7,8,7,165,159,0,0,120,35,0,0
+gen:mixed:23/hp100/alt/zG/r3,N2_SBHd,basefix,A,N2_SBHd,"tanks destroyed (B lost 2)",15,0,230,100,100,2,0,0,1,7,0,9,0,6,0,0,6,36,7,0,0
+gen:mixed:23/hp100/alt/zG/r3,N2_SBHd,D,B,D,"turn limit: distance 51 vs 41",101,0,0,100,100,0,0,0,0,7,6,8,6,167,167,0,0,21,25,0,0
+gen:mixed:23/hp100/alt/zG/r3,N4_GBHd,C,A,N4_GBHd,"turn limit: distance 43 vs 63",101,0,0,100,100,0,0,0,0,10,8,12,10,152,167,0,0,30,14,0,0
+gen:mixed:23/hp100/alt/zG/r3,N5_GFB,B,A,N5_GFB,"turn limit: damage 60 vs 100",101,60,100,100,100,1,0,0,0,9,7,10,7,104,167,0,0,42,36,0,0
+gen:mixed:23/hp100/alt/zG/r3,N6_SFB,A,B,A,"turret destroyed by B1",23,100,0,0,100,0,0,0,0,7,0,8,0,31,6,0,0,22,11,0,0
+gen:mixed:24/hp10/alt/zG/r0,basefix,N2_SBHd,B,N2_SBHd,"tanks destroyed (A lost 2)",22,240,0,10,10,0,1,5,0,0,5,0,5,0,10,10,0,3,10,0,0
+gen:mixed:24/hp10/alt/zG/r0,A,N2_SBHd,B,N2_SBHd,"turret destroyed by B2",38,150,90,0,10,0,0,0,0,0,6,0,6,31,26,0,0,9,40,0,0
+gen:mixed:24/hp10/alt/zG/r0,B,N2_SBHd,A,B,"turret destroyed by A3",55,120,40,10,0,0,1,0,0,6,5,6,5,42,33,2,0,36,28,0,0
+gen:mixed:24/hp10/alt/zG/r0,C,N2_SBHd,A,C,"turret destroyed by A3",43,140,70,10,0,0,1,0,0,5,6,5,6,35,28,1,0,35,21,0,0
+gen:mixed:24/hp10/alt/zG/r0,D,N2_SBHd,B,N2_SBHd,"tanks destroyed (A lost 2)",39,200,120,10,10,0,2,0,0,2,8,2,9,3,23,0,0,22,25,0,0
+gen:mixed:24/hp10/alt/zG/r0,N2_SBHd,basefix,A,N2_SBHd,"tanks destroyed (B lost 2)",16,0,200,10,10,2,0,0,0,6,0,6,0,7,0,0,10,15,3,0,0
+gen:mixed:24/hp10/alt/zG/r0,N2_SBHd,D,A,N2_SBHd,"turn limit: damage 100 vs 170",101,100,170,10,10,1,1,0,0,5,4,6,4,105,89,0,0,28,31,0,0
+gen:mixed:24/hp10/alt/zG/r0,N4_GBHd,C,B,C,"turret destroyed by B3",41,70,140,0,10,1,0,0,0,6,5,6,5,24,33,0,1,24,19,0,0
+gen:mixed:24/hp10/alt/zG/r0,N5_GFB,B,B,B,"turn limit: damage 60 vs 10",101,60,10,10,10,0,0,0,0,8,4,8,5,112,171,3,1,41,37,0,0
+gen:mixed:24/hp10/alt/zG/r0,N6_SFB,A,A,N6_SFB,"turret destroyed by A3",31,10,10,10,0,0,0,0,0,8,0,9,0,26,20,1,0,25,39,0,0
+gen:mixed:24/hp100/alt/zG/r2,basefix,N2_SBHd,B,N2_SBHd,"tanks destroyed (A lost 2)",16,200,0,100,100,0,2,0,0,0,5,0,6,0,7,10,0,4,39,0,0
+gen:mixed:24/hp100/alt/zG/r2,A,N2_SBHd,B,N2_SBHd,"tanks destroyed (A lost 2)",36,270,180,100,100,0,2,0,0,0,7,0,8,22,23,0,0,18,12,0,0
+gen:mixed:24/hp100/alt/zG/r2,B,N2_SBHd,B,N2_SBHd,"turn limit: damage 10 vs 0",101,10,0,100,100,0,0,0,0,0,5,0,6,138,69,1,0,21,24,0,0
+gen:mixed:24/hp100/alt/zG/r2,C,N2_SBHd,A,C,"turret destroyed by A3",44,170,160,100,0,0,1,0,0,5,6,8,6,34,28,1,0,35,28,0,0
+gen:mixed:24/hp100/alt/zG/r2,D,N2_SBHd,B,N2_SBHd,"turn limit: damage 100 vs 60",101,100,60,100,100,0,1,0,0,6,8,9,9,103,162,0,0,26,22,0,0
+gen:mixed:24/hp100/alt/zG/r2,N2_SBHd,basefix,A,N2_SBHd,"tanks destroyed (B lost 2)",21,30,240,100,100,2,0,0,5,5,0,8,0,12,0,0,10,17,6,0,0
+gen:mixed:24/hp100/alt/zG/r2,N2_SBHd,D,A,N2_SBHd,"turn limit: damage 90 vs 170",101,90,170,100,100,1,0,0,0,11,4,15,4,176,97,0,0,37,29,0,0
+gen:mixed:24/hp100/alt/zG/r2,N4_GBHd,C,B,C,"turret destroyed by B3",41,160,170,0,100,1,0,0,0,6,5,9,5,24,31,0,1,20,29,0,0
+gen:mixed:24/hp100/alt/zG/r2,N5_GFB,B,A,N5_GFB,"turn limit: damage 60 vs 90",101,60,90,100,100,0,0,0,0,8,4,9,4,112,171,3,2,67,45,0,0
+gen:mixed:24/hp100/alt/zG/r2,N6_SFB,A,A,N6_SFB,"turret destroyed by A3",55,80,200,100,0,1,0,0,0,9,0,11,0,58,54,2,0,29,22,0,0
+gen:sand:25/hp10/alt/zG/r0,basefix,N2_SBHd,B,N2_SBHd,"tanks destroyed (A lost 2)",14,270,40,10,10,0,2,0,0,0,4,0,5,0,20,17,4,44,24,0,0
+gen:sand:25/hp10/alt/zG/r0,A,N2_SBHd,B,N2_SBHd,"turn limit: damage 70 vs 40",101,70,40,10,10,0,0,0,0,0,4,0,5,171,182,7,4,28,20,0,0
+gen:sand:25/hp10/alt/zG/r0,B,N2_SBHd,B,N2_SBHd,"turn limit: damage 70 vs 40",101,70,40,10,10,0,0,0,0,0,4,0,5,169,182,7,4,22,21,0,0
+gen:sand:25/hp10/alt/zG/r0,C,N2_SBHd,B,N2_SBHd,"turn limit: damage 70 vs 40",101,70,40,10,10,0,0,0,0,0,4,0,5,171,182,7,4,23,31,0,0
+gen:sand:25/hp10/alt/zG/r0,D,N2_SBHd,B,N2_SBHd,"turn limit: damage 110 vs 40",101,110,40,10,10,0,0,0,0,4,4,5,5,154,179,11,4,27,20,0,0
+gen:sand:25/hp10/alt/zG/r0,N2_SBHd,basefix,A,N2_SBHd,"tanks destroyed (B lost 2)",19,40,250,10,10,1,0,0,10,4,0,5,0,26,0,4,9,18,5,0,0
+gen:sand:25/hp10/alt/zG/r0,N2_SBHd,D,A,N2_SBHd,"turn limit: damage 40 vs 110",101,40,110,10,10,0,0,0,0,4,4,5,5,183,153,4,11,24,12,0,0
+gen:sand:25/hp10/alt/zG/r0,N4_GBHd,C,A,N4_GBHd,"turn limit: damage 40 vs 70",101,40,70,10,10,0,0,0,0,4,0,5,0,183,169,4,7,17,42,0,0
+gen:sand:25/hp10/alt/zG/r0,N5_GFB,B,B,B,"turret destroyed by B1",32,60,50,0,10,0,0,0,0,3,10,4,11,56,28,5,5,35,15,0,0
+gen:sand:25/hp10/alt/zG/r0,N6_SFB,A,B,A,"turret destroyed by B1",25,70,150,0,10,0,0,0,0,3,0,4,0,41,3,6,15,17,14,0,0
+gen:sand:25/hp100/alt/zG/r2,basefix,N2_SBHd,B,N2_SBHd,"tanks destroyed (A lost 2)",18,250,40,100,100,0,1,9,0,0,4,0,5,0,24,9,4,7,30,0,0
+gen:sand:25/hp100/alt/zG/r2,A,N2_SBHd,B,N2_SBHd,"turn limit: damage 70 vs 40",101,70,40,100,100,0,0,0,0,0,4,0,5,169,183,7,4,14,20,0,0
+gen:sand:25/hp100/alt/zG/r2,B,N2_SBHd,B,N2_SBHd,"turn limit: damage 70 vs 40",101,70,40,100,100,0,0,0,0,0,4,0,5,167,183,7,4,19,27,0,0
+gen:sand:25/hp100/alt/zG/r2,C,N2_SBHd,B,N2_SBHd,"turn limit: damage 70 vs 40",101,70,40,100,100,0,0,0,0,0,4,0,5,169,183,7,4,61,17,0,0
+gen:sand:25/hp100/alt/zG/r2,D,N2_SBHd,B,N2_SBHd,"turn limit: damage 80 vs 40",101,80,40,100,100,0,0,0,0,4,4,5,4,159,188,8,4,35,28,0,0
+gen:sand:25/hp100/alt/zG/r2,N2_SBHd,basefix,A,N2_SBHd,"tanks destroyed (B lost 2)",14,40,260,100,100,2,0,0,0,4,0,5,0,20,0,4,16,20,4,0,0
+gen:sand:25/hp100/alt/zG/r2,N2_SBHd,D,A,N2_SBHd,"turn limit: damage 40 vs 110",101,40,110,100,100,0,0,0,0,4,4,5,4,179,155,4,11,18,28,0,0
+gen:sand:25/hp100/alt/zG/r2,N4_GBHd,C,A,N4_GBHd,"turn limit: damage 40 vs 70",101,40,70,100,100,0,0,0,0,4,0,5,0,182,171,4,7,14,19,0,0
+gen:sand:25/hp100/alt/zG/r2,N5_GFB,B,B,B,"turret destroyed by B1",33,150,50,0,100,0,0,0,0,3,11,4,12,58,29,5,5,33,19,0,0
+gen:sand:25/hp100/alt/zG/r2,N6_SFB,A,B,A,"turret destroyed by B1",28,200,160,0,100,0,0,0,0,3,0,4,0,42,7,10,16,12,15,0,0
+gen:forest:26/hp10/alt/zG/r0,basefix,N2_SBHd,B,N2_SBHd,"tanks destroyed (A lost 2)",21,230,0,10,10,0,2,2,0,0,2,0,2,0,8,5,0,6,15,0,0
+gen:forest:26/hp10/alt/zG/r0,A,N2_SBHd,B,N2_SBHd,"turret destroyed by B2",29,150,90,0,10,0,0,0,0,0,7,0,8,19,15,0,0,21,25,0,0
+gen:forest:26/hp10/alt/zG/r0,B,N2_SBHd,A,B,"turn limit: damage 0 vs 70",101,0,70,10,10,0,0,0,0,6,7,6,8,114,111,0,0,18,37,0,0
+gen:forest:26/hp10/alt/zG/r0,C,N2_SBHd,A,C,"turn limit: damage 0 vs 70",101,0,70,10,10,0,0,0,0,5,5,5,6,119,111,0,0,25,30,0,0
+gen:forest:26/hp10/alt/zG/r0,D,N2_SBHd,A,D,"turn limit: distance 51 vs 53",101,0,0,10,10,0,0,0,0,4,6,5,6,105,107,0,0,21,125,0,0
+gen:forest:26/hp10/alt/zG/r0,N2_SBHd,basefix,A,N2_SBHd,"tanks destroyed (B lost 2)",27,0,220,10,10,0,0,0,23,5,0,5,0,18,0,0,6,12,6,0,0
+gen:forest:26/hp10/alt/zG/r0,N2_SBHd,D,A,N2_SBHd,"turn limit: damage 60 vs 100",101,60,100,10,10,1,0,0,0,8,4,8,5,104,87,0,0,24,69,0,0
+gen:forest:26/hp10/alt/zG/r0,N4_GBHd,C,B,C,"turret destroyed by B2",35,80,30,0,10,0,0,0,0,5,5,6,5,21,24,0,0,24,47,0,0
+gen:forest:26/hp10/alt/zG/r0,N5_GFB,B,A,N5_GFB,"turn limit: distance 44 vs 58",101,0,0,10,10,0,0,0,0,5,8,5,8,169,162,0,0,50,12,0,0
+gen:forest:26/hp10/alt/zG/r0,N6_SFB,A,A,N6_SFB,"turn limit: damage 60 vs 100",101,60,100,10,10,1,0,0,0,3,0,3,0,169,120,0,0,16,16,0,0
+gen:forest:26/hp100/alt/zG/r2,basefix,N2_SBHd,B,N2_SBHd,"tanks destroyed (A lost 2)",27,220,0,100,100,0,0,23,0,0,5,0,5,0,17,6,0,26,16,0,0
+gen:forest:26/hp100/alt/zG/r2,A,N2_SBHd,B,N2_SBHd,"turret destroyed by B2",29,270,90,0,100,0,1,0,0,0,6,0,7,19,15,0,0,13,23,0,0
+gen:forest:26/hp100/alt/zG/r2,B,N2_SBHd,B,N2_SBHd,"turn limit: damage 70 vs 0",101,70,0,100,100,0,0,0,0,6,7,6,8,111,112,0,0,18,33,0,0
+gen:forest:26/hp100/alt/zG/r2,C,N2_SBHd,A,C,"turret destroyed by A2",41,60,170,100,0,0,0,0,0,5,5,5,6,25,28,0,0,26,24,0,0
+gen:forest:26/hp100/alt/zG/r2,D,N2_SBHd,B,N2_SBHd,"turret destroyed by B2",92,200,60,0,100,0,1,0,0,4,7,5,8,64,83,0,0,47,23,0,0
+gen:forest:26/hp100/alt/zG/r2,N2_SBHd,basefix,A,N2_SBHd,"tanks destroyed (B lost 2)",22,30,230,100,100,2,0,0,2,2,0,4,0,9,0,0,5,14,3,0,0
+gen:forest:26/hp100/alt/zG/r2,N2_SBHd,D,B,D,"turn limit: distance 54 vs 53",101,0,0,100,100,0,0,0,0,5,6,7,8,163,157,0,0,23,26,0,0
+gen:forest:26/hp100/alt/zG/r2,N4_GBHd,C,B,C,"turn limit: distance 53 vs 37",101,0,0,100,100,0,0,0,0,5,4,6,6,109,111,0,0,19,17,0,0
+gen:forest:26/hp100/alt/zG/r2,N5_GFB,B,A,N5_GFB,"turn limit: distance 43 vs 58",101,0,0,100,100,0,0,0,0,5,8,8,8,149,163,0,0,15,28,0,0
+gen:forest:26/hp100/alt/zG/r2,N6_SFB,A,A,N6_SFB,"tanks destroyed (B lost 2)",24,120,200,100,100,2,0,0,0,4,0,5,0,17,12,0,0,20,14,0,0
+practice/hp10/alt/zG/r0,basefix,N4_GBHd,A,basefix,"turret destroyed by A3",20,100,10,10,0,0,1,0,0,0,3,0,3,0,15,0,0,42,43,0,0
+practice/hp10/alt/zG/r0,A,N4_GBHd,B,N4_GBHd,"turret destroyed by B2",28,10,0,0,10,0,0,0,0,2,3,2,3,21,26,0,0,34,38,0,0
+practice/hp10/alt/zG/r0,B,N4_GBHd,A,B,"turn limit: distance 53 vs 59",101,0,0,10,10,0,0,0,0,5,5,5,6,122,117,0,0,43,29,0,0
+practice/hp10/alt/zG/r0,C,N4_GBHd,A,C,"turn limit: distance 56 vs 57",101,0,0,10,10,0,0,0,0,7,5,8,6,170,169,0,0,46,44,0,0
+practice/hp10/alt/zG/r0,D,N4_GBHd,A,D,"turn limit: damage 60 vs 100",101,60,100,10,10,1,0,0,0,4,4,4,5,96,125,0,0,26,21,0,0
+practice/hp10/alt/zG/r0,N2_SBHd,A,A,N2_SBHd,"turret destroyed by A2",29,0,10,10,0,0,0,0,0,5,2,6,2,18,25,0,0,43,33,0,0
+practice/hp10/alt/zG/r0,N4_GBHd,basefix,B,basefix,"turret destroyed by B2",21,10,0,0,10,0,0,0,16,5,0,7,0,14,0,0,0,29,16,0,0
+practice/hp10/alt/zG/r0,N4_GBHd,D,B,D,"turn limit: distance 56 vs 37",101,0,0,10,10,0,0,0,0,4,4,5,4,179,161,0,0,28,26,0,0
+practice/hp10/alt/zG/r0,N5_GFB,C,B,C,"turn limit: distance 57 vs 56",101,0,0,10,10,0,0,0,0,7,7,9,9,169,170,0,0,28,30,0,0
+practice/hp10/alt/zG/r0,N6_SFB,B,B,B,"turn limit: distance 58 vs 57",101,0,0,10,10,0,0,0,0,10,4,11,4,108,124,0,0,32,24,0,0
+practice/hp100/alt/zG/r2,basefix,N4_GBHd,A,basefix,"turret destroyed by A2",24,30,100,100,0,0,0,21,0,0,5,0,6,0,16,0,0,7,24,0,0
+practice/hp100/alt/zG/r2,A,N4_GBHd,B,N4_GBHd,"turret destroyed by B2",30,100,30,0,70,0,0,0,0,2,3,2,4,23,27,0,0,28,43,0,0
+practice/hp100/alt/zG/r2,B,N4_GBHd,A,B,"turn limit: distance 55 vs 58",101,0,0,100,100,0,0,0,0,5,5,5,6,124,117,0,0,18,20,0,0
+practice/hp100/alt/zG/r2,C,N4_GBHd,A,C,"turn limit: distance 53 vs 59",101,0,0,100,100,0,0,0,0,5,7,5,9,171,168,0,0,22,39,0,0
+practice/hp100/alt/zG/r2,D,N4_GBHd,B,N4_GBHd,"turn limit: distance 56 vs 39",101,0,0,100,100,0,0,0,0,4,4,4,5,167,174,0,0,23,36,0,0
+practice/hp100/alt/zG/r2,N2_SBHd,A,A,N2_SBHd,"turret destroyed by A2",30,0,100,100,0,0,0,0,0,5,2,6,2,20,25,0,0,25,25,0,0
+practice/hp100/alt/zG/r2,N4_GBHd,basefix,B,basefix,"turret destroyed by B3",23,100,130,0,100,1,0,0,0,3,0,3,0,16,0,0,0,19,9,0,0
+practice/hp100/alt/zG/r2,N4_GBHd,D,B,D,"turn limit: damage 90 vs 30",101,90,30,100,100,0,0,0,0,4,4,5,4,135,122,0,0,20,35,0,0
+practice/hp100/alt/zG/r2,N5_GFB,C,B,C,"turn limit: distance 57 vs 56",101,0,0,100,100,0,0,0,0,6,5,6,7,171,171,0,0,19,18,0,0
+practice/hp100/alt/zG/r2,N6_SFB,B,B,B,"turn limit: distance 58 vs 57",101,0,0,100,100,0,0,0,0,10,4,11,4,108,124,0,0,19,30,0,0
+gen:sand:1/hp10/alt/zG/r2,basefix,N4_GBHd,B,N4_GBHd,"tanks destroyed (A lost 2)",16,210,30,10,10,0,1,2,0,0,5,0,6,0,4,6,3,6,64,0,0
+gen:sand:1/hp10/alt/zG/r2,A,N4_GBHd,B,N4_GBHd,"turn limit: damage 140 vs 90",101,140,90,10,10,0,1,0,0,0,8,0,9,111,165,6,3,30,36,0,0
+gen:sand:1/hp10/alt/zG/r2,B,N4_GBHd,A,B,"turn limit: damage 120 vs 180",101,120,180,10,10,0,1,0,0,8,5,8,6,108,153,9,4,14,24,0,0
+gen:sand:1/hp10/alt/zG/r2,C,N4_GBHd,B,N4_GBHd,"tanks destroyed (A lost 2)",32,200,20,10,10,0,1,0,0,3,5,4,6,23,18,17,2,30,24,0,0
+gen:sand:1/hp10/alt/zG/r2,D,N4_GBHd,B,N4_GBHd,"turn limit: damage 60 vs 30",101,60,30,10,10,0,0,0,0,8,5,10,5,168,164,6,3,51,23,0,0
+gen:sand:1/hp10/alt/zG/r2,N2_SBHd,A,A,N2_SBHd,"tanks destroyed (B lost 2)",23,190,290,10,10,2,0,0,0,6,0,7,0,11,8,7,8,20,27,0,0
+gen:sand:1/hp10/alt/zG/r2,N4_GBHd,basefix,A,N4_GBHd,"tanks destroyed (B lost 2)",14,20,240,10,10,2,0,0,1,5,0,6,0,4,0,2,12,31,8,0,0
+gen:sand:1/hp10/alt/zG/r2,N4_GBHd,D,A,N4_GBHd,"turn limit: damage 30 vs 60",101,30,60,10,10,0,0,0,0,5,8,6,9,162,170,3,6,25,37,0,0
+gen:sand:1/hp10/alt/zG/r2,N5_GFB,C,A,N5_GFB,"tanks destroyed (B lost 2)",22,60,200,10,10,1,0,0,0,5,0,7,0,13,16,3,7,16,27,0,0
+gen:sand:1/hp10/alt/zG/r2,N6_SFB,B,A,N6_SFB,"turn limit: damage 60 vs 110",101,60,110,10,10,0,0,0,0,7,8,8,8,163,156,6,11,19,22,0,0
+gen:sand:1/hp100/alt/zG/r0,basefix,N4_GBHd,B,N4_GBHd,"tanks destroyed (A lost 2)",13,220,30,100,100,0,2,1,0,0,5,0,6,0,3,11,3,6,17,0,0
+gen:sand:1/hp100/alt/zG/r0,A,N4_GBHd,B,N4_GBHd,"turn limit: damage 210 vs 140",101,210,140,100,100,0,1,0,0,0,11,0,12,109,159,6,5,19,17,0,0
+gen:sand:1/hp100/alt/zG/r0,B,N4_GBHd,B,N4_GBHd,"turn limit: damage 70 vs 40",101,70,40,100,100,0,0,0,0,8,7,9,8,160,162,7,4,19,40,0,0
+gen:sand:1/hp100/alt/zG/r0,C,N4_GBHd,B,N4_GBHd,"tanks destroyed (A lost 2)",32,200,20,100,100,0,1,0,0,4,5,4,6,23,18,17,2,28,31,0,0
+gen:sand:1/hp100/alt/zG/r0,D,N4_GBHd,B,N4_GBHd,"turn limit: damage 60 vs 30",101,60,30,100,100,0,0,0,0,6,5,8,5,166,162,6,3,20,32,0,0
+gen:sand:1/hp100/alt/zG/r0,N2_SBHd,A,A,N2_SBHd,"tanks destroyed (B lost 2)",25,190,290,100,100,2,0,0,0,7,0,8,0,11,11,7,8,43,25,0,0
+gen:sand:1/hp100/alt/zG/r0,N4_GBHd,basefix,A,N4_GBHd,"tanks destroyed (B lost 2)",18,40,210,100,100,0,0,0,2,5,0,6,0,7,0,4,9,34,5,0,0
+gen:sand:1/hp100/alt/zG/r0,N4_GBHd,D,A,N4_GBHd,"turn limit: damage 30 vs 60",101,30,60,100,100,0,0,0,0,5,6,6,7,162,167,3,6,40,36,0,0
+gen:sand:1/hp100/alt/zG/r0,N5_GFB,C,A,N5_GFB,"turn limit: damage 90 vs 150",101,90,150,100,100,1,0,0,0,5,2,6,2,154,117,9,8,13,20,0,0
+gen:sand:1/hp100/alt/zG/r0,N6_SFB,B,B,B,"turn limit: damage 140 vs 110",101,140,110,100,30,0,1,0,0,7,8,8,9,144,164,9,4,23,21,0,0
+gen:forest:2/hp10/alt/zG/r0,basefix,N4_GBHd,B,N4_GBHd,"tanks destroyed (A lost 2)",25,240,30,10,10,0,2,1,0,0,5,0,6,0,11,8,0,5,30,0,0
+gen:forest:2/hp10/alt/zG/r0,A,N4_GBHd,B,N4_GBHd,"turret destroyed by B2",27,10,0,0,10,0,0,0,0,3,7,3,8,21,18,0,0,16,26,0,0
+gen:forest:2/hp10/alt/zG/r0,B,N4_GBHd,B,N4_GBHd,"turn limit: distance 60 vs 50",101,0,0,10,10,0,0,0,0,11,9,11,10,172,159,0,0,17,31,0,0
+gen:forest:2/hp10/alt/zG/r0,C,N4_GBHd,B,N4_GBHd,"turn limit: distance 60 vs 50",101,0,0,10,10,0,0,0,0,9,9,9,10,173,160,0,0,39,40,0,0
+gen:forest:2/hp10/alt/zG/r0,D,N4_GBHd,A,D,"turn limit: distance 41 vs 54",101,0,0,10,10,0,0,0,0,6,5,7,5,169,167,0,0,15,19,0,0
+gen:forest:2/hp10/alt/zG/r0,N2_SBHd,A,A,N2_SBHd,"turret destroyed by A2",27,60,110,10,0,1,0,0,0,5,0,6,0,17,9,0,0,32,37,0,0
+gen:forest:2/hp10/alt/zG/r0,N4_GBHd,basefix,A,N4_GBHd,"turret destroyed by A2",28,0,200,10,0,1,0,0,19,6,0,7,0,15,0,0,0,22,8,0,0
+gen:forest:2/hp10/alt/zG/r0,N4_GBHd,D,B,D,"turn limit: distance 56 vs 42",101,0,0,10,10,0,0,0,0,7,10,8,10,166,166,0,0,29,25,0,0
+gen:forest:2/hp10/alt/zG/r0,N5_GFB,C,B,C,"turn limit: full tie → second player",101,0,0,10,10,0,0,0,0,10,9,11,9,156,164,0,0,41,26,0,0
+gen:forest:2/hp10/alt/zG/r0,N6_SFB,B,A,N6_SFB,"turn limit: distance 55 vs 56",101,0,0,10,10,0,0,0,0,10,11,12,11,157,168,0,0,31,28,0,0
+gen:forest:2/hp100/alt/zG/r2,basefix,N4_GBHd,B,N4_GBHd,"turret destroyed by B2",29,290,0,0,100,0,1,21,0,0,6,0,7,0,15,0,0,10,28,0,0
+gen:forest:2/hp100/alt/zG/r2,A,N4_GBHd,B,N4_GBHd,"turret destroyed by B2",28,100,0,0,100,0,0,0,0,3,7,3,8,22,20,0,0,22,20,0,0
+gen:forest:2/hp100/alt/zG/r2,B,N4_GBHd,B,N4_GBHd,"turn limit: distance 60 vs 50",101,0,0,100,100,0,0,0,0,11,9,11,9,172,159,0,0,28,32,0,0
+gen:forest:2/hp100/alt/zG/r2,C,N4_GBHd,B,N4_GBHd,"turn limit: distance 60 vs 50",101,0,0,100,100,0,0,0,0,9,9,9,9,173,160,0,0,41,34,0,0
+gen:forest:2/hp100/alt/zG/r2,D,N4_GBHd,A,D,"turn limit: distance 41 vs 54",101,0,0,100,100,0,0,0,0,6,5,7,5,169,167,0,0,44,65,0,0
+gen:forest:2/hp100/alt/zG/r2,N2_SBHd,A,A,N2_SBHd,"turret destroyed by A2",28,90,200,100,0,1,0,0,0,5,2,6,2,16,7,0,0,24,34,0,0
+gen:forest:2/hp100/alt/zG/r2,N4_GBHd,basefix,A,N4_GBHd,"tanks destroyed (B lost 2)",25,0,240,100,100,1,0,0,1,5,0,6,0,12,0,0,8,22,12,0,0
+gen:forest:2/hp100/alt/zG/r2,N4_GBHd,D,B,D,"turn limit: distance 56 vs 42",101,0,0,100,100,0,0,0,0,7,10,8,10,166,166,0,0,40,35,0,0
+gen:forest:2/hp100/alt/zG/r2,N5_GFB,C,B,C,"turn limit: full tie → second player",101,0,0,100,100,0,0,0,0,10,9,10,9,157,164,0,0,19,26,0,0
+gen:forest:2/hp100/alt/zG/r2,N6_SFB,B,A,N6_SFB,"turn limit: distance 55 vs 56",101,0,0,100,100,0,0,0,0,10,11,10,11,157,168,0,0,20,30,0,0
+gen:open:3/hp10/alt/zG/r2,basefix,N4_GBHd,B,N4_GBHd,"tanks destroyed (A lost 2)",23,200,0,10,10,0,2,21,0,0,5,0,8,0,11,0,0,9,14,0,0
+gen:open:3/hp10/alt/zG/r2,A,N4_GBHd,B,N4_GBHd,"turn limit: damage 170 vs 130",101,170,130,10,10,1,1,0,0,3,8,3,12,106,119,0,0,25,20,0,0
+gen:open:3/hp10/alt/zG/r2,B,N4_GBHd,B,N4_GBHd,"turn limit: distance 58 vs 52",101,0,0,10,10,0,0,0,0,11,7,14,7,133,112,0,0,39,17,0,0
+gen:open:3/hp10/alt/zG/r2,C,N4_GBHd,B,N4_GBHd,"turn limit: distance 68 vs 34",101,0,0,10,10,0,0,0,0,10,8,14,10,158,133,0,0,26,26,0,0
+gen:open:3/hp10/alt/zG/r2,D,N4_GBHd,B,N4_GBHd,"turret destroyed by B2",47,10,0,0,10,0,0,0,0,6,8,10,10,44,34,0,0,20,29,0,0
+gen:open:3/hp10/alt/zG/r2,N2_SBHd,A,A,N2_SBHd,"tanks destroyed (B lost 2)",39,120,200,10,10,2,0,0,0,6,1,10,1,34,26,0,0,33,26,0,0
+gen:open:3/hp10/alt/zG/r2,N4_GBHd,basefix,A,N4_GBHd,"tanks destroyed (B lost 2)",17,0,210,10,10,2,0,0,0,5,0,7,0,4,0,0,3,30,3,0,0
+gen:open:3/hp10/alt/zG/r2,N4_GBHd,D,A,N4_GBHd,"turret destroyed by A2",48,0,10,10,0,0,0,0,0,8,6,12,7,33,50,0,0,14,18,0,0
+gen:open:3/hp10/alt/zG/r2,N5_GFB,C,A,N5_GFB,"turn limit: distance 54 vs 58",101,0,0,10,10,0,0,0,0,8,12,12,12,155,161,0,0,34,28,0,0
+gen:open:3/hp10/alt/zG/r2,N6_SFB,B,B,B,"turn limit: distance 57 vs 55",101,0,0,10,10,0,0,0,0,8,11,11,11,105,128,0,0,34,15,0,0
+gen:open:3/hp100/alt/zG/r0,basefix,N4_GBHd,B,N4_GBHd,"tanks destroyed (A lost 2)",15,210,0,100,100,0,2,0,0,0,3,0,3,0,4,3,0,11,29,0,0
+gen:open:3/hp100/alt/zG/r0,A,N4_GBHd,B,N4_GBHd,"tanks destroyed (A lost 2)",24,200,120,100,100,0,2,0,0,0,6,0,6,10,16,0,0,40,25,0,0
+gen:open:3/hp100/alt/zG/r0,B,N4_GBHd,B,N4_GBHd,"turn limit: distance 58 vs 52",101,0,0,100,100,0,0,0,0,11,7,11,7,135,112,0,0,43,29,0,0
+gen:open:3/hp100/alt/zG/r0,C,N4_GBHd,B,N4_GBHd,"turn limit: distance 60 vs 49",101,0,0,100,100,0,0,0,0,12,7,12,8,166,155,0,0,32,154,0,0
+gen:open:3/hp100/alt/zG/r0,D,N4_GBHd,B,N4_GBHd,"turret destroyed by B2",46,100,0,0,100,0,0,0,0,6,8,6,8,48,33,0,0,36,23,0,0
+gen:open:3/hp100/alt/zG/r0,N2_SBHd,A,A,N2_SBHd,"turn limit: damage 60 vs 140",101,60,140,100,100,0,0,0,0,5,0,5,0,164,165,0,0,27,31,0,0
+gen:open:3/hp100/alt/zG/r0,N4_GBHd,basefix,A,N4_GBHd,"tanks destroyed (B lost 2)",23,0,200,100,100,2,0,0,21,5,0,5,0,13,0,0,0,30,10,0,0
+gen:open:3/hp100/alt/zG/r0,N4_GBHd,D,A,N4_GBHd,"turn limit: distance 50 vs 52",101,0,0,100,100,0,0,0,0,8,6,8,6,150,157,0,0,29,22,0,0
+gen:open:3/hp100/alt/zG/r0,N5_GFB,C,A,N5_GFB,"turn limit: distance 45 vs 57",101,0,0,100,100,0,0,0,0,9,10,10,10,102,153,0,0,36,55,0,0
+gen:open:3/hp100/alt/zG/r0,N6_SFB,B,B,B,"turn limit: distance 57 vs 55",101,0,0,100,100,0,0,0,0,9,11,9,11,105,126,0,0,25,19,0,0
+gen:mixed:4/hp10/alt/zG/r0,basefix,N4_GBHd,B,N4_GBHd,"tanks destroyed (A lost 2)",19,200,0,10,10,0,2,15,0,0,5,0,6,0,11,8,0,6,29,0,0
+gen:mixed:4/hp10/alt/zG/r0,A,N4_GBHd,B,N4_GBHd,"tanks destroyed (A lost 2)",35,210,120,10,10,0,2,0,0,0,7,0,8,20,29,3,0,14,35,0,0
+gen:mixed:4/hp10/alt/zG/r0,B,N4_GBHd,B,N4_GBHd,"turn limit: damage 30 vs 0",101,30,0,10,10,0,0,0,0,8,8,9,9,165,158,3,0,26,25,0,0
+gen:mixed:4/hp10/alt/zG/r0,C,N4_GBHd,B,N4_GBHd,"turn limit: damage 30 vs 0",101,30,0,10,10,0,0,0,0,7,8,10,9,153,162,3,0,15,21,0,0
+gen:mixed:4/hp10/alt/zG/r0,D,N4_GBHd,A,D,"turn limit: damage 0 vs 20",101,0,20,10,10,0,0,0,0,6,8,9,9,165,154,0,2,35,35,0,0
+gen:mixed:4/hp10/alt/zG/r0,N2_SBHd,A,A,N2_SBHd,"tanks destroyed (B lost 2)",36,160,280,10,10,2,0,0,0,7,0,8,0,25,21,1,4,30,18,0,0
+gen:mixed:4/hp10/alt/zG/r0,N4_GBHd,basefix,A,N4_GBHd,"tanks destroyed (B lost 2)",28,10,200,10,10,2,0,0,34,9,0,10,0,11,0,1,4,23,10,0,0
+gen:mixed:4/hp10/alt/zG/r0,N4_GBHd,D,B,D,"turn limit: damage 10 vs 0",101,10,0,10,10,0,0,0,0,8,6,10,8,134,145,1,0,49,24,0,0
+gen:mixed:4/hp10/alt/zG/r0,N5_GFB,C,A,N5_GFB,"turn limit: damage 20 vs 30",101,20,30,10,10,0,0,0,0,8,7,10,9,155,160,2,3,31,30,0,0
+gen:mixed:4/hp10/alt/zG/r0,N6_SFB,B,A,N6_SFB,"turret destroyed by A3",41,80,160,10,0,1,0,0,0,7,8,9,9,27,34,2,5,25,22,0,0
+gen:mixed:4/hp100/alt/zG/r2,basefix,N4_GBHd,B,N4_GBHd,"tanks destroyed (A lost 2)",34,200,0,100,100,0,2,35,0,0,9,0,10,0,27,7,0,5,18,0,0
+gen:mixed:4/hp100/alt/zG/r2,A,N4_GBHd,B,N4_GBHd,"tanks destroyed (A lost 2)",32,280,150,100,100,0,2,0,0,0,7,0,8,11,22,3,0,16,27,0,0
+gen:mixed:4/hp100/alt/zG/r2,B,N4_GBHd,B,N4_GBHd,"turn limit: damage 10 vs 0",101,10,0,100,100,0,0,0,0,8,8,8,9,173,159,1,0,33,18,0,0
+gen:mixed:4/hp100/alt/zG/r2,C,N4_GBHd,B,N4_GBHd,"turn limit: damage 20 vs 0",101,20,0,100,100,0,0,0,0,7,8,7,9,157,161,2,0,27,28,0,0
+gen:mixed:4/hp100/alt/zG/r2,D,N4_GBHd,A,D,"turn limit: damage 0 vs 30",101,0,30,100,100,0,0,0,0,6,8,6,9,72,102,0,3,43,27,0,0
+gen:mixed:4/hp100/alt/zG/r2,N2_SBHd,A,A,N2_SBHd,"tanks destroyed (B lost 2)",36,150,280,100,100,2,0,0,0,7,0,8,0,31,26,0,3,18,24,0,0
+gen:mixed:4/hp100/alt/zG/r2,N4_GBHd,basefix,A,N4_GBHd,"tanks destroyed (B lost 2)",21,0,210,100,100,2,0,0,15,6,0,7,0,11,0,0,9,16,7,0,0
+gen:mixed:4/hp100/alt/zG/r2,N4_GBHd,D,B,D,"turn limit: damage 10 vs 0",101,10,0,100,100,0,0,0,0,8,6,8,6,135,145,1,0,35,73,0,0
+gen:mixed:4/hp100/alt/zG/r2,N5_GFB,C,A,N5_GFB,"turn limit: damage 20 vs 30",101,20,30,100,100,0,0,0,0,8,7,10,7,156,163,2,3,45,27,0,0
+gen:mixed:4/hp100/alt/zG/r2,N6_SFB,B,A,N6_SFB,"turret destroyed by A3",43,80,250,100,0,1,0,0,0,7,8,7,8,31,36,2,5,32,39,0,0
+gen:mixed:6/hp10/alt/zG/r2,basefix,N4_GBHd,A,basefix,"turret destroyed by A1",20,60,10,10,0,0,0,1,0,0,8,0,9,0,3,0,0,8,10,0,0
+gen:mixed:6/hp10/alt/zG/r2,A,N4_GBHd,A,A,"turret destroyed by A2",19,0,10,10,0,0,0,0,0,0,8,0,9,1,3,0,0,13,25,0,0
+gen:mixed:6/hp10/alt/zG/r2,B,N4_GBHd,A,B,"turret destroyed by A1",42,0,10,10,0,0,0,0,0,7,8,7,9,41,19,0,0,25,30,0,0
+gen:mixed:6/hp10/alt/zG/r2,C,N4_GBHd,A,C,"turret destroyed by A1",23,0,10,10,0,0,0,0,0,8,8,12,9,8,5,0,0,11,15,0,0
+gen:mixed:6/hp10/alt/zG/r2,D,N4_GBHd,B,N4_GBHd,"turret destroyed by B2",39,20,0,0,10,0,0,0,0,6,9,9,11,37,29,1,0,18,31,0,0
+gen:mixed:6/hp10/alt/zG/r2,N2_SBHd,A,B,A,"turret destroyed by B2",19,10,0,0,10,0,0,0,0,5,0,6,0,6,1,0,0,21,21,0,0
+gen:mixed:6/hp10/alt/zG/r2,N4_GBHd,basefix,B,basefix,"turret destroyed by B1",26,20,170,0,10,1,0,0,10,9,0,13,0,9,0,1,2,24,9,0,0
+gen:mixed:6/hp10/alt/zG/r2,N4_GBHd,D,A,N4_GBHd,"turret destroyed by A2",38,10,10,10,0,0,0,0,0,8,8,11,10,29,34,1,0,22,34,0,0
+gen:mixed:6/hp10/alt/zG/r2,N5_GFB,C,A,N5_GFB,"turn limit: distance 52 vs 58",101,0,0,10,10,0,0,0,0,11,10,14,11,151,163,0,0,25,34,0,0
+gen:mixed:6/hp10/alt/zG/r2,N6_SFB,B,A,N6_SFB,"turn limit: distance 55 vs 56",101,0,0,10,10,0,0,0,0,8,7,9,7,146,158,0,0,31,20,0,0
+gen:mixed:6/hp100/alt/zG/r0,basefix,N4_GBHd,B,N4_GBHd,"tanks destroyed (A lost 2)",19,200,0,100,100,0,2,10,0,0,9,0,13,0,1,2,0,6,19,0,0
+gen:mixed:6/hp100/alt/zG/r0,A,N4_GBHd,A,A,"turret destroyed by A2",22,0,100,100,0,0,0,0,0,0,8,0,9,3,5,0,0,20,21,0,0
+gen:mixed:6/hp100/alt/zG/r0,B,N4_GBHd,A,B,"turret destroyed by A1",43,0,100,100,0,0,0,0,0,7,8,7,9,42,24,0,0,25,15,0,0
+gen:mixed:6/hp100/alt/zG/r0,C,N4_GBHd,A,C,"turret destroyed by A1",24,0,100,100,0,0,0,0,0,8,9,11,13,10,4,0,0,16,12,0,0
+gen:mixed:6/hp100/alt/zG/r0,D,N4_GBHd,B,N4_GBHd,"turret destroyed by B2",41,100,0,0,100,0,0,0,0,6,8,7,11,40,31,0,0,20,21,0,0
+gen:mixed:6/hp100/alt/zG/r0,N2_SBHd,A,B,A,"turret destroyed by B2",22,100,0,0,100,0,0,0,0,5,0,6,0,8,3,0,0,22,21,0,0
+gen:mixed:6/hp100/alt/zG/r0,N4_GBHd,basefix,B,basefix,"turret destroyed by B1",23,100,120,0,100,0,0,0,2,8,0,9,0,5,0,0,0,14,5,0,0
+gen:mixed:6/hp100/alt/zG/r0,N4_GBHd,D,A,N4_GBHd,"turret destroyed by A2",39,0,100,100,0,0,0,0,0,8,6,9,9,29,32,0,0,17,20,0,0
+gen:mixed:6/hp100/alt/zG/r0,N5_GFB,C,B,C,"turret destroyed by B1",24,100,0,0,100,0,0,0,0,9,8,12,10,7,10,0,0,18,42,0,0
+gen:mixed:6/hp100/alt/zG/r0,N6_SFB,B,A,N6_SFB,"turn limit: distance 55 vs 56",101,0,0,100,100,0,0,0,0,8,7,12,7,144,158,0,0,11,16,0,0
+gen:open:9/hp10/alt/zG/r0,basefix,N4_GBHd,B,N4_GBHd,"tanks destroyed (A lost 2)",22,200,0,10,10,0,2,6,0,0,10,0,12,0,8,2,0,11,115,0,0
+gen:open:9/hp10/alt/zG/r0,A,N4_GBHd,B,N4_GBHd,"turret destroyed by B2",27,150,60,0,10,0,0,0,0,0,10,0,12,12,14,0,0,33,50,0,0
+gen:open:9/hp10/alt/zG/r0,B,N4_GBHd,B,N4_GBHd,"turn limit: distance 59 vs 47",101,0,0,10,10,0,0,0,0,4,9,6,10,133,108,0,0,46,23,0,0
+gen:open:9/hp10/alt/zG/r0,C,N4_GBHd,B,N4_GBHd,"turn limit: distance 61 vs 48",101,0,0,10,10,0,0,0,0,8,10,9,11,173,158,0,0,25,26,0,0
+gen:open:9/hp10/alt/zG/r0,D,N4_GBHd,B,N4_GBHd,"turret destroyed by B2",28,10,0,0,10,0,0,0,0,6,8,7,9,30,23,0,0,15,16,0,0
+gen:open:9/hp10/alt/zG/r0,N2_SBHd,A,B,A,"turret destroyed by B1",23,70,140,0,10,0,0,0,0,9,0,12,0,10,2,0,0,12,11,0,0
+gen:open:9/hp10/alt/zG/r0,N4_GBHd,basefix,A,N4_GBHd,"tanks destroyed (B lost 2)",20,0,250,10,10,0,0,0,0,8,0,11,0,7,0,0,11,13,3,0,0
+gen:open:9/hp10/alt/zG/r0,N4_GBHd,D,A,N4_GBHd,"turret destroyed by A2",28,0,10,10,0,0,0,0,0,8,6,9,7,24,32,0,0,19,10,0,0
+gen:open:9/hp10/alt/zG/r0,N5_GFB,C,A,N5_GFB,"turn limit: distance 55 vs 57",101,0,0,10,10,0,0,0,0,9,8,10,9,162,173,0,0,30,30,0,0
+gen:open:9/hp10/alt/zG/r0,N6_SFB,B,A,N6_SFB,"turn limit: distance 54 vs 56",101,0,0,10,10,0,0,0,0,8,4,10,5,109,127,0,0,18,27,0,0
+gen:open:9/hp100/alt/zG/r2,basefix,N4_GBHd,B,N4_GBHd,"tanks destroyed (A lost 2)",20,240,0,100,100,0,1,0,0,0,9,0,11,0,8,10,0,35,23,0,0
+gen:open:9/hp100/alt/zG/r2,A,N4_GBHd,B,N4_GBHd,"tanks destroyed (A lost 2)",33,270,120,100,70,0,2,0,0,0,11,0,13,11,17,0,0,26,36,0,0
+gen:open:9/hp100/alt/zG/r2,B,N4_GBHd,B,N4_GBHd,"turn limit: distance 58 vs 48",101,0,0,100,100,0,0,0,0,4,9,4,11,134,111,0,0,15,29,0,0
+gen:open:9/hp100/alt/zG/r2,C,N4_GBHd,B,N4_GBHd,"turn limit: distance 61 vs 48",101,0,0,100,100,0,0,0,0,8,9,10,9,173,158,0,0,29,15,0,0
+gen:open:9/hp100/alt/zG/r2,D,N4_GBHd,B,N4_GBHd,"turret destroyed by B2",29,100,0,0,100,0,0,0,0,6,8,8,8,33,26,0,0,18,24,0,0
+gen:open:9/hp100/alt/zG/r2,N2_SBHd,A,A,N2_SBHd,"turret destroyed by A2",28,60,240,100,0,0,0,0,0,9,0,9,0,18,12,0,0,10,17,0,0
+gen:open:9/hp100/alt/zG/r2,N4_GBHd,basefix,A,N4_GBHd,"tanks destroyed (B lost 2)",22,0,210,100,100,2,0,0,5,8,0,9,0,8,0,0,2,15,25,0,0
+gen:open:9/hp100/alt/zG/r2,N4_GBHd,D,A,N4_GBHd,"turret destroyed by A2",30,0,100,100,0,0,0,0,0,8,6,10,6,27,37,0,0,19,14,0,0
+gen:open:9/hp100/alt/zG/r2,N5_GFB,C,A,N5_GFB,"turn limit: distance 55 vs 57",101,0,0,100,100,0,0,0,0,9,8,11,8,164,174,0,0,32,27,0,0
+gen:open:9/hp100/alt/zG/r2,N6_SFB,B,A,N6_SFB,"turn limit: distance 54 vs 55",101,0,0,100,100,0,0,0,0,8,4,10,4,111,127,0,0,10,9,0,0
+gen:forest:8/hp10/alt/zG/r2,basefix,N4_GBHd,B,N4_GBHd,"tanks destroyed (A lost 2)",19,290,20,10,10,0,1,0,0,0,7,0,7,0,3,5,2,6,33,0,0
+gen:forest:8/hp10/alt/zG/r2,A,N4_GBHd,B,N4_GBHd,"turret destroyed by B2",34,110,90,0,10,0,1,0,0,0,7,0,7,20,19,0,3,32,24,0,0
+gen:forest:8/hp10/alt/zG/r2,B,N4_GBHd,B,N4_GBHd,"turn limit: damage 110 vs 80",101,110,80,10,10,0,1,0,0,5,7,5,8,118,157,1,2,24,27,0,0
+gen:forest:8/hp10/alt/zG/r2,C,N4_GBHd,A,C,"turn limit: distance 41 vs 51",101,80,80,10,10,0,0,0,0,5,7,5,8,164,157,1,2,95,46,0,0
+gen:forest:8/hp10/alt/zG/r2,D,N4_GBHd,B,N4_GBHd,"turn limit: damage 150 vs 110",101,150,110,10,10,1,0,0,0,2,7,2,9,150,98,1,2,38,26,0,0
+gen:forest:8/hp10/alt/zG/r2,N2_SBHd,A,A,N2_SBHd,"turret destroyed by A2",32,80,110,10,0,1,0,0,0,2,0,2,0,29,13,2,0,29,19,0,0
+gen:forest:8/hp10/alt/zG/r2,N4_GBHd,basefix,A,N4_GBHd,"tanks destroyed (B lost 2)",20,20,200,10,10,1,0,0,1,7,0,7,0,6,0,2,0,31,7,0,0
+gen:forest:8/hp10/alt/zG/r2,N4_GBHd,D,B,D,"turn limit: damage 20 vs 10",101,20,10,10,10,0,0,0,0,7,2,8,3,159,202,2,1,30,21,0,0
+gen:forest:8/hp10/alt/zG/r2,N5_GFB,C,A,N5_GFB,"turn limit: damage 130 vs 200",101,130,200,10,10,1,0,0,0,3,5,3,6,169,155,1,1,32,19,0,0
+gen:forest:8/hp10/alt/zG/r2,N6_SFB,B,A,N6_SFB,"turn limit: damage 80 vs 110",101,80,110,10,10,1,0,0,0,8,5,8,6,151,115,2,1,37,34,0,0
+gen:forest:8/hp100/alt/zG/r0,basefix,N4_GBHd,B,N4_GBHd,"tanks destroyed (A lost 2)",20,200,20,100,100,0,1,1,0,0,7,0,7,0,6,0,2,7,35,0,0
+gen:forest:8/hp100/alt/zG/r0,A,N4_GBHd,B,N4_GBHd,"turret destroyed by B2",37,170,60,0,100,0,0,0,0,0,7,0,7,34,29,0,3,12,14,0,0
+gen:forest:8/hp100/alt/zG/r0,B,N4_GBHd,B,N4_GBHd,"turn limit: damage 110 vs 80",101,110,80,100,100,0,1,0,0,5,7,5,9,118,156,1,2,28,22,0,0
+gen:forest:8/hp100/alt/zG/r0,C,N4_GBHd,A,C,"turn limit: distance 35 vs 53",101,110,110,100,100,0,1,0,0,5,7,5,9,165,156,1,2,24,46,0,0
+gen:forest:8/hp100/alt/zG/r0,D,N4_GBHd,A,D,"turn limit: distance 32 vs 39",101,170,170,100,100,0,1,0,0,2,7,2,9,190,148,1,2,43,28,0,0
+gen:forest:8/hp100/alt/zG/r0,N2_SBHd,A,A,N2_SBHd,"turret destroyed by A2",35,80,200,100,0,1,0,0,0,2,0,2,0,33,17,2,0,31,29,0,0
+gen:forest:8/hp100/alt/zG/r0,N4_GBHd,basefix,A,N4_GBHd,"tanks destroyed (B lost 2)",19,20,290,100,100,1,0,0,0,7,0,7,0,3,0,2,5,24,7,0,0
+gen:forest:8/hp100/alt/zG/r0,N4_GBHd,D,B,D,"turn limit: damage 20 vs 10",101,20,10,100,100,0,0,0,0,7,2,8,3,159,202,2,1,42,31,0,0
+gen:forest:8/hp100/alt/zG/r0,N5_GFB,C,A,N5_GFB,"turn limit: damage 70 vs 100",101,70,100,100,100,0,0,0,0,3,5,3,6,173,161,1,1,30,30,0,0
+gen:forest:8/hp100/alt/zG/r0,N6_SFB,B,B,B,"turn limit: damage 20 vs 10",101,20,10,100,100,0,0,0,0,8,5,11,6,112,104,2,1,24,61,0,0
+gen:sand:20/hp10/alt/zG/r3,basefix,N4_GBHd,A,basefix,"turret destroyed by A1",17,110,90,10,0,0,0,0,0,0,6,0,6,0,0,8,8,14,22,0,0
+gen:sand:20/hp10/alt/zG/r3,A,N4_GBHd,A,A,"turret destroyed by A1",17,40,90,10,0,0,0,0,0,0,6,0,6,0,3,4,8,21,26,0,0
+gen:sand:20/hp10/alt/zG/r3,B,N4_GBHd,A,B,"turret destroyed by A2",37,50,100,10,0,0,0,0,0,4,7,4,7,34,34,5,9,43,18,0,0
+gen:sand:20/hp10/alt/zG/r3,C,N4_GBHd,A,C,"turret destroyed by A2",25,50,100,10,0,0,0,0,0,2,7,2,8,17,6,5,9,19,20,0,0
+gen:sand:20/hp10/alt/zG/r3,D,N4_GBHd,B,N4_GBHd,"turret destroyed by B2",42,150,220,0,10,0,0,0,0,9,7,9,8,35,17,11,8,28,40,0,0
+gen:sand:20/hp10/alt/zG/r3,N2_SBHd,A,B,A,"turret destroyed by B1",17,60,40,0,10,0,0,0,0,4,0,4,0,22,0,5,4,24,24,0,0
+gen:sand:20/hp10/alt/zG/r3,N4_GBHd,basefix,B,basefix,"turret destroyed by B1",17,90,110,0,10,0,0,0,0,6,0,6,0,0,0,8,8,22,9,0,0
+gen:sand:20/hp10/alt/zG/r3,N4_GBHd,D,B,D,"tanks destroyed (A lost 2)",25,200,140,10,10,0,1,0,0,7,9,7,10,5,4,9,4,32,33,0,0
+gen:sand:20/hp10/alt/zG/r3,N5_GFB,C,B,C,"turret destroyed by B2",25,160,100,0,10,0,0,0,0,9,2,9,2,22,26,12,3,11,14,0,0
+gen:sand:20/hp10/alt/zG/r3,N6_SFB,B,B,B,"turret destroyed by B2",38,150,50,0,10,0,0,0,0,10,7,10,10,35,30,14,5,19,13,0,0
+gen:sand:20/hp100/alt/zG/r1,basefix,N4_GBHd,A,basefix,"turret destroyed by A1",20,150,180,100,0,0,0,0,0,0,7,0,9,0,0,12,8,9,44,0,0
+gen:sand:20/hp100/alt/zG/r1,A,N4_GBHd,B,N4_GBHd,"turret destroyed by B2",37,150,80,0,100,0,0,0,0,0,7,0,8,43,28,5,8,16,24,0,0
+gen:sand:20/hp100/alt/zG/r1,B,N4_GBHd,A,B,"turn limit: damage 80 vs 110",101,80,110,100,100,0,0,0,0,9,10,10,12,113,81,5,11,25,17,0,0
+gen:sand:20/hp100/alt/zG/r1,C,N4_GBHd,A,C,"turret destroyed by A2",26,50,190,100,0,0,0,0,0,2,7,3,9,18,2,5,9,34,20,0,0
+gen:sand:20/hp100/alt/zG/r1,D,N4_GBHd,A,D,"turn limit: distance 26 vs 37",101,150,150,100,100,0,1,0,0,9,7,10,9,61,54,10,8,28,35,0,0
+gen:sand:20/hp100/alt/zG/r1,N2_SBHd,A,A,N2_SBHd,"turn limit: damage 40 vs 50",101,40,50,100,100,0,0,0,0,4,0,5,0,186,170,4,5,29,25,0,0
+gen:sand:20/hp100/alt/zG/r1,N4_GBHd,basefix,B,basefix,"turret destroyed by B1",20,180,180,0,100,0,0,0,0,7,0,9,0,0,0,8,12,19,30,0,0
+gen:sand:20/hp100/alt/zG/r1,N4_GBHd,D,B,D,"turn limit: damage 160 vs 110",101,160,110,100,100,0,1,0,0,7,8,11,10,63,115,11,4,14,34,0,0
+gen:sand:20/hp100/alt/zG/r1,N5_GFB,C,B,C,"turret destroyed by B2",28,280,110,0,100,1,0,0,0,8,2,9,4,11,20,15,3,18,28,0,0
+gen:sand:20/hp100/alt/zG/r1,N6_SFB,B,B,B,"turret destroyed by B2",39,230,50,0,100,0,0,0,0,10,7,12,8,37,33,13,5,47,30,0,0
+gen:forest:21/hp10/alt/zG/r3,basefix,N4_GBHd,A,basefix,"turret destroyed by A2",25,150,10,10,0,0,0,17,0,0,5,0,5,0,8,9,0,9,37,0,0
+gen:forest:21/hp10/alt/zG/r3,A,N4_GBHd,B,N4_GBHd,"turret destroyed by B2",42,10,0,0,10,0,0,0,0,0,3,0,3,43,36,0,0,18,23,0,0
+gen:forest:21/hp10/alt/zG/r3,B,N4_GBHd,A,B,"turn limit: distance 38 vs 50",101,0,0,10,10,0,0,0,0,10,0,10,0,158,160,0,0,28,35,0,0
+gen:forest:21/hp10/alt/zG/r3,C,N4_GBHd,A,C,"turn limit: distance 24 vs 74",101,0,0,10,10,0,0,0,0,0,5,0,5,152,152,0,0,32,22,0,0
+gen:forest:21/hp10/alt/zG/r3,D,N4_GBHd,B,N4_GBHd,"turn limit: damage 170 vs 90",101,170,90,10,10,0,1,0,0,0,8,0,8,168,149,0,0,31,21,0,0
+gen:forest:21/hp10/alt/zG/r3,N2_SBHd,A,A,N2_SBHd,"turn limit: damage 190 vs 260",101,190,260,10,10,1,1,0,0,3,0,3,0,111,111,0,0,28,29,0,0
+gen:forest:21/hp10/alt/zG/r3,N4_GBHd,basefix,A,N4_GBHd,"tanks destroyed (B lost 2)",27,0,240,10,10,2,0,0,19,6,0,7,0,11,0,0,8,27,16,0,0
+gen:forest:21/hp10/alt/zG/r3,N4_GBHd,D,A,N4_GBHd,"turret destroyed by A2",52,60,110,10,0,1,0,0,0,4,0,4,0,50,57,0,0,27,22,0,0
+gen:forest:21/hp10/alt/zG/r3,N5_GFB,C,A,N5_GFB,"turn limit: distance 46 vs 55",101,0,0,10,10,0,0,0,0,3,0,3,0,113,144,0,0,37,40,0,0
+gen:forest:21/hp10/alt/zG/r3,N6_SFB,B,B,B,"turn limit: damage 70 vs 0",101,70,0,10,10,0,0,0,0,0,10,0,10,157,161,0,0,108,34,0,0
+gen:forest:21/hp100/alt/zG/r1,basefix,N4_GBHd,B,N4_GBHd,"tanks destroyed (A lost 2)",27,240,100,100,10,0,1,19,0,0,5,0,6,0,7,9,1,10,59,0,0
+gen:forest:21/hp100/alt/zG/r1,A,N4_GBHd,B,N4_GBHd,"turret destroyed by B2",43,100,0,0,100,0,0,0,0,0,3,0,4,43,37,0,0,14,46,0,0
+gen:forest:21/hp100/alt/zG/r1,B,N4_GBHd,A,B,"turret destroyed by A1",99,90,260,100,0,1,0,0,0,10,0,11,0,145,153,0,0,20,47,0,0
+gen:forest:21/hp100/alt/zG/r1,C,N4_GBHd,A,C,"turn limit: distance 38 vs 59",101,0,0,100,100,0,0,0,0,0,3,0,4,172,156,0,0,20,23,0,0
+gen:forest:21/hp100/alt/zG/r1,D,N4_GBHd,B,N4_GBHd,"tanks destroyed (A lost 2)",36,200,120,100,100,0,2,0,0,0,8,0,9,18,19,0,0,17,18,0,0
+gen:forest:21/hp100/alt/zG/r1,N2_SBHd,A,A,N2_SBHd,"turn limit: damage 180 vs 260",101,180,260,100,100,1,0,0,0,3,0,4,0,121,113,0,0,50,19,0,0
+gen:forest:21/hp100/alt/zG/r1,N4_GBHd,basefix,A,N4_GBHd,"tanks destroyed (B lost 2)",27,0,240,100,100,2,0,0,19,6,0,7,0,11,0,0,8,26,22,0,0
+gen:forest:21/hp100/alt/zG/r1,N4_GBHd,D,A,N4_GBHd,"turn limit: damage 30 vs 100",101,30,100,100,100,1,0,0,0,3,0,4,0,145,143,0,0,24,24,0,0
+gen:forest:21/hp100/alt/zG/r1,N5_GFB,C,A,N5_GFB,"turn limit: damage 30 vs 160",101,30,160,100,100,1,0,0,0,3,0,4,0,102,107,0,0,50,22,0,0
+gen:forest:21/hp100/alt/zG/r1,N6_SFB,B,B,B,"turn limit: damage 70 vs 0",101,70,0,100,100,0,0,0,0,0,10,0,11,157,160,0,0,25,32,0,0
+gen:open:22/hp10/alt/zG/r1,basefix,N4_GBHd,B,N4_GBHd,"tanks destroyed (A lost 2)",20,280,0,10,10,0,2,2,0,0,7,0,8,0,0,3,0,11,26,0,0
+gen:open:22/hp10/alt/zG/r1,A,N4_GBHd,A,A,"turret destroyed by A3",26,170,100,10,0,0,1,0,0,0,10,0,13,3,2,1,0,21,25,0,0
+gen:open:22/hp10/alt/zG/r1,B,N4_GBHd,B,N4_GBHd,"turn limit: damage 10 vs 0",101,10,0,10,10,0,0,0,0,9,10,9,14,147,110,1,0,28,30,0,0
+gen:open:22/hp10/alt/zG/r1,C,N4_GBHd,B,N4_GBHd,"turn limit: damage 10 vs 0",101,10,0,10,10,0,0,0,0,10,12,11,12,170,144,1,0,29,18,0,0
+gen:open:22/hp10/alt/zG/r1,D,N4_GBHd,B,N4_GBHd,"turret destroyed by B2",44,20,20,0,10,0,0,0,0,6,10,7,10,30,37,1,2,36,31,0,0
+gen:open:22/hp10/alt/zG/r1,N2_SBHd,A,A,N2_SBHd,"tanks destroyed (B lost 2)",25,90,200,10,10,2,0,0,0,7,0,9,0,12,7,0,1,25,17,0,0
+gen:open:22/hp10/alt/zG/r1,N4_GBHd,basefix,A,N4_GBHd,"tanks destroyed (B lost 2)",20,0,210,10,10,2,0,0,1,7,0,8,0,0,0,0,3,11,9,0,0
+gen:open:22/hp10/alt/zG/r1,N4_GBHd,D,A,N4_GBHd,"turn limit: damage 0 vs 10",101,0,10,10,10,0,0,0,0,10,6,11,6,156,155,0,1,16,16,0,0
+gen:open:22/hp10/alt/zG/r1,N5_GFB,C,B,C,"turret destroyed by B1",28,10,40,0,10,0,0,0,0,8,10,10,10,10,20,0,1,9,15,0,0
+gen:open:22/hp10/alt/zG/r1,N6_SFB,B,B,B,"turret destroyed by B1",25,10,10,0,10,0,0,0,0,3,9,4,9,17,22,0,1,18,16,0,0
+gen:open:22/hp100/alt/zG/r3,basefix,N4_GBHd,B,N4_GBHd,"tanks destroyed (A lost 2)",20,280,0,100,100,0,2,2,0,0,7,0,8,0,0,3,0,6,17,0,0
+gen:open:22/hp100/alt/zG/r3,A,N4_GBHd,B,N4_GBHd,"tanks destroyed (A lost 2)",19,200,120,100,100,0,2,0,0,0,6,0,7,1,2,1,0,20,31,0,0
+gen:open:22/hp100/alt/zG/r3,B,N4_GBHd,B,N4_GBHd,"turn limit: damage 10 vs 0",101,10,0,100,100,0,0,0,0,9,10,9,11,150,115,1,0,27,14,0,0
+gen:open:22/hp100/alt/zG/r3,C,N4_GBHd,B,N4_GBHd,"turn limit: damage 10 vs 0",101,10,0,100,100,0,0,0,0,10,12,11,13,170,143,1,0,24,58,0,0
+gen:open:22/hp100/alt/zG/r3,D,N4_GBHd,B,N4_GBHd,"turret destroyed by B2",43,110,0,0,100,0,0,0,0,8,10,9,11,34,32,1,0,29,23,0,0
+gen:open:22/hp100/alt/zG/r3,N2_SBHd,A,A,N2_SBHd,"tanks destroyed (B lost 2)",21,90,200,100,100,2,0,0,0,6,0,7,0,9,4,0,1,18,24,0,0
+gen:open:22/hp100/alt/zG/r3,N4_GBHd,basefix,A,N4_GBHd,"tanks destroyed (B lost 2)",20,0,210,100,100,2,0,0,1,7,0,8,0,0,0,0,3,17,4,0,0
+gen:open:22/hp100/alt/zG/r3,N4_GBHd,D,A,N4_GBHd,"turret destroyed by A2",46,0,110,100,0,0,0,0,0,10,8,11,8,36,49,0,1,11,19,0,0
+gen:open:22/hp100/alt/zG/r3,N5_GFB,C,A,N5_GFB,"turn limit: damage 0 vs 10",101,0,10,100,100,0,0,0,0,10,12,13,13,146,165,0,1,29,30,0,0
+gen:open:22/hp100/alt/zG/r3,N6_SFB,B,B,B,"turret destroyed by B1",26,100,10,0,100,0,0,0,0,3,9,4,9,18,24,0,1,11,33,0,0
+gen:mixed:23/hp10/alt/zG/r1,basefix,N4_GBHd,B,N4_GBHd,"tanks destroyed (A lost 2)",13,230,0,10,10,0,2,1,0,0,5,0,6,0,2,6,0,9,12,0,0
+gen:mixed:23/hp10/alt/zG/r1,A,N4_GBHd,B,N4_GBHd,"tanks destroyed (A lost 2)",27,270,150,10,10,0,2,0,0,0,10,0,13,13,7,0,0,24,24,0,0
+gen:mixed:23/hp10/alt/zG/r1,B,N4_GBHd,B,N4_GBHd,"turn limit: damage 80 vs 30",101,80,30,10,10,0,0,0,0,7,12,7,14,169,109,1,0,17,20,0,0
+gen:mixed:23/hp10/alt/zG/r1,C,N4_GBHd,A,C,"turret destroyed by A1",36,0,10,10,0,0,0,0,0,8,10,8,12,33,20,0,0,35,18,0,0
+gen:mixed:23/hp10/alt/zG/r1,D,N4_GBHd,A,D,"turn limit: distance 38 vs 60",101,0,0,10,10,0,0,0,0,6,8,7,10,163,158,0,0,27,18,0,0
+gen:mixed:23/hp10/alt/zG/r1,N2_SBHd,A,A,N2_SBHd,"tanks destroyed (B lost 2)",26,120,200,10,10,2,0,0,0,10,0,12,0,13,6,0,2,26,24,0,0
+gen:mixed:23/hp10/alt/zG/r1,N4_GBHd,basefix,A,N4_GBHd,"tanks destroyed (B lost 2)",17,0,230,10,10,2,0,0,1,8,0,9,0,6,0,0,6,13,13,0,0
+gen:mixed:23/hp10/alt/zG/r1,N4_GBHd,D,B,D,"turn limit: distance 49 vs 47",101,0,0,10,10,0,0,0,0,8,6,9,7,154,163,0,0,34,16,0,0
+gen:mixed:23/hp10/alt/zG/r1,N5_GFB,C,B,C,"turn limit: distance 60 vs 56",101,0,0,10,10,0,0,0,0,9,8,10,10,145,162,0,0,32,42,0,0
+gen:mixed:23/hp10/alt/zG/r1,N6_SFB,B,B,B,"turret destroyed by B1",36,10,0,0,10,0,0,0,0,8,7,9,9,23,38,0,0,21,24,0,0
+gen:mixed:23/hp100/alt/zG/r3,basefix,N4_GBHd,B,N4_GBHd,"tanks destroyed (A lost 2)",19,230,0,100,100,0,2,1,0,0,5,0,7,0,4,6,0,6,13,0,0
+gen:mixed:23/hp100/alt/zG/r3,A,N4_GBHd,B,N4_GBHd,"turn limit: damage 260 vs 90",101,260,90,100,100,0,1,0,0,0,11,0,11,21,68,2,0,15,21,0,0
+gen:mixed:23/hp100/alt/zG/r3,B,N4_GBHd,A,B,"turret destroyed by A1",38,0,100,100,0,0,0,0,0,7,8,8,8,43,10,0,0,18,25,0,0
+gen:mixed:23/hp100/alt/zG/r3,C,N4_GBHd,B,N4_GBHd,"turn limit: distance 63 vs 43",101,0,0,100,100,0,0,0,0,8,8,11,8,165,149,0,0,55,36,0,0
+gen:mixed:23/hp100/alt/zG/r3,D,N4_GBHd,A,D,"turn limit: distance 47 vs 56",101,0,0,100,100,0,0,0,0,6,8,8,9,165,161,0,0,24,52,0,0
+gen:mixed:23/hp100/alt/zG/r3,N2_SBHd,A,A,N2_SBHd,"tanks destroyed (B lost 2)",26,150,280,100,100,2,0,0,0,10,0,11,0,13,6,0,1,22,16,0,0
+gen:mixed:23/hp100/alt/zG/r3,N4_GBHd,basefix,A,N4_GBHd,"tanks destroyed (B lost 2)",19,0,230,100,100,2,0,0,1,5,0,7,0,5,0,0,6,88,7,0,0
+gen:mixed:23/hp100/alt/zG/r3,N4_GBHd,D,B,D,"turn limit: distance 57 vs 39",101,0,0,100,100,0,0,0,0,9,6,11,6,165,163,0,0,33,19,0,0
+gen:mixed:23/hp100/alt/zG/r3,N5_GFB,C,B,C,"turn limit: distance 60 vs 56",101,0,0,100,100,0,0,0,0,9,8,10,10,147,161,0,0,19,25,0,0
+gen:mixed:23/hp100/alt/zG/r3,N6_SFB,B,B,B,"turret destroyed by B1",35,100,0,0,100,0,0,0,0,8,7,9,7,24,36,0,0,54,28,0,0
+gen:mixed:24/hp10/alt/zG/r0,basefix,N4_GBHd,B,N4_GBHd,"tanks destroyed (A lost 2)",24,250,0,10,10,0,1,5,0,0,5,0,5,0,11,11,0,3,43,0,0
+gen:mixed:24/hp10/alt/zG/r0,A,N4_GBHd,B,N4_GBHd,"tanks destroyed (A lost 2)",21,200,120,10,10,0,2,0,0,0,6,0,6,3,9,0,0,12,13,0,0
+gen:mixed:24/hp10/alt/zG/r0,B,N4_GBHd,A,B,"turret destroyed by A3",55,120,40,10,0,0,1,0,0,6,5,6,5,42,32,2,0,31,23,0,0
+gen:mixed:24/hp10/alt/zG/r0,C,N4_GBHd,A,C,"turret destroyed by A3",46,120,70,10,0,0,1,0,0,5,6,5,6,38,26,2,0,34,21,0,0
+gen:mixed:24/hp10/alt/zG/r0,D,N4_GBHd,B,N4_GBHd,"tanks destroyed (A lost 2)",39,200,120,10,10,0,2,0,0,2,8,2,9,3,22,0,0,25,25,0,0
+gen:mixed:24/hp10/alt/zG/r0,N2_SBHd,A,A,N2_SBHd,"turret destroyed by A2",38,120,180,10,0,1,0,0,0,6,0,6,0,24,21,0,0,28,23,0,0
+gen:mixed:24/hp10/alt/zG/r0,N4_GBHd,basefix,A,N4_GBHd,"tanks destroyed (B lost 2)",16,0,200,10,10,2,0,0,0,6,0,6,0,6,0,0,10,30,9,0,0
+gen:mixed:24/hp10/alt/zG/r0,N4_GBHd,D,A,N4_GBHd,"tanks destroyed (B lost 2)",64,100,270,10,10,2,1,0,0,6,6,7,6,41,12,0,0,49,26,0,0
+gen:mixed:24/hp10/alt/zG/r0,N5_GFB,C,B,C,"turn limit: damage 90 vs 10",101,90,10,10,10,0,0,0,0,5,5,5,5,85,110,9,1,38,36,0,0
+gen:mixed:24/hp10/alt/zG/r0,N6_SFB,B,B,B,"turn limit: damage 60 vs 10",101,60,10,10,10,0,0,0,0,8,4,8,5,111,172,3,1,20,31,0,0
+gen:mixed:24/hp100/alt/zG/r2,basefix,N4_GBHd,B,N4_GBHd,"tanks destroyed (A lost 2)",16,200,0,100,100,0,2,0,0,0,5,0,6,0,6,10,0,5,17,0,0
+gen:mixed:24/hp100/alt/zG/r2,A,N4_GBHd,B,N4_GBHd,"tanks destroyed (A lost 2)",40,200,120,100,100,0,2,0,0,0,7,0,8,19,28,0,0,13,30,0,0
+gen:mixed:24/hp100/alt/zG/r2,B,N4_GBHd,B,N4_GBHd,"turn limit: damage 10 vs 0",101,10,0,100,100,0,0,0,0,0,5,0,6,138,68,1,0,33,23,0,0
+gen:mixed:24/hp100/alt/zG/r2,C,N4_GBHd,B,N4_GBHd,"turn limit: damage 10 vs 0",101,10,0,100,100,0,0,0,0,5,5,8,6,112,77,1,0,37,25,0,0
+gen:mixed:24/hp100/alt/zG/r2,D,N4_GBHd,B,N4_GBHd,"turn limit: damage 100 vs 60",101,100,60,100,100,0,1,0,0,6,8,9,9,103,161,0,0,10,25,0,0
+gen:mixed:24/hp100/alt/zG/r2,N2_SBHd,A,A,N2_SBHd,"tanks destroyed (B lost 2)",34,120,200,100,100,2,0,0,0,7,0,10,0,20,17,0,0,12,17,0,0
+gen:mixed:24/hp100/alt/zG/r2,N4_GBHd,basefix,A,N4_GBHd,"tanks destroyed (B lost 2)",21,30,240,100,100,2,0,0,5,5,0,8,0,11,0,0,10,19,4,0,0
+gen:mixed:24/hp100/alt/zG/r2,N4_GBHd,D,A,N4_GBHd,"turn limit: damage 90 vs 170",101,90,170,100,100,1,0,0,0,11,4,15,4,175,97,0,0,55,14,0,0
+gen:mixed:24/hp100/alt/zG/r2,N5_GFB,C,B,C,"turn limit: damage 90 vs 10",101,90,10,100,100,0,0,0,0,9,5,13,5,106,103,9,1,53,34,0,0
+gen:mixed:24/hp100/alt/zG/r2,N6_SFB,B,A,N6_SFB,"turn limit: damage 60 vs 90",101,60,90,100,100,0,0,0,0,8,4,9,4,111,172,3,2,53,110,0,0
+gen:sand:25/hp10/alt/zG/r0,basefix,N4_GBHd,B,N4_GBHd,"tanks destroyed (A lost 2)",14,270,40,10,10,0,2,0,0,0,4,0,5,0,20,17,4,3,19,0,0
+gen:sand:25/hp10/alt/zG/r0,A,N4_GBHd,B,N4_GBHd,"turn limit: damage 70 vs 40",101,70,40,10,10,0,0,0,0,0,4,0,5,171,182,7,4,25,21,0,0
+gen:sand:25/hp10/alt/zG/r0,B,N4_GBHd,B,N4_GBHd,"turn limit: damage 70 vs 40",101,70,40,10,10,0,0,0,0,0,4,0,5,169,182,7,4,28,26,0,0
+gen:sand:25/hp10/alt/zG/r0,C,N4_GBHd,B,N4_GBHd,"turn limit: damage 70 vs 40",101,70,40,10,10,0,0,0,0,0,4,0,5,171,182,7,4,23,12,0,0
+gen:sand:25/hp10/alt/zG/r0,D,N4_GBHd,B,N4_GBHd,"turn limit: damage 110 vs 40",101,110,40,10,10,0,0,0,0,4,4,5,5,154,179,11,4,17,21,0,0
+gen:sand:25/hp10/alt/zG/r0,N2_SBHd,A,A,N2_SBHd,"turn limit: damage 40 vs 70",101,40,70,10,10,0,0,0,0,4,0,5,0,183,169,4,7,20,50,0,0
+gen:sand:25/hp10/alt/zG/r0,N4_GBHd,basefix,A,N4_GBHd,"tanks destroyed (B lost 2)",19,40,250,10,10,1,0,0,10,4,0,5,0,26,0,4,9,24,9,0,0
+gen:sand:25/hp10/alt/zG/r0,N4_GBHd,D,A,N4_GBHd,"turn limit: damage 40 vs 110",101,40,110,10,10,0,0,0,0,4,4,5,5,183,153,4,11,25,29,0,0
+gen:sand:25/hp10/alt/zG/r0,N5_GFB,C,B,C,"turret destroyed by B1",30,60,50,0,10,0,0,0,0,3,8,4,9,52,26,5,5,34,29,0,0
+gen:sand:25/hp10/alt/zG/r0,N6_SFB,B,B,B,"turret destroyed by B1",32,60,50,0,10,0,0,0,0,3,10,4,11,56,28,5,5,62,18,0,0
+gen:sand:25/hp100/alt/zG/r2,basefix,N4_GBHd,B,N4_GBHd,"tanks destroyed (A lost 2)",18,250,40,100,100,0,1,9,0,0,4,0,5,0,24,9,4,2,18,0,0
+gen:sand:25/hp100/alt/zG/r2,A,N4_GBHd,B,N4_GBHd,"turn limit: damage 70 vs 40",101,70,40,100,100,0,0,0,0,0,4,0,5,169,183,7,4,25,20,0,0
+gen:sand:25/hp100/alt/zG/r2,B,N4_GBHd,B,N4_GBHd,"turn limit: damage 70 vs 40",101,70,40,100,100,0,0,0,0,0,4,0,5,167,183,7,4,17,22,0,0
+gen:sand:25/hp100/alt/zG/r2,C,N4_GBHd,B,N4_GBHd,"turn limit: damage 70 vs 40",101,70,40,100,100,0,0,0,0,0,4,0,5,169,183,7,4,19,44,0,0
+gen:sand:25/hp100/alt/zG/r2,D,N4_GBHd,B,N4_GBHd,"turn limit: damage 80 vs 40",101,80,40,100,100,0,0,0,0,4,4,5,4,159,188,8,4,23,42,0,0
+gen:sand:25/hp100/alt/zG/r2,N2_SBHd,A,A,N2_SBHd,"turn limit: damage 40 vs 70",101,40,70,100,100,0,0,0,0,4,0,5,0,182,171,4,7,35,17,0,0
+gen:sand:25/hp100/alt/zG/r2,N4_GBHd,basefix,A,N4_GBHd,"tanks destroyed (B lost 2)",14,40,260,100,100,2,0,0,0,4,0,5,0,20,0,4,16,18,10,0,0
+gen:sand:25/hp100/alt/zG/r2,N4_GBHd,D,A,N4_GBHd,"turn limit: damage 40 vs 110",101,40,110,100,100,0,0,0,0,4,4,5,4,179,155,4,11,20,14,0,0
+gen:sand:25/hp100/alt/zG/r2,N5_GFB,C,B,C,"turret destroyed by B1",31,150,60,0,100,0,0,0,0,3,8,4,9,53,27,5,6,20,17,0,0
+gen:sand:25/hp100/alt/zG/r2,N6_SFB,B,B,B,"turret destroyed by B1",33,150,50,0,100,0,0,0,0,3,11,4,12,58,29,5,5,29,29,0,0
+gen:forest:26/hp10/alt/zG/r0,basefix,N4_GBHd,B,N4_GBHd,"tanks destroyed (A lost 2)",21,230,0,10,10,0,2,1,0,0,2,0,2,0,7,5,0,5,20,0,0
+gen:forest:26/hp10/alt/zG/r0,A,N4_GBHd,B,N4_GBHd,"turret destroyed by B2",29,150,60,0,10,0,0,0,0,0,7,0,8,19,14,0,0,25,23,0,0
+gen:forest:26/hp10/alt/zG/r0,B,N4_GBHd,A,B,"turn limit: damage 0 vs 70",101,0,70,10,10,0,0,0,0,6,7,6,8,115,109,0,0,18,15,0,0
+gen:forest:26/hp10/alt/zG/r0,C,N4_GBHd,A,C,"turn limit: damage 0 vs 70",101,0,70,10,10,0,0,0,0,5,5,5,6,119,110,0,0,48,61,0,0
+gen:forest:26/hp10/alt/zG/r0,D,N4_GBHd,A,D,"turn limit: distance 51 vs 54",101,0,0,10,10,0,0,0,0,4,6,5,6,105,106,0,0,71,54,0,0
+gen:forest:26/hp10/alt/zG/r0,N2_SBHd,A,A,N2_SBHd,"turret destroyed by A2",29,90,150,10,0,0,0,0,0,7,0,8,0,15,19,0,0,26,9,0,0
+gen:forest:26/hp10/alt/zG/r0,N4_GBHd,basefix,A,N4_GBHd,"tanks destroyed (B lost 2)",27,0,220,10,10,0,0,0,23,5,0,5,0,17,0,0,6,30,22,0,0
+gen:forest:26/hp10/alt/zG/r0,N4_GBHd,D,A,N4_GBHd,"turn limit: damage 60 vs 100",101,60,100,10,10,1,0,0,0,6,4,6,5,116,87,0,0,21,18,0,0
+gen:forest:26/hp10/alt/zG/r0,N5_GFB,C,B,C,"turret destroyed by B2",31,10,60,0,10,0,0,0,0,3,2,3,2,19,28,0,0,28,45,0,0
+gen:forest:26/hp10/alt/zG/r0,N6_SFB,B,A,N6_SFB,"turn limit: distance 44 vs 58",101,0,0,10,10,0,0,0,0,7,8,8,8,157,162,0,0,26,32,0,0
+gen:forest:26/hp100/alt/zG/r2,basefix,N4_GBHd,B,N4_GBHd,"tanks destroyed (A lost 2)",27,220,0,100,100,0,0,23,0,0,5,0,5,0,16,6,0,6,29,0,0
+gen:forest:26/hp100/alt/zG/r2,A,N4_GBHd,B,N4_GBHd,"turret destroyed by B2",29,240,60,0,100,0,0,0,0,0,7,0,8,17,14,0,0,31,32,0,0
+gen:forest:26/hp100/alt/zG/r2,B,N4_GBHd,B,N4_GBHd,"turn limit: damage 70 vs 0",101,70,0,100,100,0,0,0,0,6,7,6,8,111,110,0,0,43,18,0,0
+gen:forest:26/hp100/alt/zG/r2,C,N4_GBHd,A,C,"turret destroyed by A2",41,60,170,100,0,0,0,0,0,5,5,5,6,25,27,0,0,28,37,0,0
+gen:forest:26/hp100/alt/zG/r2,D,N4_GBHd,B,N4_GBHd,"turret destroyed by B2",92,200,60,0,100,0,1,0,0,4,5,5,6,64,94,0,0,32,34,0,0
+gen:forest:26/hp100/alt/zG/r2,N2_SBHd,A,A,N2_SBHd,"turret destroyed by A2",29,90,270,100,0,1,0,0,0,6,0,7,0,15,19,0,0,23,44,0,0
+gen:forest:26/hp100/alt/zG/r2,N4_GBHd,basefix,A,N4_GBHd,"tanks destroyed (B lost 2)",22,30,230,100,100,2,0,0,1,2,0,4,0,8,0,0,5,14,11,0,0
+gen:forest:26/hp100/alt/zG/r2,N4_GBHd,D,B,D,"turn limit: distance 55 vs 53",101,0,0,100,100,0,0,0,0,5,6,7,8,162,157,0,0,38,22,0,0
+gen:forest:26/hp100/alt/zG/r2,N5_GFB,C,B,C,"tanks destroyed (A lost 2)",35,200,100,100,100,0,2,0,0,3,5,4,5,24,30,0,0,24,17,0,0
+gen:forest:26/hp100/alt/zG/r2,N6_SFB,B,A,N6_SFB,"turn limit: distance 43 vs 58",101,0,0,100,100,0,0,0,0,7,8,11,8,138,163,0,0,69,27,0,0
+practice/hp10/alt/zG/r0,basefix,N5_GFB,B,N5_GFB,"tanks destroyed (A lost 2)",22,230,0,10,10,0,2,3,0,0,3,0,3,0,15,0,0,74,54,0,0
+practice/hp10/alt/zG/r0,A,N5_GFB,B,N5_GFB,"turret destroyed by B3",27,10,0,0,10,0,0,0,0,0,3,0,3,21,28,0,0,49,30,0,0
+practice/hp10/alt/zG/r0,B,N5_GFB,A,B,"turn limit: distance 55 vs 58",101,0,0,10,10,0,0,0,0,4,6,4,7,124,118,0,0,37,27,0,0
+practice/hp10/alt/zG/r0,C,N5_GFB,A,C,"turn limit: distance 56 vs 57",101,0,0,10,10,0,0,0,0,7,7,9,9,170,169,0,0,28,48,0,0
+practice/hp10/alt/zG/r0,D,N5_GFB,A,D,"turn limit: damage 60 vs 100",101,60,100,10,10,1,0,0,0,7,3,7,3,106,89,0,0,31,31,0,0
+practice/hp10/alt/zG/r0,N2_SBHd,B,A,N2_SBHd,"turn limit: distance 56 vs 57",101,0,0,10,10,0,0,0,0,8,4,9,4,108,124,0,0,26,23,0,0
+practice/hp10/alt/zG/r0,N4_GBHd,A,B,A,"turret destroyed by B3",18,10,0,0,10,0,0,0,0,3,0,3,0,12,1,0,0,20,26,0,0
+practice/hp10/alt/zG/r0,N5_GFB,basefix,A,N5_GFB,"turret destroyed by A3",27,0,140,10,0,1,0,0,27,5,0,6,0,22,0,0,0,28,17,0,0
+practice/hp10/alt/zG/r0,N5_GFB,D,A,N5_GFB,"turret destroyed by A3",100,0,10,10,0,0,0,0,0,6,4,7,4,168,155,0,0,19,23,0,0
+practice/hp10/alt/zG/r0,N6_SFB,C,B,C,"turn limit: distance 60 vs 57",101,0,0,10,10,0,0,0,0,5,5,5,5,166,172,0,0,20,16,0,0
+practice/hp100/alt/zG/r2,basefix,N5_GFB,B,N5_GFB,"turret destroyed by B3",29,230,0,0,100,0,1,32,0,0,6,0,8,0,23,0,0,8,23,0,0
+practice/hp100/alt/zG/r2,A,N5_GFB,B,N5_GFB,"turret destroyed by B3",29,100,0,0,100,0,0,0,0,0,3,0,4,25,31,0,0,18,16,0,0
+practice/hp100/alt/zG/r2,B,N5_GFB,A,B,"turn limit: distance 55 vs 57",101,0,0,100,100,0,0,0,0,4,6,4,7,123,118,0,0,25,18,0,0
+practice/hp100/alt/zG/r2,C,N5_GFB,A,C,"turn limit: distance 56 vs 57",101,0,0,100,100,0,0,0,0,5,6,7,7,171,170,0,0,20,26,0,0
+practice/hp100/alt/zG/r2,D,N5_GFB,B,N5_GFB,"turn limit: damage 70 vs 0",101,70,0,30,100,0,0,0,0,4,6,4,7,155,168,0,0,37,36,0,0
+practice/hp100/alt/zG/r2,N2_SBHd,B,A,N2_SBHd,"turn limit: distance 56 vs 57",101,0,0,100,100,0,0,0,0,7,4,9,4,108,124,0,0,28,21,0,0
+practice/hp100/alt/zG/r2,N4_GBHd,A,A,N4_GBHd,"turret destroyed by A2",30,0,100,100,0,0,0,0,0,3,2,4,2,28,23,0,0,21,35,0,0
+practice/hp100/alt/zG/r2,N5_GFB,basefix,A,N5_GFB,"tanks destroyed (B lost 2)",22,0,200,100,100,2,0,0,3,3,0,3,0,16,0,0,0,10,8,0,0
+practice/hp100/alt/zG/r2,N5_GFB,D,A,N5_GFB,"turn limit: damage 0 vs 70",101,0,70,100,30,0,0,0,0,6,6,7,7,166,148,0,0,46,39,0,0
+practice/hp100/alt/zG/r2,N6_SFB,C,B,C,"turn limit: distance 60 vs 57",101,0,0,100,100,0,0,0,0,5,5,5,5,166,172,0,0,26,28,0,0
+gen:sand:1/hp10/alt/zG/r2,basefix,N5_GFB,B,N5_GFB,"tanks destroyed (A lost 2)",18,210,20,10,10,0,0,2,0,0,5,0,7,0,7,9,2,19,15,0,0
+gen:sand:1/hp10/alt/zG/r2,A,N5_GFB,B,N5_GFB,"turn limit: damage 210 vs 140",101,210,140,10,10,0,1,0,0,0,9,0,11,108,138,6,5,32,30,0,0
+gen:sand:1/hp10/alt/zG/r2,B,N5_GFB,B,N5_GFB,"turn limit: distance 52 vs 48",101,40,40,10,10,0,0,0,0,8,5,8,7,168,155,4,4,23,22,0,0
+gen:sand:1/hp10/alt/zG/r2,C,N5_GFB,B,N5_GFB,"tanks destroyed (A lost 2)",28,200,120,10,10,0,2,0,0,4,6,4,8,20,16,11,5,17,16,0,0
+gen:sand:1/hp10/alt/zG/r2,D,N5_GFB,B,N5_GFB,"turn limit: damage 70 vs 30",101,70,30,10,10,0,0,0,0,8,5,10,5,161,160,7,3,18,38,0,0
+gen:sand:1/hp10/alt/zG/r2,N2_SBHd,B,A,N2_SBHd,"turret destroyed by A2",87,110,50,10,0,0,0,0,0,7,8,8,8,132,144,8,4,20,11,0,0
+gen:sand:1/hp10/alt/zG/r2,N4_GBHd,A,A,N4_GBHd,"turn limit: damage 140 vs 210",101,140,210,10,10,1,0,0,0,10,0,11,0,156,111,5,6,21,27,0,0
+gen:sand:1/hp10/alt/zG/r2,N5_GFB,basefix,A,N5_GFB,"tanks destroyed (B lost 2)",19,70,290,10,10,2,0,0,5,3,0,4,0,6,0,4,17,19,13,0,0
+gen:sand:1/hp10/alt/zG/r2,N5_GFB,D,A,N5_GFB,"turn limit: damage 30 vs 70",101,30,70,10,10,0,0,0,0,7,8,9,9,163,167,3,7,17,30,0,0
+gen:sand:1/hp10/alt/zG/r2,N6_SFB,C,A,N6_SFB,"turn limit: damage 70 vs 120",101,70,120,10,10,0,0,0,0,6,1,8,2,163,175,7,9,34,28,0,0
+gen:sand:1/hp100/alt/zG/r0,basefix,N5_GFB,B,N5_GFB,"tanks destroyed (A lost 2)",19,280,70,100,100,0,2,5,0,0,3,0,4,0,6,17,4,5,17,0,0
+gen:sand:1/hp100/alt/zG/r0,A,N5_GFB,B,N5_GFB,"turn limit: damage 140 vs 90",101,140,90,100,100,0,1,0,0,0,6,0,7,111,164,6,3,18,25,0,0
+gen:sand:1/hp100/alt/zG/r0,B,N5_GFB,B,N5_GFB,"turn limit: damage 50 vs 30",101,50,30,100,100,0,0,0,0,8,6,9,7,159,162,5,3,29,20,0,0
+gen:sand:1/hp100/alt/zG/r0,C,N5_GFB,B,N5_GFB,"turn limit: distance 42 vs 41",101,130,130,100,100,0,1,0,0,4,8,5,9,116,142,7,10,16,16,0,0
+gen:sand:1/hp100/alt/zG/r0,D,N5_GFB,B,N5_GFB,"turn limit: distance 47 vs 34",101,120,120,100,100,1,0,0,0,7,5,9,5,162,109,5,6,26,20,0,0
+gen:sand:1/hp100/alt/zG/r0,N2_SBHd,B,B,B,"turn limit: damage 140 vs 110",101,140,110,100,30,0,1,0,0,7,8,8,9,147,164,9,4,115,43,0,0
+gen:sand:1/hp100/alt/zG/r0,N4_GBHd,A,A,N4_GBHd,"turn limit: damage 140 vs 210",101,140,210,100,100,1,0,0,0,10,0,11,0,156,111,5,6,32,19,0,0
+gen:sand:1/hp100/alt/zG/r0,N5_GFB,basefix,A,N5_GFB,"tanks destroyed (B lost 2)",18,20,210,100,100,0,0,0,2,6,0,7,0,6,0,2,9,18,15,0,0
+gen:sand:1/hp100/alt/zG/r0,N5_GFB,D,A,N5_GFB,"turn limit: damage 30 vs 60",101,30,60,100,100,0,0,0,0,5,6,6,6,159,170,3,6,19,20,0,0
+gen:sand:1/hp100/alt/zG/r0,N6_SFB,C,A,N6_SFB,"turn limit: damage 130 vs 180",101,130,180,100,100,1,0,0,0,7,0,8,0,161,113,10,9,20,41,0,0
+gen:forest:2/hp10/alt/zG/r0,basefix,N5_GFB,B,N5_GFB,"tanks destroyed (A lost 2)",25,240,30,10,10,0,2,1,0,0,8,0,8,0,9,8,0,12,22,0,0
+gen:forest:2/hp10/alt/zG/r0,A,N5_GFB,B,N5_GFB,"turret destroyed by B3",34,10,0,0,10,0,0,0,0,3,3,3,4,37,30,0,0,13,20,0,0
+gen:forest:2/hp10/alt/zG/r0,B,N5_GFB,B,N5_GFB,"turn limit: full tie → second player",101,0,0,10,10,0,0,0,0,11,10,11,12,168,156,0,0,20,35,0,0
+gen:forest:2/hp10/alt/zG/r0,C,N5_GFB,B,N5_GFB,"turn limit: full tie → second player",101,0,0,10,10,0,0,0,0,9,10,9,12,164,156,0,0,27,17,0,0
+gen:forest:2/hp10/alt/zG/r0,D,N5_GFB,A,D,"turn limit: distance 32 vs 62",101,0,0,10,10,0,0,0,0,10,8,11,10,157,157,0,0,25,28,0,0
+gen:forest:2/hp10/alt/zG/r0,N2_SBHd,B,A,N2_SBHd,"turn limit: distance 49 vs 60",101,0,0,10,10,0,0,0,0,9,11,10,11,160,172,0,0,13,27,0,0
+gen:forest:2/hp10/alt/zG/r0,N4_GBHd,A,A,N4_GBHd,"turret destroyed by A2",27,0,10,10,0,0,0,0,0,7,2,8,3,18,20,0,0,39,21,0,0
+gen:forest:2/hp10/alt/zG/r0,N5_GFB,basefix,A,N5_GFB,"turret destroyed by A3",36,0,110,10,0,0,0,0,34,8,0,11,0,26,0,0,0,24,23,0,0
+gen:forest:2/hp10/alt/zG/r0,N5_GFB,D,B,D,"turret destroyed by B3",49,140,0,0,10,0,1,0,0,5,6,5,7,46,26,0,0,30,24,0,0
+gen:forest:2/hp10/alt/zG/r0,N6_SFB,C,A,N6_SFB,"turn limit: distance 55 vs 56",101,0,0,10,10,0,0,0,0,10,9,11,9,157,164,0,0,35,54,0,0
+gen:forest:2/hp100/alt/zG/r2,basefix,N5_GFB,B,N5_GFB,"turret destroyed by B3",35,200,0,0,100,0,0,33,0,0,8,0,9,0,27,0,0,9,23,0,0
+gen:forest:2/hp100/alt/zG/r2,A,N5_GFB,B,N5_GFB,"turret destroyed by B3",34,100,0,0,100,0,0,0,0,3,3,3,3,37,30,0,0,20,25,0,0
+gen:forest:2/hp100/alt/zG/r2,B,N5_GFB,B,N5_GFB,"turn limit: full tie → second player",101,0,0,100,100,0,0,0,0,11,10,11,10,168,156,0,0,45,26,0,0
+gen:forest:2/hp100/alt/zG/r2,C,N5_GFB,B,N5_GFB,"turn limit: full tie → second player",101,0,0,100,100,0,0,0,0,9,10,9,10,164,157,0,0,28,93,0,0
+gen:forest:2/hp100/alt/zG/r2,D,N5_GFB,A,D,"turn limit: distance 32 vs 62",101,0,0,100,100,0,0,0,0,10,8,11,8,157,158,0,0,23,23,0,0
+gen:forest:2/hp100/alt/zG/r2,N2_SBHd,B,A,N2_SBHd,"turn limit: distance 49 vs 60",101,0,0,100,100,0,0,0,0,9,11,9,11,160,172,0,0,34,23,0,0
+gen:forest:2/hp100/alt/zG/r2,N4_GBHd,A,A,N4_GBHd,"turret destroyed by A2",28,0,100,100,0,0,0,0,0,7,3,8,3,20,21,0,0,34,30,0,0
+gen:forest:2/hp100/alt/zG/r2,N5_GFB,basefix,A,N5_GFB,"tanks destroyed (B lost 2)",25,0,270,100,100,1,0,0,1,8,0,8,0,9,0,0,8,18,5,0,0
+gen:forest:2/hp100/alt/zG/r2,N5_GFB,D,B,D,"turn limit: distance 62 vs 32",101,0,0,100,100,0,0,0,0,8,12,8,13,158,155,0,0,35,41,0,0
+gen:forest:2/hp100/alt/zG/r2,N6_SFB,C,A,N6_SFB,"turn limit: distance 55 vs 56",101,0,0,100,100,0,0,0,0,10,9,10,9,158,164,0,0,22,35,0,0
+gen:open:3/hp10/alt/zG/r2,basefix,N5_GFB,B,N5_GFB,"turret destroyed by B3",37,140,0,0,10,0,0,47,0,0,8,0,11,0,27,0,0,7,39,0,0
+gen:open:3/hp10/alt/zG/r2,A,N5_GFB,B,N5_GFB,"turn limit: damage 100 vs 90",101,100,90,10,10,0,1,0,0,2,8,2,11,121,136,0,0,17,27,0,0
+gen:open:3/hp10/alt/zG/r2,B,N5_GFB,A,B,"turn limit: distance 53 vs 59",101,0,0,10,10,0,0,0,0,11,9,14,9,124,112,0,0,29,39,0,0
+gen:open:3/hp10/alt/zG/r2,C,N5_GFB,B,N5_GFB,"turn limit: distance 54 vs 45",101,0,0,10,10,0,0,0,0,10,9,12,10,150,102,0,0,37,17,0,0
+gen:open:3/hp10/alt/zG/r2,D,N5_GFB,A,D,"turn limit: distance 43 vs 54",101,0,0,10,10,0,0,0,0,6,8,10,10,138,98,0,0,34,18,0,0
+gen:open:3/hp10/alt/zG/r2,N2_SBHd,B,B,B,"turret destroyed by B1",87,10,0,0,10,0,0,0,0,5,11,8,11,88,110,0,0,20,29,0,0
+gen:open:3/hp10/alt/zG/r2,N4_GBHd,A,B,A,"turret destroyed by B1",42,70,170,0,10,1,0,0,0,8,2,12,2,37,26,0,0,26,24,0,0
+gen:open:3/hp10/alt/zG/r2,N5_GFB,basefix,A,N5_GFB,"tanks destroyed (B lost 2)",21,30,210,10,10,2,0,0,3,5,0,7,0,14,0,0,3,21,11,0,0
+gen:open:3/hp10/alt/zG/r2,N5_GFB,D,A,N5_GFB,"turret destroyed by A3",46,0,10,10,0,0,0,0,0,8,6,11,10,39,17,0,0,29,30,0,0
+gen:open:3/hp10/alt/zG/r2,N6_SFB,C,A,N6_SFB,"turn limit: distance 53 vs 58",101,0,0,10,10,0,0,0,0,8,10,12,10,150,162,0,0,28,24,0,0
+gen:open:3/hp100/alt/zG/r0,basefix,N5_GFB,B,N5_GFB,"tanks destroyed (A lost 2)",20,210,30,100,100,0,2,2,0,0,5,0,5,0,15,3,0,26,16,0,0
+gen:open:3/hp100/alt/zG/r0,A,N5_GFB,B,N5_GFB,"turn limit: damage 140 vs 60",101,140,60,100,100,0,0,0,0,2,9,2,9,158,166,0,0,19,16,0,0
+gen:open:3/hp100/alt/zG/r0,B,N5_GFB,A,B,"turn limit: distance 53 vs 59",101,0,0,100,100,0,0,0,0,11,9,11,9,126,112,0,0,23,11,0,0
+gen:open:3/hp100/alt/zG/r0,C,N5_GFB,B,N5_GFB,"turn limit: distance 58 vs 54",101,0,0,100,100,0,0,0,0,12,9,13,9,160,157,0,0,100,52,0,0
+gen:open:3/hp100/alt/zG/r0,D,N5_GFB,A,D,"turn limit: distance 37 vs 62",101,0,0,100,100,0,0,0,0,6,13,6,13,140,143,0,0,33,18,0,0
+gen:open:3/hp100/alt/zG/r0,N2_SBHd,B,A,N2_SBHd,"turn limit: distance 47 vs 59",101,0,0,100,100,0,0,0,0,9,11,9,11,102,134,0,0,19,35,0,0
+gen:open:3/hp100/alt/zG/r0,N4_GBHd,A,B,A,"turret destroyed by B3",43,290,170,0,100,1,1,0,0,5,3,5,3,45,23,0,0,27,23,0,0
+gen:open:3/hp100/alt/zG/r0,N5_GFB,basefix,A,N5_GFB,"turret destroyed by A3",37,0,230,100,0,0,0,0,46,9,0,9,0,28,0,0,0,21,8,0,0
+gen:open:3/hp100/alt/zG/r0,N5_GFB,D,B,D,"turn limit: distance 62 vs 37",101,0,0,100,100,0,0,0,0,10,6,10,6,158,145,0,0,15,27,0,0
+gen:open:3/hp100/alt/zG/r0,N6_SFB,C,B,C,"turn limit: distance 47 vs 42",101,0,0,100,100,0,0,0,0,8,7,8,7,96,155,0,0,16,32,0,0
+gen:mixed:4/hp10/alt/zG/r0,basefix,N5_GFB,A,basefix,"turret destroyed by A2",25,190,40,10,0,0,1,15,0,0,5,0,6,0,16,10,3,4,26,0,0
+gen:mixed:4/hp10/alt/zG/r0,A,N5_GFB,B,N5_GFB,"tanks destroyed (A lost 2)",41,280,150,10,10,0,2,0,0,0,5,0,6,28,37,4,0,24,23,0,0
+gen:mixed:4/hp10/alt/zG/r0,B,N5_GFB,B,N5_GFB,"turret destroyed by B3",41,160,80,0,10,0,1,0,0,8,8,9,9,35,27,5,2,27,12,0,0
+gen:mixed:4/hp10/alt/zG/r0,C,N5_GFB,B,N5_GFB,"turn limit: damage 30 vs 0",101,30,0,10,10,0,0,0,0,7,8,10,9,154,160,3,0,45,24,0,0
+gen:mixed:4/hp10/alt/zG/r0,D,N5_GFB,A,D,"turn limit: distance 49 vs 52",101,0,0,10,10,0,0,0,0,6,8,9,9,125,117,0,0,36,24,0,0
+gen:mixed:4/hp10/alt/zG/r0,N2_SBHd,B,A,N2_SBHd,"turn limit: damage 0 vs 30",101,0,30,10,10,0,0,0,0,7,8,9,9,159,165,0,3,63,34,0,0
+gen:mixed:4/hp10/alt/zG/r0,N4_GBHd,A,A,N4_GBHd,"tanks destroyed (B lost 2)",36,160,280,10,10,2,0,0,0,7,0,8,0,24,21,1,4,19,17,0,0
+gen:mixed:4/hp10/alt/zG/r0,N5_GFB,basefix,A,N5_GFB,"tanks destroyed (B lost 2)",32,0,200,10,10,2,0,0,36,8,0,9,0,19,0,0,5,15,7,0,0
+gen:mixed:4/hp10/alt/zG/r0,N5_GFB,D,B,D,"turn limit: damage 10 vs 0",101,10,0,10,10,0,0,0,0,8,6,10,8,157,166,1,0,14,24,0,0
+gen:mixed:4/hp10/alt/zG/r0,N6_SFB,C,A,N6_SFB,"turn limit: damage 20 vs 30",101,20,30,10,10,0,0,0,0,7,7,9,9,157,160,2,3,28,46,0,0
+gen:mixed:4/hp100/alt/zG/r2,basefix,N5_GFB,B,N5_GFB,"tanks destroyed (A lost 2)",29,200,10,100,100,0,2,36,0,0,9,0,10,0,8,4,1,5,20,0,0
+gen:mixed:4/hp100/alt/zG/r2,A,N5_GFB,B,N5_GFB,"turn limit: damage 270 vs 120",101,270,120,100,100,0,1,0,0,0,10,0,11,108,157,4,0,23,41,0,0
+gen:mixed:4/hp100/alt/zG/r2,B,N5_GFB,B,N5_GFB,"turn limit: damage 40 vs 0",101,40,0,100,100,0,0,0,0,8,8,8,8,169,160,4,0,25,20,0,0
+gen:mixed:4/hp100/alt/zG/r2,C,N5_GFB,B,N5_GFB,"turn limit: damage 30 vs 0",101,30,0,100,100,0,0,0,0,7,8,8,8,154,160,3,0,23,37,0,0
+gen:mixed:4/hp100/alt/zG/r2,D,N5_GFB,A,D,"turn limit: damage 0 vs 10",101,0,10,100,100,0,0,0,0,6,8,7,8,166,159,0,1,24,18,0,0
+gen:mixed:4/hp100/alt/zG/r2,N2_SBHd,B,A,N2_SBHd,"turn limit: damage 0 vs 10",101,0,10,100,100,0,0,0,0,7,8,9,8,161,173,0,1,24,32,0,0
+gen:mixed:4/hp100/alt/zG/r2,N4_GBHd,A,A,N4_GBHd,"tanks destroyed (B lost 2)",36,150,280,100,100,2,0,0,0,7,0,8,0,30,26,0,3,14,12,0,0
+gen:mixed:4/hp100/alt/zG/r2,N5_GFB,basefix,A,N5_GFB,"tanks destroyed (B lost 2)",27,80,220,40,100,2,0,0,15,6,0,7,0,15,0,2,10,121,10,0,0
+gen:mixed:4/hp100/alt/zG/r2,N5_GFB,D,B,D,"turn limit: distance 50 vs 49",101,10,10,100,100,0,0,0,0,8,6,10,6,157,167,1,1,48,24,0,0
+gen:mixed:4/hp100/alt/zG/r2,N6_SFB,C,A,N6_SFB,"turn limit: damage 20 vs 30",101,20,30,100,100,0,0,0,0,7,7,9,7,158,162,2,3,45,36,0,0
+gen:mixed:6/hp10/alt/zG/r2,basefix,N5_GFB,A,basefix,"turret destroyed by A1",20,60,10,10,0,0,0,1,0,0,9,0,10,0,4,0,0,5,18,0,0
+gen:mixed:6/hp10/alt/zG/r2,A,N5_GFB,A,A,"turret destroyed by A2",19,0,10,10,0,0,0,0,0,0,6,0,7,0,5,0,0,39,38,0,0
+gen:mixed:6/hp10/alt/zG/r2,B,N5_GFB,B,N5_GFB,"turn limit: full tie → second player",101,0,0,10,10,0,0,0,0,7,9,7,10,158,144,0,0,24,30,0,0
+gen:mixed:6/hp10/alt/zG/r2,C,N5_GFB,A,C,"turret destroyed by A1",23,0,10,10,0,0,0,0,0,8,9,11,10,8,7,0,0,27,24,0,0
+gen:mixed:6/hp10/alt/zG/r2,D,N5_GFB,B,N5_GFB,"turn limit: damage 10 vs 0",101,10,0,10,10,0,0,0,0,6,9,10,10,143,155,1,0,16,23,0,0
+gen:mixed:6/hp10/alt/zG/r2,N2_SBHd,B,B,B,"turret destroyed by B1",42,10,0,0,10,0,0,0,0,8,7,9,8,21,40,0,0,51,17,0,0
+gen:mixed:6/hp10/alt/zG/r2,N4_GBHd,A,B,A,"turret destroyed by B2",19,10,0,0,10,0,0,0,0,8,0,9,0,3,1,0,0,24,21,0,0
+gen:mixed:6/hp10/alt/zG/r2,N5_GFB,basefix,A,N5_GFB,"tanks destroyed (B lost 2)",21,60,200,10,10,2,0,0,13,6,0,10,0,6,0,0,2,34,7,0,0
+gen:mixed:6/hp10/alt/zG/r2,N5_GFB,D,A,N5_GFB,"turret destroyed by A3",46,0,10,10,0,0,0,0,0,9,6,12,7,34,24,0,0,17,28,0,0
+gen:mixed:6/hp10/alt/zG/r2,N6_SFB,C,A,N6_SFB,"turn limit: distance 51 vs 58",101,0,0,10,10,0,0,0,0,10,10,13,11,153,163,0,0,29,41,0,0
+gen:mixed:6/hp100/alt/zG/r0,basefix,N5_GFB,B,N5_GFB,"tanks destroyed (A lost 2)",21,200,60,100,100,0,2,13,0,0,6,0,7,0,8,2,0,29,46,0,0
+gen:mixed:6/hp100/alt/zG/r0,A,N5_GFB,A,A,"turret destroyed by A2",22,0,100,100,0,0,0,0,0,0,9,0,11,2,7,0,0,10,19,0,0
+gen:mixed:6/hp100/alt/zG/r0,B,N5_GFB,B,N5_GFB,"turn limit: full tie → second player",101,0,0,100,100,0,0,0,0,7,9,9,11,156,142,0,0,20,48,0,0
+gen:mixed:6/hp100/alt/zG/r0,C,N5_GFB,B,N5_GFB,"turn limit: distance 58 vs 52",101,0,0,100,100,0,0,0,0,10,11,14,13,161,153,0,0,13,15,0,0
+gen:mixed:6/hp100/alt/zG/r0,D,N5_GFB,B,N5_GFB,"turret destroyed by B3",51,100,0,0,100,0,0,0,0,6,9,9,11,32,44,0,0,18,35,0,0
+gen:mixed:6/hp100/alt/zG/r0,N2_SBHd,B,B,B,"turret destroyed by B1",44,100,0,0,100,0,0,0,0,8,7,9,8,27,43,0,0,27,26,0,0
+gen:mixed:6/hp100/alt/zG/r0,N4_GBHd,A,B,A,"turret destroyed by B2",22,100,0,0,100,0,0,0,0,8,0,9,0,5,3,0,0,27,26,0,0
+gen:mixed:6/hp100/alt/zG/r0,N5_GFB,basefix,B,basefix,"turret destroyed by B1",23,100,120,0,100,0,0,0,2,9,0,13,0,6,0,0,0,24,32,0,0
+gen:mixed:6/hp100/alt/zG/r0,N5_GFB,D,B,D,"turn limit: distance 57 vs 32",101,0,0,100,100,0,0,0,0,9,8,11,11,149,137,0,0,19,20,0,0
+gen:mixed:6/hp100/alt/zG/r0,N6_SFB,C,B,C,"turret destroyed by B1",24,100,0,0,100,0,0,0,0,8,8,11,11,9,10,0,0,10,20,0,0
+gen:open:9/hp10/alt/zG/r0,basefix,N5_GFB,B,N5_GFB,"tanks destroyed (A lost 2)",22,280,0,10,10,0,2,7,0,0,9,0,11,0,8,2,0,4,47,0,0
+gen:open:9/hp10/alt/zG/r0,A,N5_GFB,B,N5_GFB,"turret destroyed by B3",27,10,0,0,10,0,0,0,0,4,9,5,11,8,20,0,0,16,18,0,0
+gen:open:9/hp10/alt/zG/r0,B,N5_GFB,A,B,"turn limit: distance 55 vs 56",101,0,0,10,10,0,0,0,0,4,9,6,10,130,110,0,0,32,21,0,0
+gen:open:9/hp10/alt/zG/r0,C,N5_GFB,B,N5_GFB,"turn limit: distance 57 vs 55",101,0,0,10,10,0,0,0,0,8,9,9,10,171,163,0,0,47,31,0,0
+gen:open:9/hp10/alt/zG/r0,D,N5_GFB,B,N5_GFB,"turret destroyed by B3",34,10,0,0,10,0,0,0,0,9,9,10,10,17,28,0,0,14,27,0,0
+gen:open:9/hp10/alt/zG/r0,N2_SBHd,B,A,N2_SBHd,"turn limit: distance 48 vs 58",101,0,0,10,10,0,0,0,0,8,4,10,5,111,133,0,0,27,39,0,0
+gen:open:9/hp10/alt/zG/r0,N4_GBHd,A,B,A,"turret destroyed by B1",23,70,140,0,10,0,0,0,0,10,0,13,0,9,2,0,0,27,19,0,0
+gen:open:9/hp10/alt/zG/r0,N5_GFB,basefix,A,N5_GFB,"tanks destroyed (B lost 2)",19,0,210,10,10,2,0,0,0,9,0,12,0,6,0,0,9,23,7,0,0
+gen:open:9/hp10/alt/zG/r0,N5_GFB,D,A,N5_GFB,"turret destroyed by A3",30,0,10,10,0,0,0,0,0,9,9,10,10,19,6,0,0,24,16,0,0
+gen:open:9/hp10/alt/zG/r0,N6_SFB,C,A,N6_SFB,"turn limit: distance 54 vs 58",101,0,0,10,10,0,0,0,0,8,8,9,9,163,171,0,0,43,17,0,0
+gen:open:9/hp100/alt/zG/r2,basefix,N5_GFB,B,N5_GFB,"tanks destroyed (A lost 2)",19,210,0,100,100,0,2,0,0,0,9,0,11,0,8,10,0,45,17,0,0
+gen:open:9/hp100/alt/zG/r2,A,N5_GFB,B,N5_GFB,"turret destroyed by B3",28,100,0,0,100,0,0,0,0,4,9,4,11,15,22,0,0,16,30,0,0
+gen:open:9/hp100/alt/zG/r2,B,N5_GFB,A,B,"turn limit: distance 55 vs 56",101,0,0,100,100,0,0,0,0,4,9,4,11,129,110,0,0,29,20,0,0
+gen:open:9/hp100/alt/zG/r2,C,N5_GFB,B,N5_GFB,"turn limit: distance 57 vs 55",101,0,0,100,100,0,0,0,0,8,9,10,9,170,163,0,0,12,13,0,0
+gen:open:9/hp100/alt/zG/r2,D,N5_GFB,A,D,"turn limit: distance 34 vs 65",101,0,0,100,100,0,0,0,0,8,9,10,9,149,166,0,0,38,15,0,0
+gen:open:9/hp100/alt/zG/r2,N2_SBHd,B,A,N2_SBHd,"turn limit: distance 47 vs 56",101,0,0,100,100,0,0,0,0,8,4,10,4,112,133,0,0,36,25,0,0
+gen:open:9/hp100/alt/zG/r2,N4_GBHd,A,A,N4_GBHd,"turret destroyed by A2",28,60,240,100,0,0,0,0,0,10,0,10,0,17,12,0,0,20,19,0,0
+gen:open:9/hp100/alt/zG/r2,N5_GFB,basefix,A,N5_GFB,"tanks destroyed (B lost 2)",23,0,200,100,100,2,0,0,7,10,0,11,0,8,0,0,2,15,12,0,0
+gen:open:9/hp100/alt/zG/r2,N5_GFB,D,A,N5_GFB,"turret destroyed by A3",28,0,100,100,0,0,0,0,0,9,11,11,11,20,9,0,0,26,17,0,0
+gen:open:9/hp100/alt/zG/r2,N6_SFB,C,A,N6_SFB,"turn limit: distance 54 vs 58",101,0,0,100,100,0,0,0,0,8,8,10,8,165,171,0,0,28,42,0,0
+gen:forest:8/hp10/alt/zG/r2,basefix,N5_GFB,B,N5_GFB,"tanks destroyed (A lost 2)",20,200,50,10,10,0,1,0,0,0,8,0,8,0,8,5,2,8,31,0,0
+gen:forest:8/hp10/alt/zG/r2,A,N5_GFB,A,A,"turn limit: damage 0 vs 10",101,0,10,10,10,0,0,0,0,0,3,0,3,162,181,0,1,20,153,0,0
+gen:forest:8/hp10/alt/zG/r2,B,N5_GFB,B,N5_GFB,"turn limit: damage 80 vs 20",101,80,20,10,10,0,0,0,0,5,8,5,9,57,111,1,2,30,14,0,0
+gen:forest:8/hp10/alt/zG/r2,C,N5_GFB,B,N5_GFB,"turn limit: damage 80 vs 20",101,80,20,10,10,0,0,0,0,5,8,5,9,57,111,1,2,10,38,0,0
+gen:forest:8/hp10/alt/zG/r2,D,N5_GFB,A,D,"turn limit: damage 10 vs 20",101,10,20,10,10,0,0,0,0,2,8,2,9,201,165,1,2,41,37,0,0
+gen:forest:8/hp10/alt/zG/r2,N2_SBHd,B,A,N2_SBHd,"turn limit: damage 70 vs 110",101,70,110,10,10,1,0,0,0,2,5,2,6,163,112,1,1,19,32,0,0
+gen:forest:8/hp10/alt/zG/r2,N4_GBHd,A,A,N4_GBHd,"turret destroyed by A2",52,90,110,10,0,1,0,0,0,7,0,7,0,49,47,3,0,18,19,0,0
+gen:forest:8/hp10/alt/zG/r2,N5_GFB,basefix,A,N5_GFB,"tanks destroyed (B lost 2)",22,10,200,10,10,1,0,0,1,3,0,3,0,22,0,1,0,21,6,0,0
+gen:forest:8/hp10/alt/zG/r2,N5_GFB,D,B,D,"turn limit: damage 110 vs 70",101,110,70,10,10,0,1,0,0,3,2,3,3,128,157,1,1,17,31,0,0
+gen:forest:8/hp10/alt/zG/r2,N6_SFB,C,A,N6_SFB,"turn limit: damage 20 vs 80",101,20,80,10,10,0,0,0,0,8,5,8,6,117,103,2,1,23,28,0,0
+gen:forest:8/hp100/alt/zG/r0,basefix,N5_GFB,B,N5_GFB,"tanks destroyed (A lost 2)",22,200,10,100,100,0,1,1,0,0,3,0,3,0,22,0,1,5,14,0,0
+gen:forest:8/hp100/alt/zG/r0,A,N5_GFB,A,A,"turn limit: damage 0 vs 10",101,0,10,100,100,0,0,0,0,0,3,0,3,160,168,0,1,42,19,0,0
+gen:forest:8/hp100/alt/zG/r0,B,N5_GFB,A,B,"turn limit: damage 10 vs 20",101,10,20,100,100,0,0,0,0,5,8,5,9,108,112,1,2,39,44,0,0
+gen:forest:8/hp100/alt/zG/r0,C,N5_GFB,A,C,"turn limit: damage 10 vs 20",101,10,20,100,100,0,0,0,0,5,8,5,9,108,112,1,2,51,22,0,0
+gen:forest:8/hp100/alt/zG/r0,D,N5_GFB,A,D,"turn limit: damage 10 vs 20",101,10,20,100,100,0,0,0,0,2,8,2,10,174,163,1,2,37,44,0,0
+gen:forest:8/hp100/alt/zG/r0,N2_SBHd,B,B,B,"turret destroyed by B2",38,110,20,0,100,0,0,0,0,2,5,2,6,34,25,1,2,29,27,0,0
+gen:forest:8/hp100/alt/zG/r0,N4_GBHd,A,A,N4_GBHd,"turret destroyed by A2",56,90,200,100,0,1,0,0,0,7,0,7,0,47,48,3,0,32,35,0,0
+gen:forest:8/hp100/alt/zG/r0,N5_GFB,basefix,A,N5_GFB,"tanks destroyed (B lost 2)",27,10,200,100,100,1,0,0,0,3,0,3,0,31,0,1,5,24,10,0,0
+gen:forest:8/hp100/alt/zG/r0,N5_GFB,D,B,D,"turn limit: damage 110 vs 70",101,110,70,100,100,0,1,0,0,3,2,3,3,128,156,1,1,31,13,0,0
+gen:forest:8/hp100/alt/zG/r0,N6_SFB,C,B,C,"turn limit: damage 20 vs 10",101,20,10,100,100,0,0,0,0,8,5,11,6,112,104,2,1,15,30,0,0
+gen:sand:20/hp10/alt/zG/r3,basefix,N5_GFB,A,basefix,"turret destroyed by A1",17,110,90,10,0,0,0,0,0,0,8,0,8,0,10,8,8,8,33,0,0
+gen:sand:20/hp10/alt/zG/r3,A,N5_GFB,A,A,"turret destroyed by A1",18,40,120,10,0,0,0,0,0,0,10,0,10,1,6,4,11,19,32,0,0
+gen:sand:20/hp10/alt/zG/r3,B,N5_GFB,A,B,"turn limit: damage 70 vs 120",101,70,120,10,10,0,0,0,0,5,8,6,8,153,167,7,12,32,13,0,0
+gen:sand:20/hp10/alt/zG/r3,C,N5_GFB,A,C,"turret destroyed by A2",25,100,130,10,0,0,0,0,0,2,9,2,9,26,23,3,9,15,29,0,0
+gen:sand:20/hp10/alt/zG/r3,D,N5_GFB,A,D,"turn limit: damage 30 vs 130",101,30,130,10,10,0,0,0,0,8,13,8,15,153,153,3,13,32,38,0,0
+gen:sand:20/hp10/alt/zG/r3,N2_SBHd,B,B,B,"turret destroyed by B2",37,60,50,0,10,0,0,0,0,4,7,4,8,47,29,5,5,21,26,0,0
+gen:sand:20/hp10/alt/zG/r3,N4_GBHd,A,B,A,"turret destroyed by B1",17,90,40,0,10,0,0,0,0,6,0,6,0,3,0,8,4,16,43,0,0
+gen:sand:20/hp10/alt/zG/r3,N5_GFB,basefix,B,basefix,"turret destroyed by B1",17,90,110,0,10,0,0,0,0,9,0,9,0,10,0,8,8,29,10,0,0
+gen:sand:20/hp10/alt/zG/r3,N5_GFB,D,B,D,"turn limit: damage 130 vs 30",101,130,30,10,10,0,0,0,0,13,8,13,11,152,151,13,3,29,153,0,0
+gen:sand:20/hp10/alt/zG/r3,N6_SFB,C,B,C,"turret destroyed by B2",26,120,50,0,10,0,0,0,0,5,4,5,5,21,17,11,5,25,26,0,0
+gen:sand:20/hp100/alt/zG/r1,basefix,N5_GFB,A,basefix,"turret destroyed by A1",20,150,200,100,0,0,0,0,0,0,10,0,11,0,11,12,10,5,39,0,0
+gen:sand:20/hp100/alt/zG/r1,A,N5_GFB,A,A,"turret destroyed by A1",21,50,190,100,0,0,0,0,0,0,8,0,9,1,16,5,9,18,20,0,0
+gen:sand:20/hp100/alt/zG/r1,B,N5_GFB,A,B,"turn limit: damage 70 vs 120",101,70,120,100,100,0,0,0,0,5,8,5,9,153,167,7,12,24,36,0,0
+gen:sand:20/hp100/alt/zG/r1,C,N5_GFB,A,C,"turret destroyed by A2",26,100,250,100,0,0,0,0,0,2,9,2,10,27,24,3,12,15,22,0,0
+gen:sand:20/hp100/alt/zG/r1,D,N5_GFB,B,N5_GFB,"turret destroyed by B3",44,160,130,0,100,0,0,0,0,8,13,9,17,42,39,6,13,40,41,0,0
+gen:sand:20/hp100/alt/zG/r1,N2_SBHd,B,B,B,"turret destroyed by B2",39,150,50,0,100,0,0,0,0,4,7,5,10,49,32,5,5,26,37,0,0
+gen:sand:20/hp100/alt/zG/r1,N4_GBHd,A,A,N4_GBHd,"turret destroyed by A2",37,80,150,100,0,0,0,0,0,7,0,8,0,28,42,8,5,33,12,0,0
+gen:sand:20/hp100/alt/zG/r1,N5_GFB,basefix,B,basefix,"turret destroyed by B1",20,210,150,0,100,0,0,0,0,10,0,11,0,11,0,11,12,16,8,0,0
+gen:sand:20/hp100/alt/zG/r1,N5_GFB,D,B,D,"turn limit: damage 130 vs 30",101,130,30,100,100,0,0,0,0,13,8,15,14,153,149,13,3,33,30,0,0
+gen:sand:20/hp100/alt/zG/r1,N6_SFB,C,B,C,"turret destroyed by B2",26,190,50,0,100,0,0,0,0,5,4,6,4,23,17,9,5,39,48,0,0
+gen:forest:21/hp10/alt/zG/r3,basefix,N5_GFB,A,basefix,"turret destroyed by A2",25,120,10,10,0,0,0,17,0,0,2,0,2,0,11,9,0,4,22,0,0
+gen:forest:21/hp10/alt/zG/r3,A,N5_GFB,B,N5_GFB,"turn limit: damage 220 vs 150",101,220,150,10,10,0,1,0,0,0,3,0,3,150,151,0,0,13,23,0,0
+gen:forest:21/hp10/alt/zG/r3,B,N5_GFB,A,B,"turn limit: damage 120 vs 190",101,120,190,10,10,1,0,0,0,12,0,12,0,159,143,0,0,22,34,0,0
+gen:forest:21/hp10/alt/zG/r3,C,N5_GFB,B,N5_GFB,"turn limit: damage 130 vs 60",101,130,60,10,10,0,1,0,0,0,3,0,3,140,146,0,0,15,32,0,0
+gen:forest:21/hp10/alt/zG/r3,D,N5_GFB,B,N5_GFB,"turn limit: full tie → second player",101,0,0,10,10,0,0,0,0,0,0,0,0,180,170,0,0,18,35,0,0
+gen:forest:21/hp10/alt/zG/r3,N2_SBHd,B,B,B,"turn limit: damage 70 vs 30",101,70,30,10,10,0,0,0,0,0,10,0,10,165,160,0,0,35,28,0,0
+gen:forest:21/hp10/alt/zG/r3,N4_GBHd,A,A,N4_GBHd,"turret destroyed by A2",41,0,10,10,0,0,0,0,0,3,0,3,0,36,38,0,0,29,24,0,0
+gen:forest:21/hp10/alt/zG/r3,N5_GFB,basefix,B,basefix,"turret destroyed by B2",25,10,120,0,10,0,0,0,17,3,0,3,0,11,0,0,9,30,4,0,0
+gen:forest:21/hp10/alt/zG/r3,N5_GFB,D,B,D,"turn limit: full tie → second player",101,0,0,10,10,0,0,0,0,0,0,0,0,170,180,0,0,29,13,0,0
+gen:forest:21/hp10/alt/zG/r3,N6_SFB,C,A,N6_SFB,"turn limit: distance 46 vs 55",101,0,0,10,10,0,0,0,0,3,0,3,0,115,144,0,0,15,19,0,0
+gen:forest:21/hp100/alt/zG/r1,basefix,N5_GFB,A,basefix,"turret destroyed by A2",28,180,100,100,0,0,0,19,0,0,3,0,5,0,11,9,0,3,128,0,0
+gen:forest:21/hp100/alt/zG/r1,A,N5_GFB,B,N5_GFB,"turn limit: damage 220 vs 150",101,220,150,100,100,0,1,0,0,0,3,0,4,150,151,0,0,30,26,0,0
+gen:forest:21/hp100/alt/zG/r1,B,N5_GFB,A,B,"turn limit: damage 120 vs 190",101,120,190,100,100,1,0,0,0,12,0,13,0,158,143,0,0,15,29,0,0
+gen:forest:21/hp100/alt/zG/r1,C,N5_GFB,B,N5_GFB,"turn limit: distance 55 vs 45",101,0,0,100,100,0,0,0,0,0,3,0,4,147,113,0,0,12,38,0,0
+gen:forest:21/hp100/alt/zG/r1,D,N5_GFB,B,N5_GFB,"turn limit: full tie → second player",101,0,0,100,100,0,0,0,0,0,0,0,0,180,171,0,0,30,34,0,0
+gen:forest:21/hp100/alt/zG/r1,N2_SBHd,B,B,B,"turn limit: damage 70 vs 30",101,70,30,100,100,0,0,0,0,0,10,0,11,165,159,0,0,25,25,0,0
+gen:forest:21/hp100/alt/zG/r1,N4_GBHd,A,A,N4_GBHd,"turret destroyed by A2",43,0,100,100,0,0,0,0,0,3,0,4,0,38,42,0,0,23,45,0,0
+gen:forest:21/hp100/alt/zG/r1,N5_GFB,basefix,B,basefix,"turret destroyed by B2",28,100,180,0,100,0,0,0,19,4,0,4,0,11,0,0,9,31,10,0,0
+gen:forest:21/hp100/alt/zG/r1,N5_GFB,D,B,D,"turn limit: full tie → second player",101,0,0,100,100,0,0,0,0,0,0,0,0,170,179,0,0,25,40,0,0
+gen:forest:21/hp100/alt/zG/r1,N6_SFB,C,A,N6_SFB,"turn limit: damage 30 vs 120",101,30,120,100,100,0,0,0,0,3,0,4,0,106,115,0,0,44,27,0,0
+gen:open:22/hp10/alt/zG/r1,basefix,N5_GFB,B,N5_GFB,"tanks destroyed (A lost 2)",20,210,0,10,10,0,2,4,0,0,5,0,7,0,6,3,0,7,17,0,0
+gen:open:22/hp10/alt/zG/r1,A,N5_GFB,B,N5_GFB,"tanks destroyed (A lost 2)",89,270,210,10,10,0,2,0,0,0,9,0,10,44,94,1,0,19,28,0,0
+gen:open:22/hp10/alt/zG/r1,B,N5_GFB,B,N5_GFB,"turn limit: damage 10 vs 0",101,10,0,10,10,0,0,0,0,11,8,11,10,140,115,1,0,28,51,0,0
+gen:open:22/hp10/alt/zG/r1,C,N5_GFB,B,N5_GFB,"turn limit: damage 10 vs 0",101,10,0,10,10,0,0,0,0,12,10,13,12,164,147,1,0,15,49,0,0
+gen:open:22/hp10/alt/zG/r1,D,N5_GFB,B,N5_GFB,"turn limit: damage 10 vs 0",101,10,0,10,10,0,0,0,0,6,11,7,12,136,141,1,0,25,20,0,0
+gen:open:22/hp10/alt/zG/r1,N2_SBHd,B,A,N2_SBHd,"turn limit: damage 0 vs 10",101,0,10,10,10,0,0,0,0,5,9,6,10,125,149,0,1,19,21,0,0
+gen:open:22/hp10/alt/zG/r1,N4_GBHd,A,A,N4_GBHd,"tanks destroyed (B lost 2)",25,90,200,10,10,2,0,0,0,8,0,11,0,3,5,0,1,25,17,0,0
+gen:open:22/hp10/alt/zG/r1,N5_GFB,basefix,A,N5_GFB,"tanks destroyed (B lost 2)",20,0,210,10,10,2,0,0,4,6,0,7,0,6,0,0,3,21,6,0,0
+gen:open:22/hp10/alt/zG/r1,N5_GFB,D,B,D,"turn limit: damage 70 vs 40",101,70,40,10,10,0,0,0,0,8,6,9,6,118,77,0,1,17,26,0,0
+gen:open:22/hp10/alt/zG/r1,N6_SFB,C,B,C,"turret destroyed by B1",24,10,10,0,10,0,0,0,0,3,10,4,10,15,12,0,1,18,31,0,0
+gen:open:22/hp100/alt/zG/r3,basefix,N5_GFB,B,N5_GFB,"tanks destroyed (A lost 2)",20,210,0,100,100,0,2,4,0,0,6,0,7,0,6,3,0,6,33,0,0
+gen:open:22/hp100/alt/zG/r3,A,N5_GFB,B,N5_GFB,"tanks destroyed (A lost 2)",89,270,210,100,100,0,2,0,0,0,9,0,11,44,94,1,0,27,18,0,0
+gen:open:22/hp100/alt/zG/r3,B,N5_GFB,B,N5_GFB,"turn limit: damage 10 vs 0",101,10,0,100,100,0,0,0,0,11,8,11,9,140,116,1,0,23,32,0,0
+gen:open:22/hp100/alt/zG/r3,C,N5_GFB,B,N5_GFB,"turn limit: damage 10 vs 0",101,10,0,100,100,0,0,0,0,12,10,14,10,164,149,1,0,11,17,0,0
+gen:open:22/hp100/alt/zG/r3,D,N5_GFB,B,N5_GFB,"turn limit: damage 10 vs 0",101,10,0,100,100,0,0,0,0,6,11,8,11,148,150,1,0,39,14,0,0
+gen:open:22/hp100/alt/zG/r3,N2_SBHd,B,A,N2_SBHd,"turn limit: damage 0 vs 10",101,0,10,100,100,0,0,0,0,5,9,6,9,125,149,0,1,34,23,0,0
+gen:open:22/hp100/alt/zG/r3,N4_GBHd,A,A,N4_GBHd,"tanks destroyed (B lost 2)",21,120,200,100,100,2,0,0,0,7,0,8,0,3,1,0,1,58,66,0,0
+gen:open:22/hp100/alt/zG/r3,N5_GFB,basefix,A,N5_GFB,"tanks destroyed (B lost 2)",20,0,210,100,100,2,0,0,4,6,0,7,0,5,0,0,3,24,4,0,0
+gen:open:22/hp100/alt/zG/r3,N5_GFB,D,B,D,"turn limit: damage 100 vs 70",101,100,70,100,100,0,1,0,0,8,6,9,6,106,137,0,1,61,56,0,0
+gen:open:22/hp100/alt/zG/r3,N6_SFB,C,B,C,"turret destroyed by B1",25,100,10,0,100,0,0,0,0,3,10,4,11,18,13,0,1,16,32,0,0
+gen:mixed:23/hp10/alt/zG/r1,basefix,N5_GFB,B,N5_GFB,"tanks destroyed (A lost 2)",19,230,0,10,10,0,2,1,0,0,7,0,8,0,13,6,0,18,15,0,0
+gen:mixed:23/hp10/alt/zG/r1,A,N5_GFB,A,A,"turret destroyed by A1",93,190,170,10,0,1,1,0,0,0,7,0,9,142,158,0,0,27,15,0,0
+gen:mixed:23/hp10/alt/zG/r1,B,N5_GFB,B,N5_GFB,"turn limit: damage 80 vs 30",101,80,30,10,10,0,0,0,0,8,10,8,12,167,106,1,0,31,22,0,0
+gen:mixed:23/hp10/alt/zG/r1,C,N5_GFB,A,C,"turn limit: distance 56 vs 60",101,0,0,10,10,0,0,0,0,8,9,9,10,161,147,0,0,21,17,0,0
+gen:mixed:23/hp10/alt/zG/r1,D,N5_GFB,A,D,"turn limit: distance 37 vs 56",101,0,0,10,10,0,0,0,0,6,10,7,11,163,166,0,0,30,8,0,0
+gen:mixed:23/hp10/alt/zG/r1,N2_SBHd,B,B,B,"turn limit: damage 30 vs 0",101,30,0,10,10,0,0,0,0,7,7,8,9,112,172,0,0,35,28,0,0
+gen:mixed:23/hp10/alt/zG/r1,N4_GBHd,A,A,N4_GBHd,"turn limit: damage 120 vs 250",101,120,250,10,10,1,0,0,0,11,0,13,0,71,31,0,1,32,31,0,0
+gen:mixed:23/hp10/alt/zG/r1,N5_GFB,basefix,A,N5_GFB,"tanks destroyed (B lost 2)",19,0,230,10,10,2,0,0,1,7,0,8,0,13,0,0,6,20,11,0,0
+gen:mixed:23/hp10/alt/zG/r1,N5_GFB,D,B,D,"turn limit: distance 61 vs 38",101,0,0,10,10,0,0,0,0,9,6,10,7,152,161,0,0,27,20,0,0
+gen:mixed:23/hp10/alt/zG/r1,N6_SFB,C,B,C,"turret destroyed by B1",38,10,0,0,10,0,0,0,0,8,8,11,10,31,35,0,0,18,67,0,0
+gen:mixed:23/hp100/alt/zG/r3,basefix,N5_GFB,B,N5_GFB,"tanks destroyed (A lost 2)",19,230,0,100,100,0,2,1,0,0,7,0,9,0,14,6,0,6,27,0,0
+gen:mixed:23/hp100/alt/zG/r3,A,N5_GFB,A,A,"turret destroyed by A1",96,90,200,100,0,1,0,0,0,0,6,0,7,144,150,0,0,16,22,0,0
+gen:mixed:23/hp100/alt/zG/r3,B,N5_GFB,B,N5_GFB,"turn limit: damage 80 vs 30",101,80,30,100,100,0,0,0,0,8,9,9,10,168,101,1,0,27,32,0,0
+gen:mixed:23/hp100/alt/zG/r3,C,N5_GFB,A,C,"turn limit: distance 56 vs 60",101,0,0,100,100,0,0,0,0,8,9,9,9,161,147,0,0,16,23,0,0
+gen:mixed:23/hp100/alt/zG/r3,D,N5_GFB,A,D,"turn limit: distance 47 vs 56",101,0,0,100,100,0,0,0,0,6,9,8,11,162,149,0,0,41,19,0,0
+gen:mixed:23/hp100/alt/zG/r3,N2_SBHd,B,B,B,"turret destroyed by B1",36,100,0,0,100,0,0,0,0,7,7,8,7,22,39,0,0,24,15,0,0
+gen:mixed:23/hp100/alt/zG/r3,N4_GBHd,A,B,A,"turret destroyed by B1",97,270,200,0,100,0,1,0,0,6,0,7,0,143,149,1,0,16,15,0,0
+gen:mixed:23/hp100/alt/zG/r3,N5_GFB,basefix,A,N5_GFB,"tanks destroyed (B lost 2)",19,0,230,100,100,2,0,0,1,7,0,9,0,14,0,0,6,14,6,0,0
+gen:mixed:23/hp100/alt/zG/r3,N5_GFB,D,A,N5_GFB,"turret destroyed by A3",33,0,100,100,0,0,0,0,0,11,6,12,6,21,25,0,0,35,17,0,0
+gen:mixed:23/hp100/alt/zG/r3,N6_SFB,C,B,C,"turret destroyed by B1",40,100,0,0,100,0,0,0,0,8,8,9,10,37,39,0,0,170,55,0,0
+gen:mixed:24/hp10/alt/zG/r0,basefix,N5_GFB,B,N5_GFB,"tanks destroyed (A lost 2)",26,250,10,10,10,0,1,5,0,0,8,0,9,0,17,11,1,34,40,0,0
+gen:mixed:24/hp10/alt/zG/r0,A,N5_GFB,B,N5_GFB,"turret destroyed by B3",45,110,70,0,10,0,1,0,0,0,9,0,10,31,43,0,1,48,28,0,0
+gen:mixed:24/hp10/alt/zG/r0,B,N5_GFB,B,N5_GFB,"turn limit: damage 90 vs 60",101,90,60,10,10,0,0,0,0,4,8,5,8,170,112,2,3,27,21,0,0
+gen:mixed:24/hp10/alt/zG/r0,C,N5_GFB,A,C,"turret destroyed by A1",95,40,20,10,0,0,0,0,0,7,8,7,8,124,112,1,1,30,17,0,0
+gen:mixed:24/hp10/alt/zG/r0,D,N5_GFB,A,D,"tanks destroyed (B lost 2)",48,140,200,10,10,2,0,0,0,8,8,8,8,7,34,0,9,24,21,0,0
+gen:mixed:24/hp10/alt/zG/r0,N2_SBHd,B,B,B,"turret destroyed by B3",54,40,120,0,10,1,0,0,0,5,6,5,6,32,40,0,2,23,20,0,0
+gen:mixed:24/hp10/alt/zG/r0,N4_GBHd,A,A,N4_GBHd,"tanks destroyed (B lost 2)",25,120,200,10,10,2,0,0,0,6,0,6,0,12,4,0,0,15,17,0,0
+gen:mixed:24/hp10/alt/zG/r0,N5_GFB,basefix,A,N5_GFB,"tanks destroyed (B lost 2)",27,40,250,10,10,2,0,0,18,9,0,9,0,15,0,4,10,36,7,0,0
+gen:mixed:24/hp10/alt/zG/r0,N5_GFB,D,B,D,"turn limit: damage 20 vs 0",101,20,0,10,10,0,0,0,0,8,6,8,6,161,160,2,0,22,16,0,0
+gen:mixed:24/hp10/alt/zG/r0,N6_SFB,C,B,C,"turn limit: damage 90 vs 10",101,90,10,10,10,0,0,0,0,5,5,5,5,84,111,9,1,34,36,0,0
+gen:mixed:24/hp100/alt/zG/r2,basefix,N5_GFB,B,N5_GFB,"tanks destroyed (A lost 2)",28,250,40,100,100,0,2,22,0,0,9,0,10,0,16,10,4,19,30,0,0
+gen:mixed:24/hp100/alt/zG/r2,A,N5_GFB,B,N5_GFB,"turret destroyed by B3",46,200,70,0,100,0,1,0,0,0,9,0,10,32,45,0,1,28,21,0,0
+gen:mixed:24/hp100/alt/zG/r2,B,N5_GFB,B,N5_GFB,"turn limit: damage 80 vs 60",101,80,60,100,100,0,0,0,0,4,8,4,9,171,112,1,3,43,28,0,0
+gen:mixed:24/hp100/alt/zG/r2,C,N5_GFB,A,C,"turret destroyed by A1",96,70,110,100,0,0,0,0,0,7,8,10,8,123,112,1,1,7,7,0,0
+gen:mixed:24/hp100/alt/zG/r2,D,N5_GFB,A,D,"turn limit: damage 0 vs 20",101,0,20,100,100,0,0,0,0,6,8,10,9,154,161,0,2,17,60,0,0
+gen:mixed:24/hp100/alt/zG/r2,N2_SBHd,B,A,N2_SBHd,"turn limit: damage 0 vs 10",101,0,10,100,100,0,0,0,0,5,0,6,0,69,138,0,1,18,36,0,0
+gen:mixed:24/hp100/alt/zG/r2,N4_GBHd,A,B,A,"turret destroyed by B3",38,160,110,0,100,1,0,0,0,6,0,9,0,32,24,0,1,29,16,0,0
+gen:mixed:24/hp100/alt/zG/r2,N5_GFB,basefix,A,N5_GFB,"tanks destroyed (B lost 2)",26,10,250,100,100,1,0,0,3,8,0,10,0,17,0,1,11,14,10,0,0
+gen:mixed:24/hp100/alt/zG/r2,N5_GFB,D,A,N5_GFB,"turn limit: damage 90 vs 170",101,90,170,100,100,1,0,0,0,11,4,14,4,150,86,9,0,22,20,0,0
+gen:mixed:24/hp100/alt/zG/r2,N6_SFB,C,B,C,"turret destroyed by B3",77,170,170,0,100,0,0,0,0,9,5,13,5,71,79,7,11,27,39,0,0
+gen:sand:25/hp10/alt/zG/r0,basefix,N5_GFB,A,basefix,"turret destroyed by A1",19,240,60,10,0,0,0,0,0,0,3,0,4,0,28,24,5,10,26,3,0
+gen:sand:25/hp10/alt/zG/r0,A,N5_GFB,A,A,"turret destroyed by A1",25,150,70,10,0,0,0,0,0,0,3,0,4,3,40,15,6,16,14,0,0
+gen:sand:25/hp10/alt/zG/r0,B,N5_GFB,A,B,"turret destroyed by A1",32,50,60,10,0,0,0,0,0,10,3,11,4,28,55,5,5,14,19,0,0
+gen:sand:25/hp10/alt/zG/r0,C,N5_GFB,A,C,"turret destroyed by A1",30,50,60,10,0,0,0,0,0,8,3,9,4,26,52,5,5,16,25,0,0
+gen:sand:25/hp10/alt/zG/r0,D,N5_GFB,B,N5_GFB,"turn limit: damage 130 vs 50",101,130,50,10,10,0,0,0,0,12,3,13,4,147,193,13,5,73,13,0,0
+gen:sand:25/hp10/alt/zG/r0,N2_SBHd,B,A,N2_SBHd,"turn limit: damage 40 vs 70",101,40,70,10,10,0,0,0,0,4,0,5,0,183,167,4,7,60,13,0,0
+gen:sand:25/hp10/alt/zG/r0,N4_GBHd,A,A,N4_GBHd,"turn limit: damage 40 vs 70",101,40,70,10,10,0,0,0,0,4,0,5,0,183,169,4,7,14,41,0,0
+gen:sand:25/hp10/alt/zG/r0,N5_GFB,basefix,A,N5_GFB,"tanks destroyed (B lost 2)",25,50,260,10,10,0,0,0,12,3,0,4,0,43,0,5,14,24,11,0,0
+gen:sand:25/hp10/alt/zG/r0,N5_GFB,D,A,N5_GFB,"turn limit: damage 50 vs 130",101,50,130,10,10,0,0,0,0,3,12,4,15,193,146,5,13,42,22,0,0
+gen:sand:25/hp10/alt/zG/r0,N6_SFB,C,B,C,"turret destroyed by B1",30,60,50,0,10,0,0,0,0,3,8,4,9,52,26,5,5,33,34,0,0
+gen:sand:25/hp100/alt/zG/r2,basefix,N5_GFB,B,N5_GFB,"tanks destroyed (A lost 2)",25,260,50,100,100,0,0,12,0,0,3,0,4,0,42,14,5,8,16,0,0
+gen:sand:25/hp100/alt/zG/r2,A,N5_GFB,A,A,"turret destroyed by A1",29,190,250,100,0,1,0,0,0,0,3,0,4,8,41,16,12,23,16,0,0
+gen:sand:25/hp100/alt/zG/r2,B,N5_GFB,A,B,"turret destroyed by A1",33,50,150,100,0,0,0,0,0,11,3,12,4,29,58,5,5,21,24,0,0
+gen:sand:25/hp100/alt/zG/r2,C,N5_GFB,A,C,"turret destroyed by A1",31,60,150,100,0,0,0,0,0,8,3,9,4,27,52,6,5,23,29,0,0
+gen:sand:25/hp100/alt/zG/r2,D,N5_GFB,B,N5_GFB,"turn limit: damage 130 vs 50",101,130,50,100,100,0,0,0,0,12,3,13,4,147,193,13,5,12,12,0,0
+gen:sand:25/hp100/alt/zG/r2,N2_SBHd,B,A,N2_SBHd,"turn limit: damage 40 vs 70",101,40,70,100,100,0,0,0,0,4,0,5,0,182,169,4,7,9,51,0,0
+gen:sand:25/hp100/alt/zG/r2,N4_GBHd,A,A,N4_GBHd,"turn limit: damage 40 vs 70",101,40,70,100,100,0,0,0,0,4,0,5,0,182,171,4,7,33,29,0,0
+gen:sand:25/hp100/alt/zG/r2,N5_GFB,basefix,B,basefix,"turret destroyed by B1",22,150,260,0,100,0,0,0,2,3,0,4,0,35,0,5,26,20,12,0,3
+gen:sand:25/hp100/alt/zG/r2,N5_GFB,D,A,N5_GFB,"turn limit: damage 50 vs 130",101,50,130,100,100,0,0,0,0,3,12,4,13,193,147,5,13,39,19,0,0
+gen:sand:25/hp100/alt/zG/r2,N6_SFB,C,B,C,"turret destroyed by B1",31,150,60,0,100,0,0,0,0,3,8,4,9,53,27,5,6,18,28,0,0
+gen:forest:26/hp10/alt/zG/r0,basefix,N5_GFB,B,N5_GFB,"tanks destroyed (A lost 2)",17,200,0,10,10,0,2,1,0,0,3,0,3,0,6,2,0,7,16,0,0
+gen:forest:26/hp10/alt/zG/r0,A,N5_GFB,B,N5_GFB,"turret destroyed by B3",42,110,60,0,10,0,1,0,0,0,6,0,6,37,31,0,0,22,12,0,0
+gen:forest:26/hp10/alt/zG/r0,B,N5_GFB,B,N5_GFB,"turn limit: distance 58 vs 42",101,0,0,10,10,0,0,0,0,8,5,8,5,163,149,0,0,49,16,0,0
+gen:forest:26/hp10/alt/zG/r0,C,N5_GFB,B,N5_GFB,"turn limit: damage 90 vs 60",101,90,60,10,10,0,0,0,0,0,3,0,3,85,122,0,0,48,26,0,0
+gen:forest:26/hp10/alt/zG/r0,D,N5_GFB,A,D,"tanks destroyed (B lost 2)",86,200,200,10,10,2,1,0,0,4,3,4,3,27,66,0,2,17,27,0,0
+gen:forest:26/hp10/alt/zG/r0,N2_SBHd,B,B,B,"turn limit: damage 70 vs 0",101,70,0,10,10,0,0,0,0,7,6,8,6,112,121,0,0,20,28,0,0
+gen:forest:26/hp10/alt/zG/r0,N4_GBHd,A,A,N4_GBHd,"turret destroyed by A2",29,60,150,10,0,0,0,0,0,6,0,7,0,14,19,0,0,40,21,0,0
+gen:forest:26/hp10/alt/zG/r0,N5_GFB,basefix,A,N5_GFB,"tanks destroyed (B lost 2)",21,0,220,10,10,1,0,0,13,5,0,5,0,9,0,0,6,33,11,0,0
+gen:forest:26/hp10/alt/zG/r0,N5_GFB,D,B,D,"turn limit: damage 100 vs 70",101,100,70,10,10,0,1,0,0,4,7,4,7,104,180,0,0,62,33,0,0
+gen:forest:26/hp10/alt/zG/r0,N6_SFB,C,B,C,"turret destroyed by B2",31,10,60,0,10,0,0,0,0,3,2,3,2,20,28,0,0,25,21,0,0
+gen:forest:26/hp100/alt/zG/r2,basefix,N5_GFB,B,N5_GFB,"tanks destroyed (A lost 2)",21,220,0,100,100,0,1,13,0,0,5,0,6,0,9,6,0,7,21,0,0
+gen:forest:26/hp100/alt/zG/r2,A,N5_GFB,B,N5_GFB,"tanks destroyed (A lost 2)",34,270,130,100,100,1,2,0,0,0,5,0,6,20,24,0,0,44,108,0,0
+gen:forest:26/hp100/alt/zG/r2,B,N5_GFB,B,N5_GFB,"turn limit: distance 51 vs 48",101,0,0,100,100,0,0,0,0,8,5,9,7,158,150,0,0,38,34,0,0
+gen:forest:26/hp100/alt/zG/r2,C,N5_GFB,B,N5_GFB,"tanks destroyed (A lost 2)",45,200,160,100,40,1,2,0,0,2,3,2,4,47,33,0,0,34,23,0,0
+gen:forest:26/hp100/alt/zG/r2,D,N5_GFB,B,N5_GFB,"turn limit: distance 57 vs 40",101,0,0,100,100,0,0,0,0,4,3,6,4,159,162,0,0,28,25,0,0
+gen:forest:26/hp100/alt/zG/r2,N2_SBHd,B,B,B,"turn limit: damage 70 vs 30",101,70,30,30,100,0,0,0,0,7,6,8,6,107,105,0,0,10,13,0,0
+gen:forest:26/hp100/alt/zG/r2,N4_GBHd,A,A,N4_GBHd,"turret destroyed by A2",29,60,240,100,0,0,0,0,0,7,0,8,0,14,17,0,0,15,17,0,0
+gen:forest:26/hp100/alt/zG/r2,N5_GFB,basefix,A,N5_GFB,"tanks destroyed (B lost 2)",19,0,220,100,100,2,0,0,1,3,0,4,0,8,0,0,4,7,2,0,0
+gen:forest:26/hp100/alt/zG/r2,N5_GFB,D,A,N5_GFB,"turn limit: distance 45 vs 52",101,0,0,100,100,0,0,0,0,3,4,4,5,161,160,0,0,13,9,0,0
+gen:forest:26/hp100/alt/zG/r2,N6_SFB,C,B,C,"tanks destroyed (A lost 2)",36,200,100,100,100,0,2,0,0,3,5,4,5,26,32,0,0,8,9,0,0
+practice/hp10/alt/zG/r0,basefix,N6_SFB,A,basefix,"turret destroyed by A2",21,100,10,10,0,0,1,1,0,0,5,0,5,0,9,0,0,71,26,0,0
+practice/hp10/alt/zG/r0,A,N6_SFB,B,N6_SFB,"turret destroyed by B3",27,10,0,0,10,0,0,0,0,0,5,0,5,21,20,0,0,40,32,0,0
+practice/hp10/alt/zG/r0,B,N6_SFB,A,B,"turn limit: distance 57 vs 58",101,0,0,10,10,0,0,0,0,4,10,4,11,124,108,0,0,52,50,0,0
+practice/hp10/alt/zG/r0,C,N6_SFB,A,C,"turn limit: distance 57 vs 60",101,0,0,10,10,0,0,0,0,5,5,5,5,172,166,0,0,35,45,0,0
+practice/hp10/alt/zG/r0,D,N6_SFB,B,N6_SFB,"turret destroyed by B3",100,10,0,0,10,0,0,0,0,6,5,8,6,151,161,0,0,14,30,0,0
+practice/hp10/alt/zG/r0,N2_SBHd,C,A,N2_SBHd,"turn limit: distance 55 vs 56",101,0,0,10,10,0,0,0,0,5,5,6,5,165,173,0,0,30,20,0,0
+practice/hp10/alt/zG/r0,N4_GBHd,B,B,B,"turn limit: distance 57 vs 54",101,0,0,10,10,0,0,0,0,5,5,6,5,116,123,0,0,34,38,0,0
+practice/hp10/alt/zG/r0,N5_GFB,A,A,N5_GFB,"turret destroyed by A3",27,0,10,10,0,0,0,0,0,3,0,3,0,28,21,0,0,32,44,0,0
+practice/hp10/alt/zG/r0,N6_SFB,basefix,A,N6_SFB,"turret destroyed by A3",27,0,140,10,0,1,0,0,27,9,0,9,0,12,0,0,0,21,7,0,0
+practice/hp10/alt/zG/r0,N6_SFB,D,A,N6_SFB,"turret destroyed by A3",100,0,10,10,0,0,0,0,0,5,6,7,7,161,152,0,0,54,30,0,0
+practice/hp100/alt/zG/r2,basefix,N6_SFB,B,N6_SFB,"turret destroyed by B3",28,230,0,0,100,0,1,29,0,0,9,0,9,0,13,0,0,5,9,0,0
+practice/hp100/alt/zG/r2,A,N6_SFB,B,N6_SFB,"turret destroyed by B3",28,100,0,0,100,0,0,0,0,0,5,0,5,23,22,0,0,14,16,0,0
+practice/hp100/alt/zG/r2,B,N6_SFB,A,B,"turn limit: distance 57 vs 58",101,0,0,100,100,0,0,0,0,4,10,4,11,124,108,0,0,23,34,0,0
+practice/hp100/alt/zG/r2,C,N6_SFB,A,C,"turn limit: distance 57 vs 60",101,0,0,100,100,0,0,0,0,5,5,5,5,172,166,0,0,40,16,0,0
+practice/hp100/alt/zG/r2,D,N6_SFB,B,N6_SFB,"turn limit: damage 70 vs 0",101,70,0,30,100,0,0,0,0,4,7,5,8,154,164,0,0,27,27,0,0
+practice/hp100/alt/zG/r2,N2_SBHd,C,A,N2_SBHd,"turn limit: distance 55 vs 56",101,0,0,100,100,0,0,0,0,5,5,6,5,165,173,0,0,27,25,0,0
+practice/hp100/alt/zG/r2,N4_GBHd,B,B,B,"turn limit: distance 58 vs 54",101,0,0,100,100,0,0,0,0,5,4,6,4,117,124,0,0,39,26,0,0
+practice/hp100/alt/zG/r2,N5_GFB,A,A,N5_GFB,"turret destroyed by A3",28,0,100,100,0,0,0,0,0,3,0,3,0,29,21,0,0,22,33,0,0
+practice/hp100/alt/zG/r2,N6_SFB,basefix,B,basefix,"turret destroyed by B2",24,100,100,0,100,1,0,0,1,5,0,5,0,14,0,0,0,22,8,0,0
+practice/hp100/alt/zG/r2,N6_SFB,D,A,N6_SFB,"turn limit: damage 0 vs 70",101,0,70,100,30,0,0,0,0,5,6,6,8,161,150,0,0,16,22,0,0
+gen:sand:1/hp10/alt/zG/r2,basefix,N6_SFB,B,N6_SFB,"tanks destroyed (A lost 2)",18,210,20,10,10,0,0,2,0,0,5,0,7,0,8,9,2,9,36,0,0
+gen:sand:1/hp10/alt/zG/r2,A,N6_SFB,B,N6_SFB,"turn limit: damage 160 vs 110",101,160,110,10,10,0,1,0,0,0,10,0,12,114,165,8,5,38,25,0,0
+gen:sand:1/hp10/alt/zG/r2,B,N6_SFB,B,N6_SFB,"turn limit: damage 100 vs 60",101,100,60,10,10,0,0,0,0,8,7,8,10,156,161,10,6,19,31,0,0
+gen:sand:1/hp10/alt/zG/r2,C,N6_SFB,A,C,"turn limit: distance 35 vs 56",101,140,140,10,10,0,1,0,0,8,6,8,8,118,159,10,7,43,28,0,0
+gen:sand:1/hp10/alt/zG/r2,D,N6_SFB,B,N6_SFB,"turn limit: damage 70 vs 40",101,70,40,10,10,0,0,0,0,8,7,10,7,161,155,7,4,31,19,0,0
+gen:sand:1/hp10/alt/zG/r2,N2_SBHd,C,A,N2_SBHd,"turn limit: damage 70 vs 120",101,70,120,10,10,0,0,0,0,5,2,6,2,165,175,7,9,17,28,0,0
+gen:sand:1/hp10/alt/zG/r2,N4_GBHd,B,A,N4_GBHd,"turn limit: damage 70 vs 120",101,70,120,10,10,1,0,0,0,6,8,7,8,157,112,7,7,34,14,0,0
+gen:sand:1/hp10/alt/zG/r2,N5_GFB,A,A,N5_GFB,"tanks destroyed (B lost 2)",37,160,210,10,10,2,0,0,0,6,0,8,0,41,28,4,5,26,13,0,0
+gen:sand:1/hp10/alt/zG/r2,N6_SFB,basefix,A,N6_SFB,"tanks destroyed (B lost 2)",19,70,290,10,10,2,0,0,6,3,0,4,0,7,0,4,17,15,4,0,0
+gen:sand:1/hp10/alt/zG/r2,N6_SFB,D,A,N6_SFB,"turn limit: damage 40 vs 70",101,40,70,10,10,0,0,0,0,9,8,11,9,158,167,4,7,24,26,0,0
+gen:sand:1/hp100/alt/zG/r0,basefix,N6_SFB,B,N6_SFB,"tanks destroyed (A lost 2)",19,280,70,100,100,0,2,6,0,0,3,0,4,0,6,17,4,5,14,0,0
+gen:sand:1/hp100/alt/zG/r0,A,N6_SFB,B,N6_SFB,"turret destroyed by B3",51,300,170,0,100,0,1,0,0,2,7,2,8,46,55,5,8,19,36,0,0
+gen:sand:1/hp100/alt/zG/r0,B,N6_SFB,B,N6_SFB,"turn limit: damage 100 vs 50",101,100,50,100,100,0,0,0,0,8,7,9,9,116,78,10,5,28,16,0,0
+gen:sand:1/hp100/alt/zG/r0,C,N6_SFB,A,C,"turn limit: distance 35 vs 56",101,140,140,100,100,0,1,0,0,7,7,8,8,118,159,10,7,22,20,0,0
+gen:sand:1/hp100/alt/zG/r0,D,N6_SFB,A,D,"turn limit: damage 120 vs 140",101,120,140,100,100,1,0,0,0,7,7,9,8,163,103,5,8,23,42,0,0
+gen:sand:1/hp100/alt/zG/r0,N2_SBHd,C,A,N2_SBHd,"turn limit: damage 70 vs 120",101,70,120,100,100,0,0,0,0,5,1,6,2,165,175,7,9,108,21,0,0
+gen:sand:1/hp100/alt/zG/r0,N4_GBHd,B,A,N4_GBHd,"turn limit: damage 40 vs 70",101,40,70,100,100,0,0,0,0,7,8,8,9,161,159,4,7,30,36,0,0
+gen:sand:1/hp100/alt/zG/r0,N5_GFB,A,A,N5_GFB,"turn limit: damage 90 vs 140",101,90,140,100,100,1,0,0,0,6,0,7,0,168,113,3,6,25,11,0,0
+gen:sand:1/hp100/alt/zG/r0,N6_SFB,basefix,A,N6_SFB,"tanks destroyed (B lost 2)",18,20,210,100,100,0,0,0,2,6,0,7,0,7,0,2,9,12,8,0,0
+gen:sand:1/hp100/alt/zG/r0,N6_SFB,D,A,N6_SFB,"turn limit: damage 40 vs 60",101,40,60,100,100,0,0,0,0,7,6,8,6,154,170,4,6,20,29,0,0
+gen:forest:2/hp10/alt/zG/r0,basefix,N6_SFB,B,N6_SFB,"tanks destroyed (A lost 2)",25,240,30,10,10,0,2,2,0,0,8,0,8,0,9,8,0,9,36,0,0
+gen:forest:2/hp10/alt/zG/r0,A,N6_SFB,B,N6_SFB,"turret destroyed by B3",34,10,0,0,10,0,0,0,0,3,3,3,4,37,31,0,0,35,33,0,0
+gen:forest:2/hp10/alt/zG/r0,B,N6_SFB,B,N6_SFB,"turn limit: distance 56 vs 55",101,0,0,10,10,0,0,0,0,11,10,11,12,168,157,0,0,43,29,0,0
+gen:forest:2/hp10/alt/zG/r0,C,N6_SFB,B,N6_SFB,"turn limit: distance 56 vs 55",101,0,0,10,10,0,0,0,0,9,10,9,11,164,157,0,0,36,34,0,0
+gen:forest:2/hp10/alt/zG/r0,D,N6_SFB,A,D,"turn limit: distance 32 vs 61",101,0,0,10,10,0,0,0,0,10,8,11,10,157,158,0,0,20,34,0,0
+gen:forest:2/hp10/alt/zG/r0,N2_SBHd,C,A,N2_SBHd,"turn limit: distance 55 vs 56",101,0,0,10,10,0,0,0,0,9,7,10,7,163,169,0,0,20,36,0,0
+gen:forest:2/hp10/alt/zG/r0,N4_GBHd,B,A,N4_GBHd,"turn limit: distance 50 vs 60",101,0,0,10,10,0,0,0,0,9,11,10,11,159,172,0,0,40,25,0,0
+gen:forest:2/hp10/alt/zG/r0,N5_GFB,A,A,N5_GFB,"turret destroyed by A3",34,0,10,10,0,0,0,0,0,3,3,4,3,30,36,0,0,15,16,0,0
+gen:forest:2/hp10/alt/zG/r0,N6_SFB,basefix,A,N6_SFB,"turret destroyed by A3",36,0,110,10,0,0,0,0,34,8,0,11,0,27,0,0,0,27,6,0,0
+gen:forest:2/hp10/alt/zG/r0,N6_SFB,D,B,D,"turret destroyed by B3",49,140,0,0,10,0,1,0,0,5,6,5,7,46,26,0,0,28,19,0,0
+gen:forest:2/hp100/alt/zG/r2,basefix,N6_SFB,B,N6_SFB,"turret destroyed by B3",35,200,0,0,100,0,0,33,0,0,8,0,9,0,27,0,0,8,19,0,0
+gen:forest:2/hp100/alt/zG/r2,A,N6_SFB,B,N6_SFB,"turret destroyed by B3",34,100,0,0,100,0,0,0,0,3,3,3,3,37,31,0,0,22,47,0,0
+gen:forest:2/hp100/alt/zG/r2,B,N6_SFB,B,N6_SFB,"turn limit: distance 56 vs 55",101,0,0,100,100,0,0,0,0,11,10,11,10,168,157,0,0,35,82,0,0
+gen:forest:2/hp100/alt/zG/r2,C,N6_SFB,B,N6_SFB,"turn limit: distance 56 vs 55",101,0,0,100,100,0,0,0,0,9,10,9,10,164,158,0,0,50,41,0,0
+gen:forest:2/hp100/alt/zG/r2,D,N6_SFB,A,D,"turn limit: distance 32 vs 61",101,0,0,100,100,0,0,0,0,10,8,11,8,157,159,0,0,34,18,0,0
+gen:forest:2/hp100/alt/zG/r2,N2_SBHd,C,A,N2_SBHd,"turn limit: distance 55 vs 56",101,0,0,100,100,0,0,0,0,9,7,9,7,163,169,0,0,26,53,0,0
+gen:forest:2/hp100/alt/zG/r2,N4_GBHd,B,A,N4_GBHd,"turn limit: distance 50 vs 60",101,0,0,100,100,0,0,0,0,9,11,9,11,159,172,0,0,26,21,0,0
+gen:forest:2/hp100/alt/zG/r2,N5_GFB,A,A,N5_GFB,"turret destroyed by A3",34,0,100,100,0,0,0,0,0,3,3,3,3,30,36,0,0,33,20,0,0
+gen:forest:2/hp100/alt/zG/r2,N6_SFB,basefix,A,N6_SFB,"tanks destroyed (B lost 2)",25,0,270,100,100,1,0,0,2,8,0,8,0,10,0,0,8,34,8,0,0
+gen:forest:2/hp100/alt/zG/r2,N6_SFB,D,B,D,"turn limit: distance 61 vs 32",101,0,0,100,100,0,0,0,0,8,12,8,13,159,155,0,0,30,33,0,0
+gen:open:3/hp10/alt/zG/r2,basefix,N6_SFB,B,N6_SFB,"tanks destroyed (A lost 2)",24,200,0,10,10,0,2,21,0,0,8,0,11,0,0,0,0,8,30,0,0
+gen:open:3/hp10/alt/zG/r2,A,N6_SFB,B,N6_SFB,"turret destroyed by B3",69,180,90,0,10,0,1,0,0,1,9,1,12,75,76,0,0,23,30,0,0
+gen:open:3/hp10/alt/zG/r2,B,N6_SFB,A,B,"turn limit: distance 53 vs 58",101,0,0,10,10,0,0,0,0,11,9,14,9,124,106,0,0,20,27,0,0
+gen:open:3/hp10/alt/zG/r2,C,N6_SFB,B,N6_SFB,"turn limit: distance 54 vs 43",101,0,0,10,10,0,0,0,0,7,8,9,10,159,99,0,0,13,56,0,0
+gen:open:3/hp10/alt/zG/r2,D,N6_SFB,A,D,"turn limit: distance 42 vs 60",101,0,0,10,10,0,0,0,0,6,8,10,11,149,103,0,0,23,32,0,0
+gen:open:3/hp10/alt/zG/r2,N2_SBHd,C,B,C,"turret destroyed by B1",24,10,0,0,10,0,0,0,0,5,10,9,10,4,14,0,0,17,39,0,0
+gen:open:3/hp10/alt/zG/r2,N4_GBHd,B,B,B,"turret destroyed by B1",26,10,0,0,10,0,0,0,0,5,9,8,9,13,23,0,0,25,34,0,0
+gen:open:3/hp10/alt/zG/r2,N5_GFB,A,A,N5_GFB,"turn limit: damage 60 vs 100",101,60,100,10,10,1,0,0,0,8,2,11,2,165,109,0,0,20,39,0,0
+gen:open:3/hp10/alt/zG/r2,N6_SFB,basefix,A,N6_SFB,"tanks destroyed (B lost 2)",18,0,210,10,10,2,0,0,2,3,0,5,0,4,0,0,3,132,13,0,0
+gen:open:3/hp10/alt/zG/r2,N6_SFB,D,A,N6_SFB,"turret destroyed by A3",46,100,80,10,0,0,1,0,0,12,6,15,10,10,11,0,0,16,22,0,0
+gen:open:3/hp100/alt/zG/r0,basefix,N6_SFB,B,N6_SFB,"tanks destroyed (A lost 2)",18,210,0,100,100,0,2,2,0,0,3,0,3,0,4,3,0,50,37,0,0
+gen:open:3/hp100/alt/zG/r0,A,N6_SFB,B,N6_SFB,"turn limit: damage 170 vs 90",101,170,90,100,100,0,1,0,0,2,8,2,8,121,159,0,0,29,25,0,0
+gen:open:3/hp100/alt/zG/r0,B,N6_SFB,A,B,"turn limit: distance 53 vs 58",101,0,0,100,100,0,0,0,0,11,9,11,9,126,106,0,0,25,29,0,0
+gen:open:3/hp100/alt/zG/r0,C,N6_SFB,B,N6_SFB,"turn limit: distance 58 vs 53",101,0,0,100,100,0,0,0,0,10,9,11,9,161,151,0,0,30,27,0,0
+gen:open:3/hp100/alt/zG/r0,D,N6_SFB,A,D,"turn limit: distance 43 vs 60",101,0,0,100,100,0,0,0,0,6,8,6,8,137,97,0,0,18,38,0,0
+gen:open:3/hp100/alt/zG/r0,N2_SBHd,C,A,N2_SBHd,"turn limit: distance 45 vs 54",101,0,0,100,100,0,0,0,0,7,7,7,7,142,161,0,0,24,30,0,0
+gen:open:3/hp100/alt/zG/r0,N4_GBHd,B,A,N4_GBHd,"turn limit: distance 50 vs 59",101,0,0,100,100,0,0,0,0,7,11,7,11,112,134,0,0,46,23,0,0
+gen:open:3/hp100/alt/zG/r0,N5_GFB,A,A,N5_GFB,"turn limit: damage 60 vs 170",101,60,170,100,100,1,0,0,0,9,2,9,2,133,85,0,0,14,10,0,0
+gen:open:3/hp100/alt/zG/r0,N6_SFB,basefix,A,N6_SFB,"turret destroyed by A3",37,0,230,100,0,0,0,0,46,10,0,10,0,17,0,0,0,24,10,0,0
+gen:open:3/hp100/alt/zG/r0,N6_SFB,D,B,D,"turn limit: distance 56 vs 43",101,0,0,100,100,0,0,0,0,8,6,8,6,96,138,0,0,34,45,0,0
+gen:mixed:4/hp10/alt/zG/r0,basefix,N6_SFB,A,basefix,"turret destroyed by A2",25,190,40,10,0,0,1,15,0,0,5,0,6,0,17,10,3,7,30,0,0
+gen:mixed:4/hp10/alt/zG/r0,A,N6_SFB,B,N6_SFB,"tanks destroyed (A lost 2)",41,280,150,10,10,0,2,0,0,0,5,0,6,28,37,4,0,20,17,0,0
+gen:mixed:4/hp10/alt/zG/r0,B,N6_SFB,B,N6_SFB,"turret destroyed by B3",41,160,80,0,10,0,1,0,0,8,7,9,8,35,28,5,2,33,23,0,0
+gen:mixed:4/hp10/alt/zG/r0,C,N6_SFB,B,N6_SFB,"turn limit: damage 30 vs 0",101,30,0,10,10,0,0,0,0,7,7,10,8,154,162,3,0,29,27,0,0
+gen:mixed:4/hp10/alt/zG/r0,D,N6_SFB,A,D,"turn limit: distance 49 vs 52",101,0,0,10,10,0,0,0,0,6,7,9,8,125,119,0,0,33,26,0,0
+gen:mixed:4/hp10/alt/zG/r0,N2_SBHd,C,A,N2_SBHd,"turn limit: damage 20 vs 30",101,20,30,10,10,0,0,0,0,7,7,9,9,158,158,2,3,16,22,0,0
+gen:mixed:4/hp10/alt/zG/r0,N4_GBHd,B,A,N4_GBHd,"turn limit: damage 0 vs 30",101,0,30,10,10,0,0,0,0,8,8,10,9,157,165,0,3,14,21,0,0
+gen:mixed:4/hp10/alt/zG/r0,N5_GFB,A,A,N5_GFB,"turn limit: damage 120 vs 270",101,120,270,10,10,1,0,0,0,7,0,8,0,118,67,0,5,39,38,0,0
+gen:mixed:4/hp10/alt/zG/r0,N6_SFB,basefix,A,N6_SFB,"tanks destroyed (B lost 2)",32,0,200,10,10,2,0,0,36,7,0,8,0,22,0,0,5,17,18,0,0
+gen:mixed:4/hp10/alt/zG/r0,N6_SFB,D,B,D,"turn limit: damage 10 vs 0",101,10,0,10,10,0,0,0,0,7,6,9,8,159,166,1,0,46,21,0,0
+gen:mixed:4/hp100/alt/zG/r2,basefix,N6_SFB,B,N6_SFB,"tanks destroyed (A lost 2)",29,200,10,100,100,0,2,36,0,0,8,0,9,0,10,4,1,25,31,0,0
+gen:mixed:4/hp100/alt/zG/r2,A,N6_SFB,B,N6_SFB,"turn limit: damage 270 vs 120",101,270,120,100,100,0,1,0,0,0,10,0,11,108,159,4,0,16,19,0,0
+gen:mixed:4/hp100/alt/zG/r2,B,N6_SFB,B,N6_SFB,"turn limit: damage 40 vs 0",101,40,0,100,100,0,0,0,0,8,7,8,7,169,163,4,0,38,15,0,0
+gen:mixed:4/hp100/alt/zG/r2,C,N6_SFB,B,N6_SFB,"turn limit: damage 30 vs 0",101,30,0,100,100,0,0,0,0,7,7,8,7,154,163,3,0,48,31,0,0
+gen:mixed:4/hp100/alt/zG/r2,D,N6_SFB,A,D,"turn limit: damage 0 vs 10",101,0,10,100,100,0,0,0,0,6,7,7,7,166,161,0,1,40,14,0,0
+gen:mixed:4/hp100/alt/zG/r2,N2_SBHd,C,A,N2_SBHd,"turn limit: damage 20 vs 30",101,20,30,100,100,0,0,0,0,7,7,7,7,161,161,2,3,29,40,0,0
+gen:mixed:4/hp100/alt/zG/r2,N4_GBHd,B,A,N4_GBHd,"turn limit: damage 0 vs 10",101,0,10,100,100,0,0,0,0,8,8,10,8,159,173,0,1,18,30,0,0
+gen:mixed:4/hp100/alt/zG/r2,N5_GFB,A,A,N5_GFB,"tanks destroyed (B lost 2)",31,120,220,100,100,2,0,0,0,7,0,8,0,21,11,0,5,19,21,0,0
+gen:mixed:4/hp100/alt/zG/r2,N6_SFB,basefix,B,basefix,"turret destroyed by B2",28,120,190,0,100,1,0,0,15,6,0,7,0,19,0,2,10,24,8,0,0
+gen:mixed:4/hp100/alt/zG/r2,N6_SFB,D,B,D,"turn limit: distance 50 vs 49",101,10,10,100,100,0,0,0,0,7,6,9,6,159,167,1,1,24,12,0,0
+gen:mixed:6/hp10/alt/zG/r2,basefix,N6_SFB,A,basefix,"turret destroyed by A1",20,60,10,10,0,0,0,1,0,0,8,0,9,0,6,0,0,7,15,0,0
+gen:mixed:6/hp10/alt/zG/r2,A,N6_SFB,A,A,"turret destroyed by A2",19,0,10,10,0,0,0,0,0,0,5,0,6,0,7,0,0,23,23,0,0
+gen:mixed:6/hp10/alt/zG/r2,B,N6_SFB,B,N6_SFB,"turn limit: distance 56 vs 55",101,0,0,10,10,0,0,0,0,7,8,7,9,158,146,0,0,32,28,0,0
+gen:mixed:6/hp10/alt/zG/r2,C,N6_SFB,A,C,"turret destroyed by A1",23,0,10,10,0,0,0,0,0,8,8,11,9,8,9,0,0,24,28,0,0
+gen:mixed:6/hp10/alt/zG/r2,D,N6_SFB,B,N6_SFB,"turn limit: damage 10 vs 0",101,10,0,10,10,0,0,0,0,6,8,10,9,143,156,1,0,33,20,0,0
+gen:mixed:6/hp10/alt/zG/r2,N2_SBHd,C,B,C,"turret destroyed by B1",22,20,0,0,10,0,0,0,0,7,8,11,9,7,8,1,0,17,23,0,0
+gen:mixed:6/hp10/alt/zG/r2,N4_GBHd,B,B,B,"turret destroyed by B1",42,10,0,0,10,0,0,0,0,8,7,9,7,23,41,0,0,23,32,0,0
+gen:mixed:6/hp10/alt/zG/r2,N5_GFB,A,A,N5_GFB,"turret destroyed by A3",34,0,10,10,0,0,0,0,0,11,2,12,3,22,32,0,0,16,9,0,0
+gen:mixed:6/hp10/alt/zG/r2,N6_SFB,basefix,A,N6_SFB,"tanks destroyed (B lost 2)",21,60,200,10,10,2,0,0,13,5,0,9,0,8,0,0,2,50,67,0,0
+gen:mixed:6/hp10/alt/zG/r2,N6_SFB,D,A,N6_SFB,"turret destroyed by A3",50,0,10,10,0,0,0,0,0,8,6,11,8,41,29,0,0,20,28,0,0
+gen:mixed:6/hp100/alt/zG/r0,basefix,N6_SFB,B,N6_SFB,"tanks destroyed (A lost 2)",21,200,60,100,100,0,2,13,0,0,5,0,6,0,9,2,0,16,28,0,0
+gen:mixed:6/hp100/alt/zG/r0,A,N6_SFB,A,A,"turret destroyed by A2",22,0,100,100,0,0,0,0,0,0,7,0,10,2,8,0,0,18,12,0,0
+gen:mixed:6/hp100/alt/zG/r0,B,N6_SFB,B,N6_SFB,"turn limit: distance 56 vs 55",101,0,0,100,100,0,0,0,0,7,8,10,10,155,144,0,0,9,29,0,0
+gen:mixed:6/hp100/alt/zG/r0,C,N6_SFB,B,N6_SFB,"turn limit: distance 58 vs 51",101,0,0,100,100,0,0,0,0,10,10,12,13,163,153,0,0,25,38,0,0
+gen:mixed:6/hp100/alt/zG/r0,D,N6_SFB,B,N6_SFB,"turret destroyed by B3",51,100,0,0,100,0,0,0,0,6,8,9,9,32,45,0,0,24,16,0,0
+gen:mixed:6/hp100/alt/zG/r0,N2_SBHd,C,B,C,"turret destroyed by B1",23,100,0,0,100,0,0,0,0,5,8,8,9,8,9,0,0,26,32,0,0
+gen:mixed:6/hp100/alt/zG/r0,N4_GBHd,B,B,B,"turret destroyed by B1",44,100,0,0,100,0,0,0,0,8,7,9,10,26,42,0,0,27,17,0,0
+gen:mixed:6/hp100/alt/zG/r0,N5_GFB,A,A,N5_GFB,"turret destroyed by A3",35,0,100,100,0,0,0,0,0,11,2,13,3,23,34,0,0,16,10,0,0
+gen:mixed:6/hp100/alt/zG/r0,N6_SFB,basefix,B,basefix,"turret destroyed by B1",23,100,120,0,100,0,0,0,2,8,0,11,0,8,0,0,0,26,5,0,0
+gen:mixed:6/hp100/alt/zG/r0,N6_SFB,D,B,D,"turn limit: distance 56 vs 44",101,0,0,100,100,0,0,0,0,8,6,9,9,149,136,0,0,16,14,0,0
+gen:open:9/hp10/alt/zG/r0,basefix,N6_SFB,B,N6_SFB,"tanks destroyed (A lost 2)",22,270,0,10,10,0,2,6,0,0,8,0,10,0,10,2,0,6,23,0,0
+gen:open:9/hp10/alt/zG/r0,A,N6_SFB,B,N6_SFB,"turret destroyed by B3",27,10,0,0,10,0,0,0,0,2,8,3,10,9,21,0,0,20,26,0,0
+gen:open:9/hp10/alt/zG/r0,B,N6_SFB,B,N6_SFB,"turn limit: full tie → second player",101,0,0,10,10,0,0,0,0,4,8,6,9,130,111,0,0,25,23,0,0
+gen:open:9/hp10/alt/zG/r0,C,N6_SFB,B,N6_SFB,"turn limit: distance 57 vs 54",101,0,0,10,10,0,0,0,0,8,8,9,9,171,165,0,0,37,40,0,0
+gen:open:9/hp10/alt/zG/r0,D,N6_SFB,B,N6_SFB,"turret destroyed by B3",34,10,0,0,10,0,0,0,0,9,8,10,9,17,29,0,0,25,20,0,0
+gen:open:9/hp10/alt/zG/r0,N2_SBHd,C,A,N2_SBHd,"turn limit: distance 47 vs 59",101,0,0,10,10,0,0,0,0,8,8,9,9,162,175,0,0,36,27,0,0
+gen:open:9/hp10/alt/zG/r0,N4_GBHd,B,A,N4_GBHd,"turn limit: distance 49 vs 58",101,0,0,10,10,0,0,0,0,9,4,11,5,110,133,0,0,21,19,0,0
+gen:open:9/hp10/alt/zG/r0,N5_GFB,A,A,N5_GFB,"turret destroyed by A3",46,90,180,10,0,1,0,0,0,11,2,14,4,44,31,0,0,27,22,0,0
+gen:open:9/hp10/alt/zG/r0,N6_SFB,basefix,A,N6_SFB,"tanks destroyed (B lost 2)",19,0,210,10,10,2,0,0,0,8,0,11,0,8,0,0,9,23,40,0,0
+gen:open:9/hp10/alt/zG/r0,N6_SFB,D,A,N6_SFB,"turret destroyed by A3",30,0,10,10,0,0,0,0,0,8,9,9,10,21,6,0,0,133,42,0,0
+gen:open:9/hp100/alt/zG/r2,basefix,N6_SFB,B,N6_SFB,"tanks destroyed (A lost 2)",19,210,0,100,100,0,2,0,0,0,8,0,10,0,9,10,0,7,23,0,0
+gen:open:9/hp100/alt/zG/r2,A,N6_SFB,B,N6_SFB,"turret destroyed by B3",28,100,0,0,100,0,0,0,0,2,8,2,10,15,23,0,0,55,15,0,0
+gen:open:9/hp100/alt/zG/r2,B,N6_SFB,B,N6_SFB,"turn limit: full tie → second player",101,0,0,100,100,0,0,0,0,4,8,4,10,129,111,0,0,57,27,0,0
+gen:open:9/hp100/alt/zG/r2,C,N6_SFB,B,N6_SFB,"turn limit: distance 57 vs 54",101,0,0,100,100,0,0,0,0,8,8,10,8,171,164,0,0,15,30,0,0
+gen:open:9/hp100/alt/zG/r2,D,N6_SFB,A,D,"turn limit: distance 34 vs 64",101,0,0,100,100,0,0,0,0,8,8,10,8,149,167,0,0,38,43,0,0
+gen:open:9/hp100/alt/zG/r2,N2_SBHd,C,A,N2_SBHd,"turn limit: distance 47 vs 61",101,0,0,100,100,0,0,0,0,8,8,10,8,161,174,0,0,33,29,0,0
+gen:open:9/hp100/alt/zG/r2,N4_GBHd,B,A,N4_GBHd,"turn limit: distance 48 vs 56",101,0,0,100,100,0,0,0,0,9,4,11,4,111,133,0,0,26,44,0,0
+gen:open:9/hp100/alt/zG/r2,N5_GFB,A,A,N5_GFB,"turret destroyed by A3",28,0,100,100,0,0,0,0,0,9,4,9,5,22,12,0,0,11,8,0,0
+gen:open:9/hp100/alt/zG/r2,N6_SFB,basefix,A,N6_SFB,"tanks destroyed (B lost 2)",22,0,200,100,100,2,0,0,6,9,0,10,0,9,0,0,2,20,5,0,0
+gen:open:9/hp100/alt/zG/r2,N6_SFB,D,A,N6_SFB,"turret destroyed by A3",28,0,100,100,0,0,0,0,0,8,8,10,8,21,10,0,0,21,20,0,0
+gen:forest:8/hp10/alt/zG/r2,basefix,N6_SFB,B,N6_SFB,"tanks destroyed (A lost 2)",19,200,50,10,10,0,2,0,0,0,5,0,5,0,12,5,2,6,19,0,0
+gen:forest:8/hp10/alt/zG/r2,A,N6_SFB,A,A,"turret destroyed by A2",92,190,160,10,0,1,1,0,0,0,8,0,8,131,147,0,2,14,26,0,0
+gen:forest:8/hp10/alt/zG/r2,B,N6_SFB,A,B,"turn limit: damage 10 vs 20",101,10,20,10,10,0,0,0,0,5,8,5,9,103,113,1,2,17,43,0,0
+gen:forest:8/hp10/alt/zG/r2,C,N6_SFB,A,C,"turn limit: damage 10 vs 20",101,10,20,10,10,0,0,0,0,5,8,5,9,102,115,1,2,20,34,0,0
+gen:forest:8/hp10/alt/zG/r2,D,N6_SFB,A,D,"turn limit: damage 10 vs 20",101,10,20,10,10,0,0,0,0,2,8,2,9,166,167,1,2,16,22,0,0
+gen:forest:8/hp10/alt/zG/r2,N2_SBHd,C,A,N2_SBHd,"turn limit: damage 70 vs 110",101,70,110,10,10,1,0,0,0,2,5,2,6,163,112,1,1,27,31,0,0
+gen:forest:8/hp10/alt/zG/r2,N4_GBHd,B,A,N4_GBHd,"turn limit: damage 80 vs 110",101,80,110,10,10,1,0,0,0,7,5,7,6,159,113,2,1,39,28,0,0
+gen:forest:8/hp10/alt/zG/r2,N5_GFB,A,A,N5_GFB,"turn limit: damage 70 vs 130",101,70,130,10,10,1,0,0,0,3,0,3,0,174,153,1,0,40,14,0,0
+gen:forest:8/hp10/alt/zG/r2,N6_SFB,basefix,A,N6_SFB,"tanks destroyed (B lost 2)",27,30,220,10,10,1,0,0,2,8,0,8,0,17,0,3,2,33,7,0,0
+gen:forest:8/hp10/alt/zG/r2,N6_SFB,D,B,D,"turn limit: damage 100 vs 80",101,100,80,10,10,0,0,0,0,5,2,5,3,158,167,10,1,43,54,0,0
+gen:forest:8/hp100/alt/zG/r0,basefix,N6_SFB,B,N6_SFB,"tanks destroyed (A lost 2)",26,220,30,100,100,0,1,2,0,0,8,0,8,0,15,2,3,7,124,0,0
+gen:forest:8/hp100/alt/zG/r0,A,N6_SFB,B,N6_SFB,"turn limit: damage 190 vs 140",101,190,140,100,100,0,1,0,0,0,8,0,8,105,114,0,2,18,33,0,0
+gen:forest:8/hp100/alt/zG/r0,B,N6_SFB,A,B,"turn limit: damage 10 vs 20",101,10,20,100,100,0,0,0,0,5,8,5,9,105,115,1,2,24,22,0,0
+gen:forest:8/hp100/alt/zG/r0,C,N6_SFB,A,C,"turn limit: damage 10 vs 20",101,10,20,100,100,0,0,0,0,5,8,5,9,52,116,1,2,23,21,0,0
+gen:forest:8/hp100/alt/zG/r0,D,N6_SFB,A,D,"tanks destroyed (B lost 2)",41,80,230,100,100,2,0,0,0,2,8,2,9,17,28,1,4,36,41,0,0
+gen:forest:8/hp100/alt/zG/r0,N2_SBHd,C,B,C,"turn limit: distance 55 vs 37",101,10,10,100,100,0,0,0,0,2,5,2,6,116,110,1,1,17,16,0,0
+gen:forest:8/hp100/alt/zG/r0,N4_GBHd,B,A,N4_GBHd,"turn limit: damage 80 vs 110",101,80,110,100,100,1,0,0,0,7,5,8,6,158,113,2,1,28,28,0,0
+gen:forest:8/hp100/alt/zG/r0,N5_GFB,A,A,N5_GFB,"turn limit: damage 70 vs 130",101,70,130,100,100,1,0,0,0,3,0,3,0,174,153,1,0,31,25,0,0
+gen:forest:8/hp100/alt/zG/r0,N6_SFB,basefix,A,N6_SFB,"tanks destroyed (B lost 2)",20,50,200,100,100,2,0,0,0,5,0,5,0,12,0,2,5,41,8,0,0
+gen:forest:8/hp100/alt/zG/r0,N6_SFB,D,B,D,"turn limit: damage 100 vs 10",101,100,10,100,100,0,0,0,0,5,2,5,3,157,169,10,1,35,19,0,0
+gen:sand:20/hp10/alt/zG/r3,basefix,N6_SFB,A,basefix,"turret destroyed by A1",17,110,90,10,0,0,0,0,0,0,5,0,5,0,12,8,8,3,16,0,0
+gen:sand:20/hp10/alt/zG/r3,A,N6_SFB,A,A,"turret destroyed by A1",18,40,110,10,0,0,0,0,0,0,5,0,5,1,12,4,10,14,65,0,0
+gen:sand:20/hp10/alt/zG/r3,B,N6_SFB,A,B,"turret destroyed by A2",37,50,150,10,0,0,0,0,0,7,10,7,11,30,33,5,14,23,23,0,0
+gen:sand:20/hp10/alt/zG/r3,C,N6_SFB,A,C,"turret destroyed by A2",26,50,110,10,0,0,0,0,0,4,5,5,5,17,21,5,10,37,20,0,0
+gen:sand:20/hp10/alt/zG/r3,D,N6_SFB,B,N6_SFB,"turret destroyed by B3",33,160,140,0,10,0,0,0,0,8,10,8,11,3,25,15,14,13,20,0,0
+gen:sand:20/hp10/alt/zG/r3,N2_SBHd,C,B,C,"turret destroyed by B2",25,60,50,0,10,0,0,0,0,4,2,4,3,31,16,5,5,20,40,0,0
+gen:sand:20/hp10/alt/zG/r3,N4_GBHd,B,B,B,"turret destroyed by B2",37,130,50,0,10,0,0,0,0,7,4,9,4,32,34,12,5,21,28,0,0
+gen:sand:20/hp10/alt/zG/r3,N5_GFB,A,B,A,"turret destroyed by B1",18,130,40,0,10,0,0,0,0,10,0,10,0,6,1,12,4,17,15,0,0
+gen:sand:20/hp10/alt/zG/r3,N6_SFB,basefix,B,basefix,"turret destroyed by B1",17,90,110,0,10,0,0,0,0,5,0,5,0,12,0,8,8,30,9,0,0
+gen:sand:20/hp10/alt/zG/r3,N6_SFB,D,A,N6_SFB,"turret destroyed by A3",35,150,150,10,0,0,0,0,0,5,8,5,9,32,2,15,14,26,29,0,0
+gen:sand:20/hp100/alt/zG/r1,basefix,N6_SFB,A,basefix,"turret destroyed by A1",20,150,190,100,0,0,0,0,0,0,5,0,6,0,16,12,9,46,33,0,0
+gen:sand:20/hp100/alt/zG/r1,A,N6_SFB,A,A,"turret destroyed by A1",21,50,200,100,0,0,0,0,0,0,5,0,6,1,16,5,10,34,17,0,0
+gen:sand:20/hp100/alt/zG/r1,B,N6_SFB,A,B,"turret destroyed by A2",39,50,230,100,0,0,0,0,0,7,10,8,12,33,37,5,13,14,17,0,0
+gen:sand:20/hp100/alt/zG/r1,C,N6_SFB,A,C,"turret destroyed by A2",26,50,190,100,0,0,0,0,0,4,5,4,6,17,22,5,9,33,13,0,0
+gen:sand:20/hp100/alt/zG/r1,D,N6_SFB,B,N6_SFB,"turret destroyed by B3",35,250,110,0,100,0,0,0,0,10,10,11,14,5,30,15,11,15,32,0,0
+gen:sand:20/hp100/alt/zG/r1,N2_SBHd,C,B,C,"turret destroyed by B2",27,160,50,0,100,0,0,0,0,4,4,5,6,33,18,6,5,134,53,0,0
+gen:sand:20/hp100/alt/zG/r1,N4_GBHd,B,B,B,"turn limit: damage 110 vs 80",101,110,80,100,100,0,0,0,0,10,9,12,10,85,116,11,5,62,22,0,0
+gen:sand:20/hp100/alt/zG/r1,N5_GFB,A,B,A,"turret destroyed by B1",21,190,50,0,100,0,0,0,0,8,0,9,0,17,1,9,5,20,17,0,0
+gen:sand:20/hp100/alt/zG/r1,N6_SFB,basefix,B,basefix,"turret destroyed by B1",20,190,150,0,100,0,0,0,0,5,0,6,0,16,0,9,12,21,11,0,0
+gen:sand:20/hp100/alt/zG/r1,N6_SFB,D,A,N6_SFB,"turret destroyed by A3",37,150,240,100,0,0,0,0,0,5,9,6,12,36,3,15,14,21,30,0,0
+gen:forest:21/hp10/alt/zG/r3,basefix,N6_SFB,A,basefix,"turret destroyed by A2",25,120,10,10,0,0,0,17,0,0,2,0,2,0,12,9,0,7,40,0,0
+gen:forest:21/hp10/alt/zG/r3,A,N6_SFB,B,N6_SFB,"turn limit: damage 160 vs 150",101,160,150,10,10,0,1,0,0,0,3,0,3,150,153,0,0,21,34,0,0
+gen:forest:21/hp10/alt/zG/r3,B,N6_SFB,A,B,"turn limit: damage 0 vs 70",101,0,70,10,10,0,0,0,0,10,0,10,0,160,158,0,0,18,57,0,0
+gen:forest:21/hp10/alt/zG/r3,C,N6_SFB,B,N6_SFB,"turn limit: damage 130 vs 60",101,130,60,10,10,0,1,0,0,0,3,0,3,138,146,0,0,16,22,0,0
+gen:forest:21/hp10/alt/zG/r3,D,N6_SFB,B,N6_SFB,"turn limit: full tie → second player",101,0,0,10,10,0,0,0,0,0,0,0,0,180,172,0,0,31,24,0,0
+gen:forest:21/hp10/alt/zG/r3,N2_SBHd,C,B,C,"turn limit: distance 57 vs 40",101,0,0,10,10,0,0,0,0,3,0,3,0,158,174,0,0,23,42,0,0
+gen:forest:21/hp10/alt/zG/r3,N4_GBHd,B,B,B,"turret destroyed by B1",98,140,60,0,10,0,1,0,0,0,10,0,10,153,143,0,0,28,25,0,0
+gen:forest:21/hp10/alt/zG/r3,N5_GFB,A,A,N5_GFB,"turn limit: damage 150 vs 220",101,150,220,10,10,1,0,0,0,3,0,3,0,152,152,0,0,31,26,0,0
+gen:forest:21/hp10/alt/zG/r3,N6_SFB,basefix,B,basefix,"turret destroyed by B2",25,10,120,0,10,0,0,0,17,3,0,3,0,13,0,0,9,29,6,0,0
+gen:forest:21/hp10/alt/zG/r3,N6_SFB,D,B,D,"turn limit: full tie → second player",101,0,0,10,10,0,0,0,0,0,0,0,0,172,180,0,0,21,15,0,0
+gen:forest:21/hp100/alt/zG/r1,basefix,N6_SFB,A,basefix,"turret destroyed by A2",28,180,100,100,0,0,0,19,0,0,3,0,5,0,15,9,0,5,24,0,0
+gen:forest:21/hp100/alt/zG/r1,A,N6_SFB,B,N6_SFB,"turn limit: damage 160 vs 150",101,160,150,100,100,0,1,0,0,0,3,0,4,150,153,0,0,28,29,0,0
+gen:forest:21/hp100/alt/zG/r1,B,N6_SFB,A,B,"turn limit: damage 0 vs 70",101,0,70,100,100,0,0,0,0,10,0,11,0,159,158,0,0,40,66,0,0
+gen:forest:21/hp100/alt/zG/r1,C,N6_SFB,B,N6_SFB,"turn limit: distance 55 vs 45",101,0,0,100,100,0,0,0,0,0,3,0,4,147,115,0,0,51,33,0,0
+gen:forest:21/hp100/alt/zG/r1,D,N6_SFB,B,N6_SFB,"turn limit: full tie → second player",101,0,0,100,100,0,0,0,0,0,0,0,0,180,173,0,0,16,16,0,0
+gen:forest:21/hp100/alt/zG/r1,N2_SBHd,C,B,C,"turn limit: distance 57 vs 40",101,0,0,100,100,0,0,0,0,3,0,4,0,158,174,0,0,60,21,0,0
+gen:forest:21/hp100/alt/zG/r1,N4_GBHd,B,B,B,"turret destroyed by B1",99,200,60,0,100,0,1,0,0,0,10,0,11,144,137,0,0,26,58,0,0
+gen:forest:21/hp100/alt/zG/r1,N5_GFB,A,A,N5_GFB,"turn limit: damage 150 vs 220",101,150,220,100,100,1,0,0,0,3,0,4,0,152,152,0,0,25,39,0,0
+gen:forest:21/hp100/alt/zG/r1,N6_SFB,basefix,B,basefix,"turret destroyed by B2",28,100,180,0,100,0,0,0,19,4,0,4,0,15,0,0,9,23,29,0,0
+gen:forest:21/hp100/alt/zG/r1,N6_SFB,D,B,D,"turn limit: full tie → second player",101,0,0,100,100,0,0,0,0,0,0,0,0,172,179,0,0,27,24,0,0
+gen:open:22/hp10/alt/zG/r1,basefix,N6_SFB,B,N6_SFB,"tanks destroyed (A lost 2)",21,210,0,10,10,0,2,6,0,0,5,0,6,0,17,3,0,6,19,0,0
+gen:open:22/hp10/alt/zG/r1,A,N6_SFB,A,A,"turret destroyed by A1",20,150,70,10,0,0,0,0,0,0,5,0,6,0,13,1,0,20,23,0,0
+gen:open:22/hp10/alt/zG/r1,B,N6_SFB,A,B,"turret destroyed by A1",25,10,10,10,0,0,0,0,0,9,3,9,4,22,16,1,0,21,40,0,0
+gen:open:22/hp10/alt/zG/r1,C,N6_SFB,A,C,"turret destroyed by A1",23,10,10,10,0,0,0,0,0,10,3,11,3,9,15,1,0,26,11,0,0
+gen:open:22/hp10/alt/zG/r1,D,N6_SFB,B,N6_SFB,"turn limit: damage 10 vs 0",101,10,0,10,10,0,0,0,0,6,6,7,6,138,147,1,0,28,17,0,0
+gen:open:22/hp10/alt/zG/r1,N2_SBHd,C,A,N2_SBHd,"turn limit: damage 0 vs 10",101,0,10,10,10,0,0,0,0,7,10,8,10,166,141,0,1,17,28,0,0
+gen:open:22/hp10/alt/zG/r1,N4_GBHd,B,A,N4_GBHd,"turn limit: damage 0 vs 10",101,0,10,10,10,0,0,0,0,10,9,13,10,114,150,0,1,15,14,0,0
+gen:open:22/hp10/alt/zG/r1,N5_GFB,A,A,N5_GFB,"turret destroyed by A3",44,60,180,10,0,1,0,0,0,9,0,10,0,36,31,0,1,15,22,0,0
+gen:open:22/hp10/alt/zG/r1,N6_SFB,basefix,A,N6_SFB,"tanks destroyed (B lost 2)",21,0,210,10,10,2,0,0,6,5,0,6,0,17,0,0,3,22,56,0,0
+gen:open:22/hp10/alt/zG/r1,N6_SFB,D,B,D,"turret destroyed by B3",94,110,70,0,10,0,1,0,0,3,6,4,6,65,53,0,1,30,19,0,0
+gen:open:22/hp100/alt/zG/r3,basefix,N6_SFB,B,N6_SFB,"tanks destroyed (A lost 2)",21,210,0,100,100,0,2,6,0,0,5,0,6,0,17,3,0,8,20,0,0
+gen:open:22/hp100/alt/zG/r3,A,N6_SFB,A,A,"turret destroyed by A1",23,180,190,100,0,0,1,0,0,0,5,0,6,1,17,1,0,15,13,0,0
+gen:open:22/hp100/alt/zG/r3,B,N6_SFB,A,B,"turret destroyed by A1",26,10,100,100,0,0,0,0,0,9,3,9,4,24,18,1,0,16,11,0,0
+gen:open:22/hp100/alt/zG/r3,C,N6_SFB,A,C,"turret destroyed by A1",24,10,100,100,0,0,0,0,0,10,3,12,3,10,16,1,0,9,22,0,0
+gen:open:22/hp100/alt/zG/r3,D,N6_SFB,B,N6_SFB,"turn limit: damage 10 vs 0",101,10,0,100,100,0,0,0,0,6,6,8,6,145,156,1,0,34,21,0,0
+gen:open:22/hp100/alt/zG/r3,N2_SBHd,C,A,N2_SBHd,"turn limit: damage 0 vs 10",101,0,10,100,100,0,0,0,0,7,10,9,10,169,141,0,1,29,16,0,0
+gen:open:22/hp100/alt/zG/r3,N4_GBHd,B,A,N4_GBHd,"turn limit: damage 0 vs 10",101,0,10,100,100,0,0,0,0,10,9,11,9,115,150,0,1,38,24,0,0
+gen:open:22/hp100/alt/zG/r3,N5_GFB,A,A,N5_GFB,"turret destroyed by A3",45,60,270,100,0,1,0,0,0,9,0,10,0,37,32,0,1,14,9,0,0
+gen:open:22/hp100/alt/zG/r3,N6_SFB,basefix,A,N6_SFB,"tanks destroyed (B lost 2)",21,0,210,100,100,2,0,0,6,5,0,6,0,16,0,0,3,32,9,0,0
+gen:open:22/hp100/alt/zG/r3,N6_SFB,D,B,D,"turn limit: damage 100 vs 70",101,100,70,100,100,0,1,0,0,3,6,4,6,73,66,0,1,38,69,0,0
+gen:mixed:23/hp10/alt/zG/r1,basefix,N6_SFB,A,basefix,"turret destroyed by A1",28,90,10,10,0,0,0,20,0,0,11,0,12,0,36,6,0,3,53,0,0
+gen:mixed:23/hp10/alt/zG/r1,A,N6_SFB,A,A,"turret destroyed by A1",20,0,10,10,0,0,0,0,0,0,5,0,7,0,25,0,0,22,22,0,0
+gen:mixed:23/hp10/alt/zG/r1,B,N6_SFB,A,B,"turret destroyed by A1",34,0,10,10,0,0,0,0,0,7,8,7,10,35,23,0,0,22,31,0,0
+gen:mixed:23/hp10/alt/zG/r1,C,N6_SFB,A,C,"turret destroyed by A1",39,0,10,10,0,0,0,0,0,8,8,9,9,38,35,0,0,31,33,0,0
+gen:mixed:23/hp10/alt/zG/r1,D,N6_SFB,A,D,"turn limit: distance 32 vs 64",101,0,0,10,10,0,0,0,0,6,8,7,10,160,166,0,0,57,20,0,0
+gen:mixed:23/hp10/alt/zG/r1,N2_SBHd,C,A,N2_SBHd,"turn limit: distance 32 vs 63",101,0,0,10,10,0,0,0,0,7,8,7,10,158,166,0,0,23,29,0,0
+gen:mixed:23/hp10/alt/zG/r1,N4_GBHd,B,B,B,"turret destroyed by B1",37,10,0,0,10,0,0,0,0,8,7,8,9,10,40,0,0,43,28,0,0
+gen:mixed:23/hp10/alt/zG/r1,N5_GFB,A,B,A,"turret destroyed by B1",94,130,100,0,10,0,0,0,0,8,0,10,0,161,150,0,0,18,41,0,0
+gen:mixed:23/hp10/alt/zG/r1,N6_SFB,basefix,B,basefix,"turret destroyed by B1",28,10,90,0,10,0,0,0,20,11,0,13,0,36,0,0,6,13,7,0,0
+gen:mixed:23/hp10/alt/zG/r1,N6_SFB,D,B,D,"turn limit: distance 69 vs 30",101,0,0,10,10,0,0,0,0,8,6,9,7,159,159,0,0,38,45,0,0
+gen:mixed:23/hp100/alt/zG/r3,basefix,N6_SFB,A,basefix,"turret destroyed by A1",31,90,100,100,0,0,0,22,0,0,11,0,13,0,42,6,0,6,20,0,0
+gen:mixed:23/hp100/alt/zG/r3,A,N6_SFB,A,A,"turret destroyed by A1",23,0,100,100,0,0,0,0,0,0,7,0,8,6,30,0,0,9,19,0,0
+gen:mixed:23/hp100/alt/zG/r3,B,N6_SFB,A,B,"turret destroyed by A1",36,0,100,100,0,0,0,0,0,7,8,8,8,38,22,0,0,15,31,0,0
+gen:mixed:23/hp100/alt/zG/r3,C,N6_SFB,A,C,"turret destroyed by A1",38,0,100,100,0,0,0,0,0,8,8,9,8,34,33,0,0,19,20,0,0
+gen:mixed:23/hp100/alt/zG/r3,D,N6_SFB,A,D,"turn limit: distance 47 vs 51",101,0,0,100,100,0,0,0,0,6,8,8,8,169,115,0,0,25,17,0,0
+gen:mixed:23/hp100/alt/zG/r3,N2_SBHd,C,A,N2_SBHd,"turn limit: distance 32 vs 63",101,0,0,100,100,0,0,0,0,7,8,8,10,156,167,0,0,33,19,0,0
+gen:mixed:23/hp100/alt/zG/r3,N4_GBHd,B,B,B,"turret destroyed by B1",36,100,0,0,100,0,0,0,0,10,7,11,7,13,39,0,0,34,17,0,0
+gen:mixed:23/hp100/alt/zG/r3,N5_GFB,A,B,A,"turret destroyed by B1",97,220,130,0,100,1,0,0,0,11,0,12,0,163,153,0,0,34,22,0,0
+gen:mixed:23/hp100/alt/zG/r3,N6_SFB,basefix,B,basefix,"turret destroyed by B1",31,100,90,0,100,0,0,0,22,11,0,14,0,42,0,0,6,21,14,0,0
+gen:mixed:23/hp100/alt/zG/r3,N6_SFB,D,B,D,"turn limit: distance 62 vs 39",101,0,0,100,100,0,0,0,0,8,6,9,6,165,158,0,0,26,54,0,0
+gen:mixed:24/hp10/alt/zG/r0,basefix,N6_SFB,B,N6_SFB,"tanks destroyed (A lost 2)",24,250,10,10,10,0,1,5,0,0,8,0,9,0,15,11,1,7,40,0,0
+gen:mixed:24/hp10/alt/zG/r0,A,N6_SFB,B,N6_SFB,"turret destroyed by B3",40,80,40,0,10,0,0,0,0,0,9,0,10,35,38,0,1,126,28,0,0
+gen:mixed:24/hp10/alt/zG/r0,B,N6_SFB,B,N6_SFB,"turn limit: damage 120 vs 60",101,120,60,10,10,0,0,0,0,4,8,5,8,172,112,2,3,36,36,0,0
+gen:mixed:24/hp10/alt/zG/r0,C,N6_SFB,A,C,"turn limit: damage 10 vs 90",101,10,90,10,10,0,0,0,0,5,5,5,5,111,87,1,9,28,32,0,0
+gen:mixed:24/hp10/alt/zG/r0,D,N6_SFB,A,D,"tanks destroyed (B lost 2)",48,140,200,10,10,2,0,0,0,8,8,8,8,7,35,0,9,20,37,0,0
+gen:mixed:24/hp10/alt/zG/r0,N2_SBHd,C,B,C,"turret destroyed by B3",42,70,140,0,10,1,0,0,0,6,5,6,5,27,34,0,1,28,26,0,0
+gen:mixed:24/hp10/alt/zG/r0,N4_GBHd,B,B,B,"turret destroyed by B3",54,40,120,0,10,1,0,0,0,5,6,5,6,31,40,0,2,32,34,0,0
+gen:mixed:24/hp10/alt/zG/r0,N5_GFB,A,A,N5_GFB,"turret destroyed by A3",46,40,80,10,0,0,0,0,0,9,0,10,0,45,48,1,0,19,28,0,0
+gen:mixed:24/hp10/alt/zG/r0,N6_SFB,basefix,A,N6_SFB,"tanks destroyed (B lost 2)",27,40,250,10,10,2,0,0,18,9,0,9,0,16,0,4,10,12,1,0,0
+gen:mixed:24/hp10/alt/zG/r0,N6_SFB,D,B,D,"turn limit: damage 20 vs 0",101,20,0,10,10,0,0,0,0,8,6,8,6,162,160,2,0,40,35,0,0
+gen:mixed:24/hp100/alt/zG/r2,basefix,N6_SFB,B,N6_SFB,"tanks destroyed (A lost 2)",28,250,40,100,100,0,2,22,0,0,9,0,10,0,17,10,4,26,22,0,0
+gen:mixed:24/hp100/alt/zG/r2,A,N6_SFB,B,N6_SFB,"turret destroyed by B3",41,170,40,0,100,0,0,0,0,0,9,0,10,36,39,0,1,29,57,0,0
+gen:mixed:24/hp100/alt/zG/r2,B,N6_SFB,B,N6_SFB,"turn limit: damage 80 vs 60",101,80,60,100,100,0,0,0,0,4,8,4,9,173,111,1,3,47,28,0,0
+gen:mixed:24/hp100/alt/zG/r2,C,N6_SFB,A,C,"turn limit: damage 10 vs 90",101,10,90,100,100,0,0,0,0,5,5,8,5,110,85,1,9,33,22,0,0
+gen:mixed:24/hp100/alt/zG/r2,D,N6_SFB,A,D,"turn limit: damage 0 vs 20",101,0,20,100,100,0,0,0,0,6,8,10,9,154,162,0,2,36,41,0,0
+gen:mixed:24/hp100/alt/zG/r2,N2_SBHd,C,B,C,"turret destroyed by B3",42,160,170,0,100,1,0,0,0,6,5,9,5,27,32,0,1,29,14,0,0
+gen:mixed:24/hp100/alt/zG/r2,N4_GBHd,B,A,N4_GBHd,"turn limit: damage 0 vs 10",101,0,10,100,100,0,0,0,0,5,0,6,0,68,138,0,1,26,20,0,0
+gen:mixed:24/hp100/alt/zG/r2,N5_GFB,A,A,N5_GFB,"turret destroyed by A3",41,100,200,100,0,1,0,0,0,9,0,11,0,38,22,1,0,30,26,0,0
+gen:mixed:24/hp100/alt/zG/r2,N6_SFB,basefix,A,N6_SFB,"tanks destroyed (B lost 2)",24,10,250,100,100,1,0,0,3,8,0,10,0,15,0,1,11,25,3,0,0
+gen:mixed:24/hp100/alt/zG/r2,N6_SFB,D,A,N6_SFB,"turn limit: damage 30 vs 100",101,30,100,100,100,1,0,0,0,11,2,14,2,154,96,3,0,17,27,0,0
+gen:sand:25/hp10/alt/zG/r0,basefix,N6_SFB,A,basefix,"turret destroyed by A1",19,240,60,10,0,0,0,0,0,0,3,0,4,0,28,24,5,5,15,3,0
+gen:sand:25/hp10/alt/zG/r0,A,N6_SFB,A,A,"turret destroyed by A1",25,150,70,10,0,0,0,0,0,0,3,0,4,3,40,15,6,15,24,0,0
+gen:sand:25/hp10/alt/zG/r0,B,N6_SFB,A,B,"turret destroyed by A1",32,50,60,10,0,0,0,0,0,10,3,11,4,28,55,5,5,18,165,0,0
+gen:sand:25/hp10/alt/zG/r0,C,N6_SFB,A,C,"turret destroyed by A1",30,50,60,10,0,0,0,0,0,8,3,9,4,26,52,5,5,14,16,0,0
+gen:sand:25/hp10/alt/zG/r0,D,N6_SFB,B,N6_SFB,"turn limit: damage 130 vs 50",101,130,50,10,10,0,0,0,0,12,3,13,4,147,193,13,5,19,17,0,0
+gen:sand:25/hp10/alt/zG/r0,N2_SBHd,C,A,N2_SBHd,"turn limit: damage 40 vs 70",101,40,70,10,10,0,0,0,0,4,0,5,0,183,169,4,7,22,25,0,0
+gen:sand:25/hp10/alt/zG/r0,N4_GBHd,B,A,N4_GBHd,"turn limit: damage 40 vs 70",101,40,70,10,10,0,0,0,0,4,0,5,0,183,167,4,7,26,31,0,0
+gen:sand:25/hp10/alt/zG/r0,N5_GFB,A,B,A,"turret destroyed by B1",25,70,150,0,10,0,0,0,0,3,0,4,0,41,3,6,15,18,37,0,0
+gen:sand:25/hp10/alt/zG/r0,N6_SFB,basefix,A,N6_SFB,"tanks destroyed (B lost 2)",25,50,260,10,10,0,0,0,12,3,0,4,0,43,0,5,14,29,3,0,0
+gen:sand:25/hp10/alt/zG/r0,N6_SFB,D,A,N6_SFB,"turn limit: damage 50 vs 130",101,50,130,10,10,0,0,0,0,3,12,4,15,193,146,5,13,19,21,0,0
+gen:sand:25/hp100/alt/zG/r2,basefix,N6_SFB,B,N6_SFB,"tanks destroyed (A lost 2)",25,260,50,100,100,0,0,12,0,0,3,0,4,0,42,14,5,40,14,0,0
+gen:sand:25/hp100/alt/zG/r2,A,N6_SFB,A,A,"turret destroyed by A1",29,190,250,100,0,1,0,0,0,0,3,0,4,8,41,16,12,27,19,0,0
+gen:sand:25/hp100/alt/zG/r2,B,N6_SFB,A,B,"turret destroyed by A1",33,50,150,100,0,0,0,0,0,11,3,12,4,29,58,5,5,15,40,0,0
+gen:sand:25/hp100/alt/zG/r2,C,N6_SFB,A,C,"turret destroyed by A1",31,60,150,100,0,0,0,0,0,8,3,9,4,27,52,6,5,25,42,0,0
+gen:sand:25/hp100/alt/zG/r2,D,N6_SFB,B,N6_SFB,"turn limit: damage 130 vs 50",101,130,50,100,100,0,0,0,0,12,3,13,4,147,193,13,5,34,22,0,0
+gen:sand:25/hp100/alt/zG/r2,N2_SBHd,C,A,N2_SBHd,"turn limit: damage 40 vs 70",101,40,70,100,100,0,0,0,0,4,0,5,0,182,171,4,7,33,25,0,0
+gen:sand:25/hp100/alt/zG/r2,N4_GBHd,B,A,N4_GBHd,"turn limit: damage 40 vs 70",101,40,70,100,100,0,0,0,0,4,0,5,0,182,169,4,7,27,55,0,0
+gen:sand:25/hp100/alt/zG/r2,N5_GFB,A,B,A,"turret destroyed by B1",28,200,160,0,100,0,0,0,0,3,0,4,0,42,7,10,16,21,27,0,0
+gen:sand:25/hp100/alt/zG/r2,N6_SFB,basefix,B,basefix,"turret destroyed by B1",22,150,260,0,100,0,0,0,2,3,0,4,0,35,0,5,26,14,3,0,3
+gen:sand:25/hp100/alt/zG/r2,N6_SFB,D,A,N6_SFB,"turn limit: damage 50 vs 130",101,50,130,100,100,0,0,0,0,3,12,4,13,193,147,5,13,24,18,0,0
+gen:forest:26/hp10/alt/zG/r0,basefix,N6_SFB,B,N6_SFB,"tanks destroyed (A lost 2)",17,200,0,10,10,0,2,1,0,0,3,0,3,0,7,2,0,8,37,0,0
+gen:forest:26/hp10/alt/zG/r0,A,N6_SFB,B,N6_SFB,"turret destroyed by B3",42,180,90,0,10,0,1,0,0,0,6,0,6,31,26,0,0,32,14,0,0
+gen:forest:26/hp10/alt/zG/r0,B,N6_SFB,B,N6_SFB,"turn limit: distance 58 vs 42",101,0,0,10,10,0,0,0,0,8,7,8,7,163,139,0,0,21,40,0,0
+gen:forest:26/hp10/alt/zG/r0,C,N6_SFB,B,N6_SFB,"tanks destroyed (A lost 2)",60,200,0,10,10,0,2,0,0,0,3,0,3,58,56,0,0,18,26,0,0
+gen:forest:26/hp10/alt/zG/r0,D,N6_SFB,A,D,"tanks destroyed (B lost 2)",86,200,200,10,10,2,1,0,0,4,3,4,3,27,66,0,2,18,36,0,0
+gen:forest:26/hp10/alt/zG/r0,N2_SBHd,C,B,C,"turret destroyed by B2",35,80,30,0,10,0,0,0,0,5,5,6,5,21,24,0,0,20,42,0,0
+gen:forest:26/hp10/alt/zG/r0,N4_GBHd,B,B,B,"turn limit: damage 70 vs 0",101,70,0,10,10,0,0,0,0,7,6,8,6,111,121,0,0,32,26,0,0
+gen:forest:26/hp10/alt/zG/r0,N5_GFB,A,A,N5_GFB,"turn limit: damage 60 vs 100",101,60,100,10,10,1,0,0,0,3,0,3,0,168,120,0,0,127,30,0,0
+gen:forest:26/hp10/alt/zG/r0,N6_SFB,basefix,A,N6_SFB,"tanks destroyed (B lost 2)",21,0,220,10,10,1,0,0,13,5,0,5,0,10,0,0,6,21,46,0,0
+gen:forest:26/hp10/alt/zG/r0,N6_SFB,D,B,D,"turn limit: damage 100 vs 70",101,100,70,10,10,0,1,0,0,4,7,4,7,104,181,0,0,36,19,0,0
+gen:forest:26/hp100/alt/zG/r2,basefix,N6_SFB,B,N6_SFB,"tanks destroyed (A lost 2)",21,220,0,100,100,0,1,13,0,0,5,0,6,0,10,6,0,5,26,0,0
+gen:forest:26/hp100/alt/zG/r2,A,N6_SFB,B,N6_SFB,"turret destroyed by B3",54,270,120,0,100,0,1,0,0,0,5,0,6,35,38,0,0,18,30,0,0
+gen:forest:26/hp100/alt/zG/r2,B,N6_SFB,B,N6_SFB,"turn limit: distance 51 vs 48",101,0,0,100,100,0,0,0,0,8,7,9,10,158,138,0,0,29,23,0,0
+gen:forest:26/hp100/alt/zG/r2,C,N6_SFB,A,C,"turret destroyed by A2",40,160,160,100,0,0,1,0,0,2,3,2,4,44,33,0,0,8,8,0,0
+gen:forest:26/hp100/alt/zG/r2,D,N6_SFB,B,N6_SFB,"turn limit: distance 57 vs 39",101,0,0,100,100,0,0,0,0,4,3,6,4,159,163,0,0,10,16,0,0
+gen:forest:26/hp100/alt/zG/r2,N2_SBHd,C,B,C,"turn limit: distance 53 vs 37",101,0,0,100,100,0,0,0,0,5,4,6,6,110,111,0,0,11,21,0,0
+gen:forest:26/hp100/alt/zG/r2,N4_GBHd,B,B,B,"turn limit: damage 100 vs 60",101,100,60,30,100,0,0,0,0,7,6,8,6,105,105,0,0,13,18,0,0
+gen:forest:26/hp100/alt/zG/r2,N5_GFB,A,A,N5_GFB,"tanks destroyed (B lost 2)",24,120,200,100,100,2,0,0,0,4,0,5,0,16,12,0,0,5,5,0,0
+gen:forest:26/hp100/alt/zG/r2,N6_SFB,basefix,A,N6_SFB,"tanks destroyed (B lost 2)",19,0,220,100,100,2,0,0,1,3,0,4,0,9,0,0,4,7,1,0,0
+gen:forest:26/hp100/alt/zG/r2,N6_SFB,D,A,N6_SFB,"turn limit: distance 44 vs 51",101,0,0,100,100,0,0,0,0,3,4,4,5,162,159,0,0,6,9,0,0

@@ -1,0 +1,18 @@
+# 매뉴얼 p.22 팀전 스크린샷 전사본 (16x16, 180도 점대칭)
+# H/X: 팀A/팀B 포탑, A1~A3/B1~B3: 팀별 탱크 시작 위치, Z: 포탑 주변 색칠 구역(기호 미상)
+R R R G G G F G G F G G G Z Z X
+R G G G G G G G G G G G G Z Z Z
+R G G G G G G R R G G G G Z Z Z
+G G G G G G R R R R G G G G G G
+G G G G G W G G G G W G G G G B1
+A3 G T T W W T G G T W W T T G G
+A2 G T G G G G G G G G G G T G G
+G G T T G R G W W G R G T T G G
+G G T T G R G W W G R G T T G G
+G G T G G G G G G G G G G T G B2
+G G T T W W T G G T W W T T G B3
+A1 G G G G W G G G G W G G G G G
+G G G G G G R R R R G G G G G G
+Z Z Z G G G G R R G G G G G G R
+Z Z Z G G G G G G G G G G G G R
+H Z Z G G G F G G F G G G R R R
